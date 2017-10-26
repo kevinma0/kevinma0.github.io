@@ -1,0 +1,48 @@
+---
+---
+@charset "utf-8";
+
+@import 'vendor/normalize';
+
+@import 'base/root';
+
+@import 'tachyons/tachyons';
+
+
+.project-body {
+  p, ol, ul {
+    @extend .lh-copy, .f4, .baskerville;
+  }
+  h1 {
+    @extend .fw6, .f4, .helvetica;
+  }
+  img {
+    @extend .mt5;
+  }
+  a {
+    @extend .link, .underline, .dim, .f4, .lh-copy, .black, .baskerville;
+  }
+  .button {
+   @extend .f7, .f6-ns, .fw5, .ttu, .tracked, .link, .dim, .ba, .bw1, .ph4, .pv3, .mv2, .dib, .black, .helvetica;
+  }
+  video {
+   @extend .mt5;
+  }
+}
+
+.mhn3 {
+  margin-left: -1rem;
+  margin-right: -1rem;
+}
+
+@media (--breakpoint-large){
+.mhn3 {
+  margin-left: 0;
+  margin-right: 0;
+}
+}
+
+
+.b--true-yellow {
+  border-color: #fcf113
+}

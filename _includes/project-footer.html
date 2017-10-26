@@ -1,0 +1,24 @@
+
+<article class="ph4 ph5-ns">
+  <div class="bt bw2 pv4 cf">
+  <section class="fn fl-ns w-100 measure-narrow-ns">
+  <h1 class="f3">Case Studies</h1>
+  {% for project in site.project %}{% if project.case-study %}
+  <a class="link gray dim hover" href="{{ project.url }}"><p class="f4 lh-solid">{{ project.title }}</p></a>
+  {% endif %}{% endfor %}
+  </section>
+  <section class="fn fl-ns w-100 measure-narrow-ns">
+    <h1 class="f3">Other Projects</h1>
+  {% for project in site.project %}{% if project.case-study == false %}
+  <a class="link gray dim hover" href="{{ project.url }}"><p class="f4 lh-solid">{{ project.title }}</p></a>
+  {% endif %}{% endfor %}
+  </section>
+  </div>
+</article>
+
+<!-- <div class="fl-ns fn">
+  <a href="{{ page.previous.url }}">Prev</a>
+</div>
+<div class="fr-ns fn">
+  <a href="{{ page.next.url }}">Next</a>
+</div> -->

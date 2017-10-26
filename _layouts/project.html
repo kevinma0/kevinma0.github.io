@@ -1,0 +1,22 @@
+---
+layout: default
+---
+{% if page.banner %}
+<div class="ph5-ns ph4">
+<div class=" vh-75-ns vh-50 cover bg-center" style="background-image: url(/assets/img/{{page.banner}});"></div>
+</div>
+{% endif %}
+
+  <div class="measure f3 center mb5 ph4 ph5-ns">
+    <div class="pt5 pb3">
+      <h1 class="fw6 f1 fl w-100 mt2 pt4 mb3 helvetica lh-title bt bw2">{{ page.title }}</h1>
+      <p class="f3 fw4 lh-copy measure helvetica gray">
+        {{ page.introduction }}
+      </p>
+    </div>
+    <div class="project-body">
+      {{ content }}
+    </div>
+  </div>
+
+{% include project-footer.html %}

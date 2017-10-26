@@ -8,25 +8,10 @@ permalink: /about/
 </div> -->
 
 
-<article class="pa4 pa5-ns">
-<header class="cf mv4-ns w-100">
-  <h1 class="f-headline-l f1-m fw5 f2 lh-title measure avenir black mb0">Woah!</h1>
-  <!-- <h1 class="f-subheadline-l f1-m f2 lh-title measure adelas near-black">Woah!</h1> -->
-</header>
-<div class="w-100 f4 baskerville">
-  <p class="measure lh-copy">
-  It's your boy Kevin.
-  </p>
-  <p class="measure lh-copy">
-  I recently graduated from Cornell University’s Information Science program. Previously, I was a web developer intern at IBM, and a design intern at HTC.
-  </p>
-  <p class="measure lh-copy">
-  I enjoy the process why which things come together. It's a harmony.
-  </p>
-  <p class="measure lh-copy">
-  When not hacking away at something, you’ll find me looking for a new bike path or throwing a frisbee around. <a href="http://messybin.tumblr.com" class="link gray dim">Illustration</a> is my side gig!
-  </p>
-</div>
+<article class="ph4 ph5-ns">
+  <header class="cf mv4-ns ">
+      <p class="f4 fw4 lh-copy measure helvetica gray">A long time ago? </p>
+  </header>
 </article>
 
 

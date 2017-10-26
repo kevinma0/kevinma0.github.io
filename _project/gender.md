@@ -22,4 +22,4 @@ We were mainly interested in:
 1. The gender skew of movies over time.
 2. Whether or not the films' key creative roles had an effect on the gender of the movie.
 
-<a class="button" href="/viz/index.html">View Visualization</a>
+<a class="button" href="/viz/">View Visualization</a>

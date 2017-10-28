@@ -11,7 +11,7 @@
 
 .project-body {
   p, ol, ul {
-    @extend .lh-copy, .f4, .baskerville;
+    @extend .lh-copy, .f4, .fw1, .athelas;
   }
   h1 {
     @extend .fw6, .f4, .helvetica;
@@ -20,7 +20,7 @@
     @extend .mt5;
   }
   a {
-    @extend .link, .underline, .dim, .f4, .lh-copy, .black, .baskerville;
+    @extend .link, .underline, .dim, .f4, .lh-copy, .black, .athelas;
   }
   .button {
    @extend .f7, .f6-ns, .fw5, .ttu, .tracked, .link, .dim, .ba, .bw1, .ph4, .pv3, .mv2, .dib, .black, .helvetica;
@@ -30,19 +30,16 @@
   }
 }
 
-.mhn3 {
-  margin-left: -1rem;
-  margin-right: -1rem;
-}
-
-@media (--breakpoint-large){
-.mhn3 {
-  margin-left: 0;
-  margin-right: 0;
-}
+.page-body {
+  p {
+    @extend .f4, .fw4, .lh-copy, .measure, .helvetica, .gray;
+  }
+  a {
+    @extend .link, .fw6, .gray, .dim;
+  }
 }
 
 
 .b--true-yellow {
-  border-color: #fcf113
+  border-color: white;
 }

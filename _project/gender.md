@@ -15,11 +15,11 @@ Kevin Ma, Hannah Ajmani, Kimberly Brown
 
 Hollywood is pretty much known for rampant sexism in its movies. Without data however, it's all rhetoric. We wanted to get an objective picture of what the gender gap really looked like.
 
-We chose words of dialogue spoken by either gender as a metric of a film's gender learnings (inspired largely by the <a href="http://bechdeltest.com/">Bechdel test</a>). Data was collected on 1000 of IMDB's top movies of the past 10 years with Python's Beautiful Soup library. I worked on programming the visualization with D3.js, and graphic design.
+We chose words of dialogue spoken by either gender as a metric of a film's gender learnings (inspired largely by the <a href="http://bechdeltest.com/">Bechdel test</a>). Data was collected on 1000 of IMDB's top movies of the past 10 years with Python's Beautiful Soup library. I worked on programming and graphic design.
 
 We were mainly interested in:
 
 1. The gender skew of movies over time.
 2. Whether or not the films' key creative roles had an effect on the gender of the movie.
 
-<a class="button" href="/viz/">View Visualization</a>
+<a class="button" href="{{ site.url }}/viz/">View Visualization</a>

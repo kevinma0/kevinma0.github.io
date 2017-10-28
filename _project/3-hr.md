@@ -1,5 +1,6 @@
 ---
 layout: project
+permalink: /hr
 title: "Cornell Research HR Portal"
 type: "UX"
 description: "I designed and helped build a new website for a Human Resources division at Cornell University."

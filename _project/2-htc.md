@@ -1,5 +1,6 @@
 ---
 layout: project
+permalink: /emotar
 title: "Emotar - A Photo App"
 type: "UX"
 description: "As an intern at HTC Research, I helped define the core features of a photo-taking app, Emotar."

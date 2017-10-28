@@ -1,6 +1,9 @@
 
 // Converted Variables
 
+$spacing-negative-medium: -1rem !default;
+$spacing-negative-small: -.5rem !default;
+$spacing-negative-extra-small: -.25rem !default;
 $spacing-none: 0 !default;
 $spacing-extra-small: .25rem !default;
 $spacing-small: .5rem !default;
@@ -248,6 +251,21 @@ $spacing-extra-extra-extra-large: 16rem !default;
   margin-bottom: $spacing-extra-extra-extra-large;
 }
 
+
+.mhn3   {
+  margin-left: $spacing-negative-medium;
+  margin-right: $spacing-negative-medium;
+}
+
+.mhn2 {
+  margin-left: $spacing-negative-small;
+  margin-right: $spacing-negative-small;
+}
+
+.mhn1   {
+  margin-left: $spacing-negative-extra-small;
+  margin-right: $spacing-negative-extra-small;
+}
 .mh0   {
   margin-left: $spacing-none;
   margin-right: $spacing-none;
@@ -469,7 +487,18 @@ $spacing-extra-extra-extra-large: 16rem !default;
     margin-top: $spacing-extra-extra-extra-large;
     margin-bottom: $spacing-extra-extra-extra-large;
   }
-
+  .mhn3-ns   {
+    margin-left: $spacing-negative-medium;
+    margin-right: $spacing-negative-medium;
+  }
+  .mhn2-ns {
+    margin-left: $spacing-negative-small;
+    margin-right: $spacing-negative-small;
+  }
+  .mhn1-ns   {
+    margin-left: $spacing-negative-extra-small;
+    margin-right: $spacing-negative-extra-small;
+  }
   .mh0-ns   {
     margin-left: $spacing-none;
     margin-right: $spacing-none;
@@ -694,7 +723,18 @@ $spacing-extra-extra-extra-large: 16rem !default;
     margin-top: $spacing-extra-extra-extra-large;
     margin-bottom: $spacing-extra-extra-extra-large;
   }
-
+  .mhn3-m   {
+    margin-left: $spacing-negative-medium;
+    margin-right: $spacing-negative-medium;
+  }
+  .mhn2-m {
+    margin-left: $spacing-negative-small;
+    margin-right: $spacing-negative-small;
+  }
+  .mhn1-m   {
+    margin-left: $spacing-negative-extra-small;
+    margin-right: $spacing-negative-extra-small;
+  }
   .mh0-m {
     margin-left: $spacing-none;
     margin-right: $spacing-none;
@@ -920,6 +960,18 @@ $spacing-extra-extra-extra-large: 16rem !default;
     margin-bottom: $spacing-extra-extra-extra-large;
   }
 
+  .mhn3-l   {
+    margin-left: $spacing-negative-medium;
+    margin-right: $spacing-negative-medium;
+  }
+  .mhn2-l {
+    margin-left: $spacing-negative-small;
+    margin-right: $spacing-negative-small;
+  }
+  .mhn1-l   {
+    margin-left: $spacing-negative-extra-small;
+    margin-right: $spacing-negative-extra-small;
+  }
   .mh0-l {
     margin-left: $spacing-none;
     margin-right: $spacing-none;
@@ -953,4 +1005,3 @@ $spacing-extra-extra-extra-large: 16rem !default;
     margin-right: $spacing-extra-extra-extra-large;
   }
 }
-

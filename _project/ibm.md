@@ -8,16 +8,28 @@ banner: "banner-ibm.jpg"
 case-study: false
 ---
 
-I had the privilege of working as a Software Design Intern at IBM Design before my senior year of school. As the work was for yet to be released products, I am unable to discuss all of the things I got to work on.
+I worked as a Software Design Intern at IBM before my senior year of school. The work was for yet to be released, so I will omit discussion.
 
-At a high level, I worked with a team of interns and designers to built a product from the ground up to ship. The process involved meetings with stakeholders, interviewing IBM clients, and cross collaboration with developers and project managers. It was the first time that I had worked on a project that had so many different stakeholders; I learned how important it is to keep everybody in the loop.
+At a high level, I worked with a team of interns and designers to build a product from the ground up. The process involved meetings with both stakeholders and clients.
 
-# Critiquing Design Systems
-The internship got my thinking about the way design systems are used, or more importantly, not used.
+# On Design Systems
+The internship got me thinking about design systems.
 
-Design systems became quite trendy in 2016. They refers to the philosophy which encourages designers to define a set of instructions that can be used to design multiple products.
+Design systems became quite trendy in 2016. In the simplest sense a design system refers to a set of instructions which can be used to design multiple products.
 
-IBM's design system is the [IBM Design Language](https://www.ibm.com/design/language/). The benefits of working with the language quickly became apparent as I began to work with it. By adhering to strict rules, I could save time that otherwise may have went towards repeated styling of the same elements. The language also ensured consistency throughout the products that were coming from different product teams.
+IBM's design system is the eponymous [IBM Design Language](https://www.ibm.com/design/language/). I found this design system enjoyable to work with. By adhering to the rules, I saved time that otherwise would have went towards repeated styling of the same elements. The language also ensured consistency throughout the products that were coming from different product teams.
+
+Yet, I kept on running into corner-cases, in which sticking to the rules would have confounded the user.
+
+The choice was unattractive either way:
+
+  1. Deviate from the system with an ad-hoc design. The gatekeepers of design purity will cry foul, users will be grateful.
+  2. Keep consistent. The experience is unified. Hopefully the result won't be too problematic.
+
+We love to systemize things. We don't want to confuse our users by coming up with something different for every problem. Dictating a design system at the start however, can reveal local gaps that the system doesn't cover.
+
+I think the solution yet-to-be-seen, and remains rather nebulous. I saw a peek under the hood of what designers were doing on the Design Language team and it's fascinating. What's required is a gradual shift from aesthetic components to behavioral ones.
+
 
 
 

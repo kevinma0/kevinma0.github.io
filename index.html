@@ -3,17 +3,16 @@ layout: default
 title: Kevin Ma
 ---
 
-<article class="ph4 ph5-ns">
+<article class="pa4 pa5-ns">
   <header class="cf mv4-ns ">
-    <h1 class="f3 fw6 lh-title measure helvetica black">Hi, I'm Kevin - a designer, recent Cornell University grad, and tree climbing enthusiast.</h1>
+    <h1 class="f3 fw6 lh-title measure helvetica black">Hi, I'm Kevin - a designer, recent Cornell grad, and old-timey radio enthusiast.</h1>
 
       <p class="f4 fw4 lh-copy measure helvetica gray">I've designed for a couple of teams -
-         HTC, IBM Design and a few research labs. At school, I studied Information Science
-         with a focus in Human Computer Interaction, minoring in Architecture. </p>
+         HTC, IBM, a few research labs. At school, I studied Information Science
+         with a focus on Human Computer Interaction.</p>
       <p class="f4 fw4 lh-copy measure helvetica gray">
-        After a brief stint <a href="/hitchhiking" class="link fw6 gray dim">hitchhiking across the US</a>,
-        I'm getting back to work. I'm hoping to build fantastic things
-        with fantastic people in the product design space.
+        After graduation I <a href="/hitchhiking" class="link fw6 gray dim">hitchhiked across the US</a>.
+        Now I'm excited to get back to making things. Working on something interesting?
         <a href="mailto:kym5@cornell.edu" class="link fw6 gray dim">Feel free to reach out and let's chat!</a></p>
         <div class="pt2">
           <a class="link dim gray dib h1 w1" href="https://linkedin.com/kevinyma title="LinkedIn">
@@ -45,7 +44,7 @@ title: Kevin Ma
     <p class="f4-ns fw4 lh-copy helvetica gray">{{ project.description }}</p>
 
     </div>
-    <div class="w-100 w-50-l fn fl-ns bb bw3 b--true-yellow">
+    <div class="w-100 w-50-l fn fl-ns">
       <a href="{{ project.url }}" class="w-100 fl border-box overflow-hidden">
       <div class="cover grow aspect-ratio aspect-ratio--16x9" style="background:black url(/assets/img/{{project.img}}) center;"></div>
       </a>
@@ -57,13 +56,13 @@ title: Kevin Ma
   <h1 class="w-100 f3-ns f4 fw6 helvetica lh-title pt4">Other Projects</h1>
   <p class="w2 bt bw2"></p>
 
-  <div class="pb5 pt3 cf mhn3">
+  <div class="pb5 pt3 cf mhn3-l mhn2-m">
   {% for project in site.project %}{% if project.case-study == false %}
-    <section class="w-100 fl-ns w-third-l pl3-l pr3-l">
-      <a href="{{ project.url }}" class="w-100 fl overflow-hidden border-box bb bw3 b--true-yellow">
+    <section class="w-100 fl-ns w-third-ns pl3-l pr3-l pl2-m pr2-m">
+      <a href="{{ project.url }}" class="w-100 fl overflow-hidden border-box">
         <div class="cover grow pv5 pv6-m pv6-l" style="background:black url(/assets/img/{{project.img}}) center;"></div>
       </a>
-      <p class="fn fl-l w-100 f7 f6-ns fw5 ttu tracked black-30 helvetica lh-copy pb2-ns pt3">{{project.type}}</p>
+      <p class="w-100 fl f7 f6-ns fw5 ttu tracked black-30 helvetica lh-copy pb2-ns pt3">{{project.type}}</p>
       <a href="{{ project.url }}" class="link black dim"><h1 class="fn fl-l w-100 f3-ns f4 fw6 helvetica lh-title mt0">{{project.title}}</h1></a>
     </section>
     {% endif %}{% endfor %}

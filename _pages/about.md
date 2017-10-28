@@ -1,18 +1,21 @@
 ---
-layout: default
+layout: page
 title: About
 permalink: /about/
+header: "A little more about me"
+img: "me.jpg"
 ---
 <!-- <div class="ph5-ns ph4">
 <canvas class="vh-75" id="needles" style="background:#ea5a41"></div>
 </div> -->
 
+I grew up a combination of snowy Michigan and smoggy Beijing, in that order. Growing up, I loved [drawing](http://messybin.tumblr.com) and computers.
 
-<article class="ph4 ph5-ns">
-  <header class="cf mv4-ns ">
-      <p class="f4 fw4 lh-copy measure helvetica gray">A long time ago? </p>
-  </header>
-</article>
+To me, design is prodding, poking, molding, and  otherwise mashing abstractions into tangible things.
+
+I think product design is emerging as its own discipline, distinct from interface design and product management. There's a lot of horizon to explore.
+
+It's quite exciting.
 
 
 <script type="text/javascript" src="/assets/js/paper-full.js"></script>

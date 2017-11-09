@@ -1,22 +1,19 @@
 ---
-layout: page
+layout: about
 title: About
 permalink: /about/
-header: "A little more about me"
+header: "A little more"
 img: "me.jpg"
 ---
 <!-- <div class="ph5-ns ph4">
 <canvas class="vh-75" id="needles" style="background:#ea5a41"></div>
 </div> -->
 
-I grew up a combination of snowy Michigan and smoggy Beijing, in that order. Growing up, I loved [drawing](http://messybin.tumblr.com) and computers.
+I grew up a combination of snowy Michigan and smoggy Beijing, in that order.
 
-To me, design is prodding, poking, molding, and  otherwise mashing abstractions into tangible things.
+Design is hard to describe, especially when you're describing it to different people. I like to think of it as prodding, poking, and marrying abstractions into tangible things. I tell my mom I work on stuff like the "swipe right to unlock" on iPhones. It's too bad I won't be able to use that one anymore.
 
-I think product design is emerging as its own discipline, distinct from interface design and product management. There's a lot of horizon to explore.
-
-It's quite exciting.
-
+[Illustration](/illo) is my first love.
 
 <script type="text/javascript" src="/assets/js/paper-full.js"></script>
 <script type="text/paperscript" canvas="needles">

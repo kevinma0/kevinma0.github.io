@@ -8,22 +8,36 @@
 
 @import 'tachyons/tachyons';
 
+.serif {
+  font-family: "Source Serif Pro";
+}
+
+.font-primary {
+    @extend .avenir;
+}
+
+.font-body {
+  @extend .baskerville;
+}
 
 .project-body {
   p, ol, ul {
-    @extend .lh-copy, .f4, .fw1, .athelas;
+    @extend .lh-copy, .f4, .fw1, .font-body;
+  }
+  li {
+    @extend .pb1;
   }
   h1 {
-    @extend .fw6, .f4, .helvetica;
+    @extend .pt3, .fw6, .f3, .font-primary;
   }
   img {
     @extend .mt5;
   }
   a {
-    @extend .link, .underline, .dim, .f4, .lh-copy, .black, .athelas;
+    @extend .link, .underline, .dim, .lh-copy, .black, .font-body;
   }
   .button {
-   @extend .f7, .f6-ns, .fw5, .ttu, .tracked, .link, .dim, .ba, .bw1, .ph4, .pv3, .mv2, .dib, .black, .helvetica;
+   @extend .f7, .f6-ns, .fw5, .ttu, .tracked, .link, .dim, .ba, .bw1, .ph4, .pv3, .mv2, .dib, .black, .font-primary;
   }
   video {
    @extend .mt5;
@@ -32,10 +46,10 @@
 
 .page-body {
   p {
-    @extend .f4, .fw4, .lh-copy, .measure, .helvetica, .gray;
+    @extend .f4, .fw4, .lh-copy, .measure, .font-body;
   }
   a {
-    @extend .link, .fw6, .gray, .dim;
+    @extend .link, .dim, .black, .underline;
   }
 }
 

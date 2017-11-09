@@ -3,52 +3,30 @@ layout: project
 title: "BOX! – A Puzzle Platformer"
 type: "Game Design"
 description: "."
-img: "thumb-box.jpg"
+img: "banner-box.jpg"
 banner: "banner-box.jpg"
 case-study: false
 team: "Renchu Song, Natalie Diebold, Sam Chen, Jeremy Cytryn, "
-challenge: "Create a compelling spatial orientation puzzle game with a carefully calibrated learning curve."
-introduction: "Navigate from face to face of a cube in this mind-twisting puzzler."
+introduction: "A video game about a 2D guy in a 3D world. Escape the cube in this mind-twisting puzzler!"
 ---
 
 # Team
 
-Jeremy Cytryn, Natalie Diebold, Will Peck and Sam Chen
+Kevin Ma, [Jeremy Cytryn](www.jeremycytryn.com/), Natalie Diebold, Will Peck and [Renchu Song](http://renchusong.github.io/portfolio/)
 
 # Background
 
- We built a puzzle game over the course of a semester for the class Analytics-based Game Design. We would release a version of the game every month, and iterate based upon collected analytics and user feedback. I was responsible for level, experience, and visual design.
+We built a puzzle game over the course of a semester for the class Analytics-based Game Design. Our process: we'd release a version of the game every month, collect a ton of data and user feedback, and then iterate. I was responsible for level, experience, and visual design.
 
- Along the way, we ran into a number of challenges, both design and technical. One of the more difficult design problems was teaching the player how to play the game. Playing the game well required not only understanding of controls, but how to manipulate the 3D world. We experimented with a number of level-design techniques to create a challenging, but manageable learning curve.
+Flixel, the library we used for programming, has no 3D capabilities. This meant making the game was every much a design challenge as a technical one. I was largely occupied by the problem of teaching—not only teaching game controls, but also the larger concept of navigating across a cube.
+
+# Outcome
+A fun game with a challenging, but carefully calibrated learning curve. The game garnered over 100,000 players across a few flash game websites, and was eventually reviewed by games aggregator <a href="https://jayisgames.com/review/box.php">Jay is Games</a>.
 
  <a class="button" href="http://www.kongregate.com/games/casiogre/box">Play Game</a>
 
-
-
-![alt Screenshot of BOX!](/assets/img/box/finalscreenshot.png)
-![alt Screenshot of BOX!](/assets/img/box/screenshot1.png)
-
-
-<!--
-
-<div>
-        <h1 class="fw6 f4 helvetica">Team</h1>
-
-        <p class="lh-copy measure f4 f4-ns baskerville">
-           Jeremy Cytryn, Natalie Diebold, Will Peck and Sam Chen
-        </p>
-
-        <h1 class="fw6 f4 helvetica">Background</h1>
-        <p class="">
-           We built a puzzle game over the course of a semester for the class Analytics-based Game Design. We would release a version of the game every month, and iterate based upon collected analytics and user feedback. I was responsible for level, experience, and visual design.
-        </p>
-        <p class="lh-copy f4 f4-ns baskerville">Along the way, we ran into a number of challenges, both design and technical. One of the more difficult design problems was teaching the player how to play the game. Playing the game well required not only understanding of controls, but how to manipulate the 3D world. We experimented with a number of level-design techniques to create a challenging, but manageable learning curve.
-        </p>
-        <a class="f7 f6-ns fw5 ttu tracked link dim ba bw1 ph4 pv3 mv2 dib black avenir" href="">Play Game</a>
-        <a class="f7 f6-ns fw5 ttu tracked link dim ba bw1 ph4 pv3 mv2 dib black avenir" href="">View Case Study</a>
-        <img src="/assets/img/box/finalscreenshot.png" class="mt5">
-        <img src="/assets/img/box/screenshot1.png" class="mt5">
-
-</div>
-
- -->
+ ![a little sketch of a man "sliding" across the faces of a cube]({{site.baseurl}}/assets/img/box/rotation.jpg)
+![alt Screenshot of BOX!]({{site.baseurl}}/assets/img/box/finalscreenshot.png)
+![alt Screenshot of BOX!]({{site.baseurl}}/assets/img/box/screenshot1.png)
+![alt Screenshot of BOX!]({{site.baseurl}}/assets/img/box/screenshot2.png)
+![alt Screenshot of BOX!]({{site.baseurl}}/assets/img/box/screenshot3.png)

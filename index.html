@@ -3,19 +3,19 @@ layout: default
 title: Kevin Ma
 ---
 
-<article class="pa4 pa5-ns">
-  <header class="cf mv4-ns ">
-    <h1 class="f3 fw6 lh-title measure helvetica black">Hi, I'm Kevin - a designer, recent Cornell grad, and old-timey radio enthusiast.</h1>
+<article class="pv4 pv5-ns ph3 ph4-m ph5-l">
+  <header class="cf mv4-ns">
+    <h1 class="f3 f2-ns fw6 lh-title measure font-primary black">I'm Kevin - I love design, code, and <a href="https://archive.org/details/LightsOutoldTimeRadio/LightsOut-1938-03-23TheDream.mp3" class="link black dim">old-time radio shows</a>.</h1>
 
-      <p class="f4 fw4 lh-copy measure helvetica gray">I've designed for a couple of teams -
-         HTC, IBM, a few research labs. At school, I studied Information Science
+      <p class="f5 f4-ns fw4 lh-copy measure font-body gray">I've designed for a couple of teams -
+         HTC, IBM, and various research labs. At school I studied Information Science,
          with a focus on Human Computer Interaction.</p>
-      <p class="f4 fw4 lh-copy measure helvetica gray">
-        After graduation I <a href="/hitchhiking" class="link fw6 gray dim">hitchhiked across the US</a>.
+      <p class="f5 f4-ns fw4 lh-copy measure font-body gray">
+        After graduation I <a href="/hitchhiking" class="link gray underline dim">spent some time hitchhiking</a>.
         Now I'm excited to get back to making things. Working on something interesting?
-        <a href="mailto:kym5@cornell.edu" class="link fw6 gray dim">Feel free to reach out and let's chat!</a></p>
+        <a href="mailto:kym5@cornell.edu" class="link gray underline dim">Feel free to reach out and let's chat!</a></p>
         <div class="pt2">
-          <a class="link dim gray dib h1 w1" href="https://linkedin.com/kevinyma title="LinkedIn">
+          <a class="link dim gray dib h1 w1" href="https://linkedin.com/in/kevinyma title="LinkedIn">
             <svg fill="currentColor" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414"><path d="M13.632 13.635h-2.37V9.922c0-.886-.018-2.025-1.234-2.025-1.235 0-1.424.964-1.424 1.96v3.778h-2.37V6H8.51V7.04h.03c.318-.6 1.092-1.233 2.247-1.233 2.4 0 2.845 1.58 2.845 3.637v4.188zM3.558 4.955c-.762 0-1.376-.617-1.376-1.377 0-.758.614-1.375 1.376-1.375.76 0 1.376.617 1.376 1.375 0 .76-.617 1.377-1.376 1.377zm1.188 8.68H2.37V6h2.376v7.635zM14.816 0H1.18C.528 0 0 .516 0 1.153v13.694C0 15.484.528 16 1.18 16h13.635c.652 0 1.185-.516 1.185-1.153V1.153C16 .516 15.467 0 14.815 0z" fill-rule="nonzero"/></svg>
           </a>
 
@@ -34,36 +34,36 @@ title: Kevin Ma
 
   </header>
 </article>
-<article id="projects" class=" ph4 ph5-ns">
+<article id="projects" class=" ph3 ph4-m ph5-l">
   {% for project in site.project %}{% if project.case-study %}
    <section class="bb b--black-20 pv5 cf">
     <div class="w-100 w-50-l fn fl-ns pr4-ns ">
-    <p class="f7 f6-ns fw5 ttu tracked black-30 mv0 helvetica lh-copy">Case Study</p>
-    <a href="{{ project.url }}" class="link black dim"><h1 class=" f3-ns f4 fw6 helvetica lh-title ">{{ project.title }}</h1></a>
+    <p class="f7 f6-ns fw6 ttu tracked black-30 mv0 font-primary lh-copy">Case Study</p>
+    <a href="{{ project.url | prepend: site.baseurl }}" class="link black dim"><h1 class=" f3-ns f4 fw6 font-primary lh-title ">{{ project.title }}</h1></a>
     <p class="w2 bt bw2"></p>
-    <p class="f4-ns fw4 lh-copy helvetica gray">{{ project.description }}</p>
+    <p class="f4-ns fw4 lh-copy font-body gray">{{ project.description }}</p>
 
     </div>
     <div class="w-100 w-50-l fn fl-ns">
-      <a href="{{ project.url }}" class="w-100 fl border-box overflow-hidden">
-      <div class="cover grow aspect-ratio aspect-ratio--16x9" style="background:black url(/assets/img/{{project.img}}) center;"></div>
+      <a href="{{ project.url | prepend: site.baseurl }}" class="w-100 fl border-box overflow-hidden">
+      <div class="cover grow aspect-ratio aspect-ratio--16x9" style="background:black url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
       </a>
     </div>
   </section>
   {% endif %}{% endfor %}
 </article>
-<article class="ph4 ph5-ns">
-  <h1 class="w-100 f3-ns f4 fw6 helvetica lh-title pt4">Other Projects</h1>
+<article class="ph3 ph4-m ph5-l">
+  <h1 class="w-100 f3-ns f4 fw5 font-primary lh-title pt4">Other Projects</h1>
   <p class="w2 bt bw2"></p>
 
-  <div class="pb5 pt3 cf mhn3-l mhn2-m">
+  <div class="pb5 pt3-ns cf mhn3-l mhn2-m">
   {% for project in site.project %}{% if project.case-study == false %}
-    <section class="w-100 fl-ns w-third-ns pl3-l pr3-l pl2-m pr2-m">
-      <a href="{{ project.url }}" class="w-100 fl overflow-hidden border-box">
-        <div class="cover grow pv5 pv6-m pv6-l" style="background:black url(/assets/img/{{project.img}}) center;"></div>
+    <section class="w-100 fl-ns w-third-ns pl3-l pr3-l pl2-m pr2-m pv5 pv0-ns cf bb bn-ns b--black-20">
+      <a href="{{ project.url | prepend: site.baseurl }}" class="w-100 fl overflow-hidden border-box">
+        <div class="cover grow pv5 pv6-m pv6-l" style="background:black url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
       </a>
-      <p class="w-100 fl f7 f6-ns fw5 ttu tracked black-30 helvetica lh-copy pb2-ns pt3">{{project.type}}</p>
-      <a href="{{ project.url }}" class="link black dim"><h1 class="fn fl-l w-100 f3-ns f4 fw6 helvetica lh-title mt0">{{project.title}}</h1></a>
+      <p class="w-100 fl f7 f6-ns fw5 ttu tracked black-30 font-primary lh-copy pt3">{{project.type}}</p>
+      <a href="{{ project.url | prepend: site.baseurl }}" class="link black dim"><h1 class="fl w-100 f3-ns f4 fw6 font-primary lh-title mv0 ">{{project.title}}</h1></a>
     </section>
     {% endif %}{% endfor %}
   </div>

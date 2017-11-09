@@ -5,12 +5,12 @@ title: "Interacting with Audiobooks"
 type: "UX"
 description: "Designing audiobooks that allow for just as much interactivity as books."
 img: "thumb-audio.png"
-banner: "thumb-audio.png"
+banner: "banner-audio.png"
 case-study: true
 introduction: |
 
 ---
-Audiobit is an app that aims towards making audiobooks more interactive. It comes from my own experience of marking up books and wishing that I could do the same with audio. 
+Audiobit is an app that aims towards making audiobooks more interactive. It comes from my own experience of marking up books and wishing that I could do the same with audio.
 
 
 

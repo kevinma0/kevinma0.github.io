@@ -17,7 +17,7 @@
 }
 
 .font-body {
-  @extend .baskerville;
+  @extend .athelas;
 }
 
 .project-body {
@@ -34,7 +34,7 @@
     @extend .mt5;
   }
   a {
-    @extend .link, .underline, .dim, .lh-copy, .black, .font-body;
+    @extend .link, .lh-copy, .blue, .dim, .font-body;
   }
   .button {
    @extend .f7, .f6-ns, .fw5, .ttu, .tracked, .link, .dim, .ba, .bw1, .ph4, .pv3, .mv2, .dib, .black, .font-primary;
@@ -48,8 +48,21 @@
   p {
     @extend .f4, .fw4, .lh-copy, .measure, .font-body;
   }
+
   a {
-    @extend .link, .dim, .black, .underline;
+    @extend .link, .lh-copy, .blue, .dim, .font-body;
+  }
+}
+
+.blog-body {
+  p {
+    @extend .f4, .mb4, .center, .measure, .lh-copy;
+  }
+  img {
+    @extend .db , .mt4, .mt5-ns;
+  }
+  a {
+    @extend .link, .lh-copy, .blue, .dim, .font-body;
   }
 }
 

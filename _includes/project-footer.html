@@ -1,16 +1,16 @@
 
-<article class="ph4 ph5-ns avenir">
+<article class=" ph3 ph4-m ph5-l font-primary">
   <div class="bt bw2 pv4 cf">
-  <section class="fn fl-ns w-100 measure-narrow-ns">
-  <h1 class="f3">Case Studies</h1>
+  <section class="fn fl-ns w-third pr3">
+  <h1 class="f3 ttu">Case Studies</h1>
   {% for project in site.project %}{% if project.case-study %}
-  <a class="link gray dim hover" href="{{ project.url }}"><p class="f4 lh-solid">{{ project.title }}</p></a>
+  <a class="link black dim " href="{{ project.url }}"><p class="f4 lh-solid">{{ project.title }}</p></a>
   {% endif %}{% endfor %}
   </section>
-  <section class="fn fl-ns w-100 measure-narrow-ns">
-    <h1 class="f3">Other Projects</h1>
+  <section class="fn fl-ns w-third">
+    <h1 class="f3 ttu ">Other Projects</h1>
   {% for project in site.project %}{% if project.case-study == false %}
-  <a class="link gray dim hover" href="{{ project.url }}"><p class="f4 lh-solid">{{ project.title }}</p></a>
+  <a class="link black dim hover" href="{{ project.url }}"><p class="f4 lh-solid">{{ project.title }}</p></a>
   {% endif %}{% endfor %}
   </section>
   </div>

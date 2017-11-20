@@ -57,7 +57,7 @@ I hope we'll play catch in space.
 <img class="db ph6 center" src="{{site.baseurl}}/assets/img/illo/cat.jpg" alt="">
 
 
-Thanks for coming through! I keep a sketchblog [here](http://messybin.tumblr.com).
+Thanks for coming through! I normally confine my babbling and scribbling [here](http://messybin.tumblr.com).
 
 <!--
 

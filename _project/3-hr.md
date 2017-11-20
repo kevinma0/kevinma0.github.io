@@ -1,9 +1,9 @@
 ---
 layout: project
 permalink: /cornell-hr
-title: "Cornell Research HR Portal"
+title: "Cornell Research HR"
 type: "UX"
-description: "I designed and helped build a new website for a Human Resources division at Cornell University."
+description: "I led a team to build a new website for a Human Resources division at Cornell University."
 img: "thumb-hr.jpg"
 banner: "banner-hr.jpg"
 case-study: true

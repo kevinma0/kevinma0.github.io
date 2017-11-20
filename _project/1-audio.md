@@ -1,22 +1,23 @@
 ---
 layout: project
 permalink: /audiobooks
-title: "Interacting with Audio"
+title: "Audiobit"
 type: "UX"
-description: "Designing audiobooks that allow for just as much interactivity as books."
+description: "An audiobook listening app focused on engagement."
 img: "thumb-audio.png"
 banner: "banner-audio.png"
 case-study: true
-introduction: "A Personal Project"
+introduction:
 ---
 
-Recently I’ve been listening to audiobooks on my commute home. They’re convenient, portable, and read to you in a warm voice filled with inflection. What more could be desired?
+Recently I’ve been listening to audiobooks on my commute home. They’re convenient, portable, and a stranger reads them to you in a warm voice filled with inflection. Yet, I feel like they're missing something.
 
-I have the habit of marking up my books. Mostly I’ll underline words and tidbits that jump out to me. Occasionally, my own notes will make their way into the margins. With this habit comes a newfound attention to marks made by others. The accumulated scribblings within second or tenth-hand books are like little dialogues unbidden by time and space.
+The feeling comes from the habit of marking up my physical books. Mostly I’ll underline words and tidbits that jump out to me. Occasionally, my own ramblings make their way into the margins. Could there be an analogous experience with audio?
 
-Audiobit is an app that aims to bring the experience of making notes in a physical book into the audiobook.
+I tackled the question with Audiobit, an audiobook app that focuses on interacting with audio.
 
 <a class="button" href="https://medium.com/@kevinyma/towards-a-more-interactive-audiobook-experience-aece33814122">Read Case Study</a>
 
 ![]({{site.baseurl}}/assets/img/audio/banner-audio.jpg)
+![]({{site.baseurl}}/assets/img/audio/stickies2.jpg)
 ![]({{site.baseurl}}/assets/img/audio/bookmarks.png)

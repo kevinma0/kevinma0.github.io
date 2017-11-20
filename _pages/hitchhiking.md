@@ -30,7 +30,7 @@ Who still hitchhikes?
 
 It turns out there’s a sprawling road culture, and it comes in flavors.
 
-For one, I'm a tourist. When all is said and done, I will be going back home for a hot shower. Maybe I’ll write a blog post or two about my experience. Maybe I’ll fill it with blurry phone photos.
+I'm a tourist. When all is said and done, I'm going home. Maybe I’ll write a blog post or two about my experience. Maybe I’ll fill it with blurry phone photos.
 
 Danny is something else. The road is his home and he’s proud of it. With his patchwork pants, mutton chops, and dyed afro, he looks as if he was spit out by a jam band concert deep in the Arizona desert and then decided to just kept on walking. And that was 2 years ago. He busks to pay the way. He’s indignant at the people who shout at him to “get a job”, and nothing but friendly to other travelers.
 

@@ -1,9 +1,9 @@
 ---
 layout: project
 permalink: /emotar
-title: "Emotar - A Photo App"
+title: "Emotar"
 type: "UX"
-description: "As an intern at HTC Research & Development, I helped redefine core features of an entertainment app."
+description: "As an intern at HTC Research & Development, I helped redefine core features of an photo and entertainment app."
 img: "thumb-htc.jpg"
 banner: "banner-htc.jpg"
 case-study: true

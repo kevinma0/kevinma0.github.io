@@ -9,11 +9,16 @@ img: "me.jpg"
 <canvas class="vh-75" id="needles" style="background:#ea5a41"></div>
 </div> -->
 
-I grew up a combination of snowy Michigan and smoggy Beijing, in that order.
+I grew up a combination of snowy Michigan and smoggy Beijing, in that order. [Illustration](/illo) is my first love.
 
-Design is hard to describe, especially when you're describing it to different people. I like to think of it as prodding, poking, and marrying abstractions into tangible things. I tell my mom I work on stuff like the "swipe right to unlock" on iPhones. It's too bad I won't be able to use that one anymore.
+I've designed for a couple of teams -
+   HTC, IBM, and various research labs. At school I studied Information Science,
+   with a focus on Human Computer Interaction.
 
-[Illustration](/illo) is my first love.
+   After graduation I [hitchhiked across the US](/hitchhiking). I'm exhausted from holding the 'thumbs up' pose for so long, but excited to get back to making things. Working on something interesting?
+   Feel free to [reach out](mailto:kym5@cornell.edu).
+
+
 
 <script type="text/javascript" src="/assets/js/paper-full.js"></script>
 <script type="text/paperscript" canvas="needles">

@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "BOX! – A Puzzle Platformer"
+title: "BOX! – A Puzzle Game"
 type: "Game Design"
 description: "."
 img: "banner-box.jpg"
@@ -12,7 +12,7 @@ introduction: "A video game about a 2D guy in a 3D world. Escape the cube in thi
 
 # Team
 
-Kevin Ma, [Jeremy Cytryn](www.jeremycytryn.com/), Natalie Diebold, Will Peck and [Renchu Song](http://renchusong.github.io/portfolio/)
+Kevin Ma, [Jeremy Cytryn](http://www.jeremycytryn.com/), Natalie Diebold, Will Peck and [Renchu Song](http://renchusong.github.io/portfolio/)
 
 # Background
 

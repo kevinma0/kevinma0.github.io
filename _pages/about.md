@@ -15,8 +15,8 @@ I've designed for a couple of teams -
    HTC, IBM, and various research labs. At school I studied Information Science,
    with a focus on Human Computer Interaction.
 
-   After graduation I [hitchhiked across the US](/hitchhiking). I'm exhausted from holding the 'thumbs up' pose for so long, but excited to get back to making things. Working on something interesting?
-   Feel free to [reach out](mailto:kym5@cornell.edu).
+   After graduation I [hitchhiked across the US](/hitchhiking). I'm exhausted from doing the 'thumbs up' for so long, but excited to get back to making things. Working on something interesting?
+   Feel free to [reach out](mailto:kym5@cornell.edu)!
 
 
 

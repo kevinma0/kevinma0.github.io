@@ -5,7 +5,7 @@ title: Kevin Ma
 
 <article class="pv4 pv5-ns ph3 ph4-m ph5-l">
   <header class="cf mv4-ns">
-    <h1 class="f2 f1-ns fw7 lh-title measure-narrow font-primary black">Hi, I'm Kevin. I like design, code, and <a href="https://archive.org/details/LightsOutoldTimeRadio/LightsOut-1938-03-23TheDream.mp3" class="link black dim">old-time radio</a>.</h1>
+    <h1 class="f2 f1-ns fw7 lh-title measure-narrow font-primary black">Kevin loves design, code, and <a href="https://archive.org/details/LightsOutoldTimeRadio/LightsOut-1938-03-23TheDream.mp3" class="link black dim">old-time radio shows</a>.</h1>
 <!-- <h1 class="f1 f-headline-ns lh-title mt0 pt0 measure font-primary black">Hello!</h1> -->
       <p class="f5 f4-ns fw4 lh-copy measure font-body black"></p>
       <p class="f5 f4-ns fw4 lh-copy measure font-body black">
@@ -23,9 +23,9 @@ title: Kevin Ma
     <p class="f4-ns fw4 lh-copy font-body black">{{ project.description }}</p>
 
     </div>
-    <div class="w-100 w-50-l fn fl-ns">
+    <div class="w-100 w-50-l fn fl-ns shadow-hover br3">
       <a href="{{ project.url | prepend: site.baseurl }}" class="w-100 fl border-box overflow-hidden">
-      <div class="cover grow aspect-ratio aspect-ratio--16x9" style="background:black url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
+      <div class="br3 cover aspect-ratio aspect-ratio--16x9 " style="background:black url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
       </a>
     </div>
   </section>
@@ -38,9 +38,11 @@ title: Kevin Ma
   <div class="pb5 pt3-ns cf mhn3-l mhn2-m">
   {% for project in site.project %}{% if project.case-study == false %}
     <section class="w-100 fl-ns w-third-ns pl3-l pr3-l pl2-m pr2-m pv5 pv0-ns cf bb bn-ns b--black-20">
-      <a href="{{ project.url | prepend: site.baseurl }}" class="w-100 fl overflow-hidden border-box">
-        <div class="cover grow pv5 pv6-m pv6-l" style="background:black url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
-      </a>
+
+        <a href="{{ project.url | prepend: site.baseurl }}" class="w-100 fl overflow-visible border-box br3">
+          <div class="cover pv5 pv6-m pv6-l shadow-hover br3" style="background:black url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
+        </a>
+
       <p class="w-100 fl f7 f6-ns fw5 ttu tracked black-30 font-primary lh-copy pt3">{{project.type}}</p>
       <a href="{{ project.url | prepend: site.baseurl }}" class="link black dim"><h1 class="fl w-100 f3-ns f4 fw7 font-primary lh-title mv0 ">{{project.title}}</h1></a>
     </section>

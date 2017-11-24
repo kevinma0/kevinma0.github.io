@@ -5,7 +5,7 @@ permalink: /illo
 ---
 
   <header class="tc-l pt4 pt5-ns">
-    <h1 class="f3 fw4 f2-m f-subheadline-l font-primary measure lh-title mt0">Illustration</h1>
+    <h1 class="f3 fw7 f2-m f-subheadline-l font-primary measure lh-title mt0">Illustration</h1>
     <time class="f5 f4-l db fw1 font-body mb4">December 2016</time>
     <img class="db ph6 center w-50" src="/assets/img/illo/man.jpg" alt="">
     <p class="f4 mb4 tc center measure lh-copy font-body">
@@ -26,9 +26,11 @@ They cannot know who I am, inside.
 
 ![](/assets/img/illo/drowning.jpg)
 
-Some people start writing code by the time they're 8. They can tell you stories of their dads bringing home Commodore 128s, showing them BASIC, or Scratch, or Python, or whatever the hell dads and moms show their kids nowadays. They latch right on. They write games. They spend after school at the computer lab. They write their own compilers.
+Reflections on learning natural language processing.
 
-I am not these people. Learning to code was very painful for me. It wasn't until after much sweat and blood had been shed, that I felt like I had stumbled upon something incredible.
+<!-- Some people start writing code by the time they're 8. They can tell you stories of their dads bringing home Commodore 128s, showing them BASIC, or Scratch, or Python, or whatever the hell dads and moms show their kids nowadays. They latch right on. They write games. They spend after school at the computer lab. They write their own compilers.
+
+I am not these people. Learning to code was very painful for me. It wasn't until after much sweat and blood had been shed, that I felt like I had stumbled upon something incredible. -->
 
 ![](/assets/img/illo/smarthome.jpg)
 

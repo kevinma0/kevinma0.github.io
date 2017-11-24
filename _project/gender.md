@@ -2,7 +2,7 @@
 layout: project
 title: "Gender in Film"
 type: "Data Visualization"
-description: "."
+description: "A data visualization that portrays the gender-bias of dialogue in films from the past ten years."
 img: "thumb-dataviz.jpg"
 banner: "thumb-dataviz.jpg"
 case-study: false

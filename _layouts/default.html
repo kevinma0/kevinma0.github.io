@@ -4,7 +4,7 @@
   {% include head.html %}
 
   <body class="">
-    {% include nav.html %}
+    {% unless page.title == "Kevin Ma" %}{% include nav.html %}{% endunless %}
       {{ content }}
       {% include footer.html %}
   </body>

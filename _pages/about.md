@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /about/
-header: "A little more"
+header: "Hey!"
 img: "me.jpg"
 ---
 <!-- <div class="ph5-ns ph4">
@@ -16,7 +16,7 @@ I've designed for a couple of teams -
    with a focus on Human Computer Interaction.
 
    After graduation I [hitchhiked across the US](/hitchhiking). I'm exhausted from doing the 'thumbs up' for so long, but excited to get back to making things. Working on something interesting?
-   Feel free to [reach out](mailto:kym5@cornell.edu)!
+   Feel free to [reach out and let's chat](mailto:kym5@cornell.edu)!
 
 
 

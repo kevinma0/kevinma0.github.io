@@ -1,50 +1,55 @@
 ---
 layout: default
-title: Kevin Ma
+title: "Kevin Ma"
+
 ---
 
-<article class="pv4 pv5-ns ph3 ph4-m ph5-l">
+<article class="pv5 pv6-ns ph4 ph5-m ph6-l">
   <header class="cf mv4-ns">
-    <h1 class="f2 f1-ns fw7 lh-title measure-narrow font-primary black">Kevin loves design, code, and <a href="https://archive.org/details/LightsOutoldTimeRadio/LightsOut-1938-03-23TheDream.mp3" class="link black dim">old-time radio shows</a>.</h1>
+    <!-- <h1 class="f2 f1-ns fw7 lh-title measure-narrow font-primary black">Kevin loves design, code, and <a href="https://archive.org/details/LightsOutoldTimeRadio/LightsOut-1938-03-23TheDream.mp3" class="link black dim">old-time radio shows</a>.</h1> -->
 <!-- <h1 class="f1 f-headline-ns lh-title mt0 pt0 measure font-primary black">Hello!</h1> -->
-      <p class="f5 f4-ns fw4 lh-copy measure font-body black"></p>
-      <p class="f5 f4-ns fw4 lh-copy measure font-body black">
+<h1 class="f1 f-subheadline-ns fw7 lh-title font-primary font-light">Hi, my name is <a href="{{site.baseurl}}/about/" class="link underline-hover font-brand">Kevin</a>. I'm a designer in New York.</h1>
+
       </p>
 
   </header>
 </article>
-<article id="projects" class=" ph3 ph4-m ph5-l">
-  {% for project in site.project %}{% if project.case-study %}
-   <section class="bb b--black-20 pv5 cf">
-    <div class="w-100 w-50-l fn fl-ns pr4-ns ">
-    <p class="f7 f6-ns fw6 ttu tracked black-30 mv0 font-primary lh-copy">Case Study</p>
-    <a href="{{ project.url | prepend: site.baseurl }}" class="link black dim"><h1 class=" f3-ns f4 fw7 font-primary lh-title ">{{ project.title }}</h1></a>
+<article id="projects" class="horizontal-margin-wide">
+
+  {% for project in site.project %}{% if project.case-study and project.hide != true %}
+  <!-- {% if project.hide %}
+    {% continue %}
+  {% endif %} -->
+   <section class="pv5 cf">
+    <div class="w-100 w-third-l fn fl-l pr3-ns ">
+    <!-- <p class="f7 f6-ns fw6 ttu tracked black-30 mv0 font-primary lh-copy">Case Study</p> -->
+    <a href="{{ project.url | prepend: site.baseurl }}" class="link black dim"><h1 class=" f3-ns f4 fw7 font-primary font-light lh-title mt0 mb1">{{ project.title }}</h1></a>
     <!-- <p class="w2 bt bw2"></p> -->
-    <p class="f4-ns fw4 lh-copy font-body black">{{ project.description }}</p>
+    <p class="f5-ns fw4 lh-copy font-body font-light">{{ project.description }}</p>
 
     </div>
-    <div class="w-100 w-50-l fn fl-ns shadow-hover br3">
-      <a href="{{ project.url | prepend: site.baseurl }}" class="w-100 fl border-box overflow-hidden">
-      <div class="br3 cover aspect-ratio aspect-ratio--16x9 " style="background:black url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
+    <div class="w-100 w-two-thirds-l fn fl-l pl3-ns ">
+      <a href="{{ project.url | prepend: site.baseurl }}" class="w-100 fl border-box overflow-visible br3 shadow-hover">
+      <div class="br3 cover aspect-ratio aspect-ratio--16x9 " style="background:red url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
       </a>
     </div>
   </section>
   {% endif %}{% endfor %}
 </article>
-<article class="ph3 ph4-m ph5-l">
-  <h1 class="w-100 f3-ns f4 fw7 ttu font-primary lh-title pt4">Misc Projects</h1>
-  <p class="w2 bt bw2"></p>
+<article class="horizontal-margin-wide pv4-ns pv2">
+  <h1 class="w-100 f3-ns f4 fw7 font-primary font-light lh-title pt4">Side Projects</h1>
 
   <div class="pb5 pt3-ns cf mhn3-l mhn2-m">
-  {% for project in site.project %}{% if project.case-study == false %}
-    <section class="w-100 fl-ns w-third-ns pl3-l pr3-l pl2-m pr2-m pv5 pv0-ns cf bb bn-ns b--black-20">
+  {% for project in site.project %}{% if project.case-study == false and project.hide != true%}
+    <section class="w-100 fn fl-ns w-third-l pl3-l pr3-l pv5 pv0-ns cf bb bn-ns b--black-20">
 
-        <a href="{{ project.url | prepend: site.baseurl }}" class="w-100 fl overflow-visible border-box br3">
-          <div class="cover pv5 pv6-m pv6-l shadow-hover br3" style="background:black url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
+        <a href="{% if project.alturl %}{{ project.alturl | prepend: site.baseurl }}{% else %}{{ project.url | prepend: site.baseurl }}{% endif %}" class="w-100 fl overflow-visible border-box br3">
+          <div class="cover pv5 pv6-m pv6-l shadow-hover br3" style="background:red url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
         </a>
 
-      <p class="w-100 fl f7 f6-ns fw5 ttu tracked black-30 font-primary lh-copy pt3">{{project.type}}</p>
-      <a href="{{ project.url | prepend: site.baseurl }}" class="link black dim"><h1 class="fl w-100 f3-ns f4 fw7 font-primary lh-title mv0 ">{{project.title}}</h1></a>
+      <!-- <p class="w-100 fl f7 f6-ns fw5 ttu tracked black-30 font-primary lh-copy pt3">{{project.type}}</p> -->
+      <a href="{% if project.alturl %}{{ project.alturl | prepend: site.baseurl }}{% else %}{{ project.url | prepend: site.baseurl }}{% endif %}" class="link font-light dim"><h1 class="fl w-100 f4-ns f4 fw7 font-primary font-light lh-title mb1 mt4">{{project.title}}</h1></a>
+      <p class="f5-ns fw4 lh-copy font-body font-light">{{ project.description }}</p>
     </section>
     {% endif %}{% endfor %}
   </div>

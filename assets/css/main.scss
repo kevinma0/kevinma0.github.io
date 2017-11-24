@@ -8,16 +8,99 @@
 
 @import 'tachyons/tachyons';
 
+a {
+  cursor: pointer;
+}
+
+@font-face {
+    font-family: Cardo;
+    font-style: normal;
+    src: local('Cardo')
+      url('/assets/fonts/Cardo-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Raleway;
+  font-style: italic;
+  font-weight: 400;
+  src: local('Raleway-Regular'),
+      url(/assets/fonts/Raleway-Regular.ttf);
+}
+
+@font-face {
+  font-family: Raleway;
+  font-style: italic;
+  font-weight: 500;
+  src: local('Raleway-Medium'),
+      url(/assets/fonts/Raleway-Medium.ttf);
+}
+
+@font-face {
+  font-family: Raleway;
+  font-style: italic;
+  font-weight: 600;
+  src: local('Raleway-SemiBold'),
+      url(/assets/fonts/Raleway-SemiBold.ttf);
+}
+
+@font-face {
+  font-family: Raleway;
+  font-style: italic;
+  font-weight: 700;
+  src: local('Raleway-Bold'),
+      url(/assets/fonts/Raleway-Bold.ttf);
+}
+
+@font-face {
+  font-family: Raleway;
+  font-style: italic;
+  font-weight: 800;
+  src: local('Raleway-Black'),
+      url(/assets/fonts/Raleway-Black.ttf);
+}
+
 .serif {
   font-family: "Source Serif Pro";
 }
 
 .font-primary {
-    @extend .avenir;
+    font-family: 'Raleway', Athelas, sans-serif;
 }
 
 .font-body {
-  @extend .athelas;
+  // @extend .athelas;
+  font-family: 'Cardo', Baskerville, serif;
+  line-height: 1.70;
+}
+
+.font-light {
+  @extend .black-60;
+}
+
+.font-lightest {
+  @extend .black-40;
+}
+
+.font-brand {
+  @extend .red;
+}
+
+.hover-brand:hover {
+  @extend .hover-red;
+}
+
+.font-dark {
+  @extend .black-80;
+}
+
+.horizontal-margin-wide {
+  @extend .ph4, .ph5-m, .ph6-l;
+}
+
+.nav {
+  a {
+    @extend  .f5-l, .f6, .fw5, .link, .font-brand, .font-primary, .lh-copy, .underline-hover, .db-l, .dib, .mr3, .mr0-l;
+  }
 }
 
 .project-body {
@@ -28,13 +111,13 @@
     @extend .pb1;
   }
   h1 {
-    @extend .pt3, .fw6, .f3, .font-primary;
+    @extend .pt4, .fw7, .f3, .font-primary, .mb0;
   }
   img {
     @extend .mt5;
   }
   a {
-    @extend .link, .lh-copy, .blue, .dim, .font-body;
+    @extend .link, .lh-copy, .font-brand, .underline-hover, .font-body;
   }
   .button {
    @extend .f7, .f6-ns, .fw5, .ttu, .tracked, .link, .dim, .ba, .bw1, .ph4, .pv3, .mv2, .dib, .black, .font-primary;
@@ -50,7 +133,7 @@
   }
 
   a {
-    @extend .link, .lh-copy, .blue, .dim, .font-body;
+    @extend .link, .lh-copy, .font-brand, .underline-hover, .font-body;
   }
 }
 
@@ -62,7 +145,7 @@
     @extend .db , .mt4, .mt5-ns;
   }
   a {
-    @extend .link, .lh-copy, .blue, .dim, .font-body;
+    @extend .link, .lh-copy, .font-brand, .underline-hover, .font-body;
   }
 }
 

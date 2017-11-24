@@ -1,16 +1,16 @@
 
-<article class=" ph3 ph4-m ph5-l font-primary">
-  <div class="bt bw2 pv4 cf">
-  <section class="fn fl-ns w-third pr3">
-  <h1 class="f3 ttu">Case Studies</h1>
-  {% for project in site.project %}{% if project.case-study %}
-  <a class="link black dim " href="{{ project.url }}"><p class="f4 lh-solid">{{ project.title }}</p></a>
+<article class="horizontal-margin-wide font-light font-primary">
+  <div class="bt b--black-20 pv4 cf">
+  <section class="fn fl-ns w-25-ns w-50 pr3">
+  <h1 class="f3 fw7">Case Studies</h1>
+  {% for project in site.project %}{% if project.case-study and project.hide != true %}
+  <a class="link underline-hover font-light" href="{{ project.url }}"><p class="f5 fw5 lh-solid">{{ project.title }}</p></a>
   {% endif %}{% endfor %}
   </section>
-  <section class="fn fl-ns w-third">
-    <h1 class="f3 ttu ">Misc Projects</h1>
-  {% for project in site.project %}{% if project.case-study == false %}
-  <a class="link black dim hover" href="{{ project.url }}"><p class="f4 lh-solid">{{ project.title }}</p></a>
+  <section class="fn fl-ns w-25-ns w-50">
+    <h1 class="f3 fw7">Side Projects</h1>
+  {% for project in site.project %}{% if project.case-study == false and project.hide != true %}
+  <a class="link dim underline-hover font-light" href="{{ project.url }}"><p class="f5 fw5 lh-solid">{{ project.title }}</p></a>
   {% endif %}{% endfor %}
   </section>
   </div>

@@ -1,11 +1,12 @@
 ---
 layout: project
-title: "IBM Internship"
+title: "IBM"
 type: "UX"
 description: "."
 img: "thumb-ibm.jpg"
 banner: "banner-ibm.jpg"
 case-study: false
+hide: true
 ---
 
 I worked as a Software Design Intern at IBM before my senior year of school. The work was for a yet to be released project, so I won't be able to discuss too much here.

@@ -2,19 +2,19 @@
 layout: default
 ---
 {% if page.banner %}
-<div class="ph5-l ph4-m ph3">
+<div class="">
 <div class=" vh-75-ns vh-50 cover bg-center" style="background-image: url(/assets/img/{{page.banner}});"></div>
 </div>
 {% endif %}
 
   <div class="measure f3 center mb5 ph4">
     <div class="pt5 pb3">
-      <h1 class="fw7 f1 fl w-100 mt2 mb3 avenir lh-title">{{ page.title }}</h1>
-      <p class="f3 fw4 lh-copy measure avenir silver">
+      <h1 class="fw7 f1 fl w-100 mt2 mb3 font-primary font-dark lh-title">{{ page.title }}</h1>
+      <p class="f3 fw4 lh-copy measure font-primary font-dark">
         {{ page.introduction }}
       </p>
     </div>
-    <div class="project-body">
+    <div class="project-body font-dark">
       {{ content }}
     </div>
   </div>

@@ -1,8 +1,8 @@
 ---
 layout: project
-title: "BOX! – A Puzzle Game"
+title: "BOX!"
 type: "Game Design"
-description: "."
+description: "A challenging flash game based around an interesting spatial concept."
 img: "banner-box.jpg"
 banner: "banner-box.jpg"
 case-study: false

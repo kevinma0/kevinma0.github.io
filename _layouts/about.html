@@ -2,17 +2,18 @@
 layout: default
 ---
 <!-- Note: this is only used for the ABOUT page -->
+<article class="cf" style="background:red url({{site.baseurl}}/assets/img/{{ page.img }}) no-repeat center top; background-size: cover;">
 
-<article class=" ph3 ph4-m ph5-l cf mv4 mv5-ns">
 
-  <section class="fl-l fn w-50-l w-100">
+<section class="bg-white fr w6-ns w-100-s font-dark pv4 pv5-ns">
 
-    <h1 class="f2 fw7 lh-title measure font-primary black">{{page.header}}</h1>
+  <section class="ph4 ph5-ns">
+
+    <h1 class="f2 fw7 lh-title measure font-primary ">{{page.header}}</h1>
     <div class="page-body">
     {{ content }}
-  </div>
+    </div>
 </section>
-<section class="pl5-l pt0-l pt4 fl-l mw6-m fn w-50-l w-100">
-  <img src="/assets/img/{{ page.img }}" class="cover">
+
 </section>
 </article>

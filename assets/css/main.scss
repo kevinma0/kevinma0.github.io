@@ -70,7 +70,7 @@ a {
 .font-body {
   // @extend .athelas;
   font-family: 'Cardo', Baskerville, serif;
-  line-height: 1.70;
+  line-height: 1.7
 }
 
 .font-light {
@@ -122,6 +122,9 @@ a {
   .button {
    @extend .f7, .f6-ns, .fw5, .ttu, .tracked, .link, .dim, .ba, .bw1, .ph4, .pv3, .mv2, .dib, .black, .font-primary;
   }
+  .button:hover {
+    text-decoration: none;
+  }
   video {
    @extend .mt5;
   }
@@ -139,7 +142,7 @@ a {
 
 .blog-body {
   p {
-    @extend .f4, .mb4, .center, .measure, .lh-copy;
+    @extend .f4, .mb4, .center, .measure, .font-body, .lh-copy;
   }
   img {
     @extend .db , .mt4, .mt5-ns;

@@ -20,9 +20,17 @@ permalink: /hitchhiking/
 
 Months ago, I was sitting in Jane Law's cozy office. I had taken a fantastic course with her the previous spring, and I wanted to let her to know it had had some sort of impact on me. At least that’s what I thought at the time. My days in Ithaca were numbered, hastened by impending graduation, and with that came the urgency to feel reconciled with all that I thought of as the past.
 
-Her parting words came to my mind whenever I was unsure of myself, as was the case now:
+Her words came to my mind whenever I was unsure of myself, as was the case now:
 
 “Go, go far away.”
+
+![Night lights]({{site.baseurl}}/assets/img/hitching/night.png)
+
+I walk faster now. The pale stucco houses stretch on. Their shadows are long and tangled, and soon they melt into the rest of the night. Far off, an airplane ascends and then lingers, as if star-bound but frightened.
+
+I curse myself for my naivety. For thinking that it would be so easy to find a place to sleep. For thinking that this would go smoothly at all.
+
+I camp on a roof.
 
 ![With Danny in the back up a pickup]({{site.baseurl}}/assets/img/hitching/4.png)
 
@@ -30,9 +38,9 @@ Who still hitchhikes?
 
 It turns out there’s a sprawling road culture, and it comes in flavors.
 
-I'm a tourist. When all is said and done, I'm going home. Maybe I’ll write a blog post or two about my experience. Maybe I’ll fill it with blurry phone photos.
+I can't help but feel like a tourist, and that's probably what I am. I'm going home when it's over. Maybe I’ll write a blog post or two about my experience. Maybe I’ll fill it with blurry phone photos.
 
-Danny is something else. The road is his home and he’s proud of it. With his patchwork pants, mutton chops, and dyed afro, he looks as if he was spit out by a jam band concert deep in the Arizona desert and then decided to just kept on walking. And that was 2 years ago. He busks to pay the way. He’s indignant at the people who shout at him to “get a job”, and nothing but friendly to other travelers.
+Danny is something else. The road is his home and he’s proud of it. With the patchwork pants, mutton chops, and dyed 'fro, he looks as if he was spit out by a jam band concert deep in the Arizona desert and then decided to keep on going. And that was 2 years ago. He busks to pay the way. He’s indignant at the people who shout at him to “get a job”, but only friendly to other travelers.
 
 “I’m going to Maine.” He says.
 
@@ -48,11 +56,11 @@ He runs a hand through his afro.
 
 100 miles out of Phoenix, Andrew stops at a Wendy’s to buy us burgers. He had picked me up somewhere around Indio and we had been driving and talking for the past 2 hours. I’m ravenous and I gladly wolf down the burgers after initial polite refusal.
 
-Andrew is a Jehovah’s Witness. He made that known at the start and also made it known we didn’t have to talk about it. Seemingly aware of the discomfort that comes with the door-to-door evangelism, he was at once eager to talk about his faith, and restrained out of politeness from doing so.
+Andrew mades it known at the start that he was a Jehovah's Witness, and also made it known we didn’t have to talk about it. Seemingly aware of the discomfort that comes with the door-to-door evangelism, he was at once eager to talk about his faith, and restrained out of politeness from doing so.
 
 He ends up picking up two more people: an old rancher and a young hitchhiker. He extends the same introduction to them, and there’s a straining there too.
 
-He drops me off at the U of A library, for my lack of knowledge of any other landmark. He’s a good guy, I decide as I watch his truck drive off.
+He drops me off at the U of A library, because I don't know another landmark. The rancher got off a while ago and I say good luck to the other hitchhiker.
 
 ![Mishka was a beautiful dog]({{site.baseurl}}/assets/img/hitching/5.png)
 
@@ -60,20 +68,17 @@ Every few days or so I hunker down in a McDonald's rest booth and do my side job
 
 As I slide <div>’s across the screen, huge freight trucks scream past on the highway outside.
 
-Technology enables me to work remotely. It also enables me to send pictures and videos to my friends.
+Tech is weird. I'm drawn to it, and the work that goes into making it. I'm sure I misuse it though. After spending enough time in any app I feel like I've eaten a big basket of candy.
 
-Sometimes I wish I didn’t have my phone and laptop though. I don’t want to preach the gospel of abandoning your devices, but they make me feel like I have a monkey on my back urging me to share everything. Maybe that's just me.
 
 ![A hippie caravan]({{site.baseurl}}/assets/img/hitching/8.png)
 
-What I wanted most was to see the US, as much of it as I could, before I started working in earnest.
+I wanted to see the US, as much of it as I could, before I started working in earnest.
 
-I wish I could draw a grand conclusion about the experience, some sort of sweeping generalization or life lesson.
+I wish I could draw a grand-sounding conclusion about the experience, but I'm always grasping at straws when it comes to grand-sounding conclusions.
 
-It sure wasn't profitable in the sense that investing in capital is profitable.
-
-I enjoyed it though and met people I wouldn't have otherwise. Isn't that enough?
+I will say: I enjoyed it thoroughly.
 
 ![Sunset out the back of a pickup]({{site.baseurl}}/assets/img/hitching/2.png)
 
-The sun is coming down, and I can see downtown. It's been a month since that first night in San Bernardino. I’m elated - to see my good friend Sam mostly. What would he think?
+The sun is coming down, and I can see the downtown of my last stop. It's been a month since that first night in San Bernardino. I’m elated - to see my good friend Sam mostly. There's so much I want to tell him.

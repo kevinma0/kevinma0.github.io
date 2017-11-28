@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Kevin Ma"
-
+permalink: "/"
 ---
 
 <article class="pv5 pv6-ns ph4 ph5-m ph6-l">
@@ -21,14 +21,14 @@ title: "Kevin Ma"
     {% continue %}
   {% endif %} -->
    <section class="pv5 cf">
-    <div class="w-100 w-third-l fn fl-l pr3-ns ">
+    <div class="w-100 w-third-l fn fl-l pr0 pr3-l ">
     <!-- <p class="f7 f6-ns fw6 ttu tracked black-30 mv0 font-primary lh-copy">Case Study</p> -->
     <a href="{{ project.url | prepend: site.baseurl }}" class="link black dim"><h1 class=" f3-ns f4 fw7 font-primary font-light lh-title mt0 mb1">{{ project.title }}</h1></a>
     <!-- <p class="w2 bt bw2"></p> -->
-    <p class="f5-ns fw4 lh-copy font-body font-light">{{ project.description }}</p>
+    <p class="f5 fw4 lh-copy font-body font-light">{{ project.description }}</p>
 
     </div>
-    <div class="w-100 w-two-thirds-l fn fl-l pl3-ns ">
+    <div class="w-100 w-two-thirds-l fn fl-l pl0 pl3-l ">
       <a href="{{ project.url | prepend: site.baseurl }}" class="w-100 fl border-box overflow-visible br3 shadow-hover">
       <div class="br3 cover aspect-ratio aspect-ratio--16x9 " style="background:red url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
       </a>
@@ -49,7 +49,7 @@ title: "Kevin Ma"
 
       <!-- <p class="w-100 fl f7 f6-ns fw5 ttu tracked black-30 font-primary lh-copy pt3">{{project.type}}</p> -->
       <a href="{% if project.alturl %}{{ project.alturl | prepend: site.baseurl }}{% else %}{{ project.url | prepend: site.baseurl }}{% endif %}" class="link font-light dim"><h1 class="fl w-100 f4-ns f4 fw7 font-primary font-light lh-title mb1 mt4">{{project.title}}</h1></a>
-      <p class="f5-ns fw4 lh-copy font-body font-light">{{ project.description }}</p>
+      <p class="f5 fw4 lh-copy font-body font-light">{{ project.description }}</p>
     </section>
     {% endif %}{% endfor %}
   </div>

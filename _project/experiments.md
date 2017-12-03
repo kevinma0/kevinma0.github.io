@@ -3,9 +3,9 @@ layout: project
 title: "Art + Code"
 type: "U"
 altlink: ""
-description: "Experiments with art, code, and a willingness to make mistakes."
+description: "Experiments with art and code."
 img: "thumb-code.jpg"
-banner: "banner-ibm.jpg"
+banner: "thumb-code.jpg"
 case-study: false
 alturl: "/experiments"
 ---

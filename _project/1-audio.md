@@ -5,7 +5,7 @@ title: "Audiobit"
 type: "UX"
 description: "An app that refocuses the audiobook experience on engagement."
 img: "thumb_audio.jpg"
-banner: "banner_audio.png"
+banner: "banner_audio.jpg"
 format: "custom"
 case-study: true
 introduction:

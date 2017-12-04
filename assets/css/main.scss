@@ -114,7 +114,10 @@ a {
   li {
     @extend .pb1;
   }
-  h1 {
+  h2 {
+    @extend .pt4, .fw7, .f3, .font-primary, .mb0;
+  }
+  h3 {
     @extend .pt4, .fw7, .f3, .font-primary, .mb0;
   }
   img {

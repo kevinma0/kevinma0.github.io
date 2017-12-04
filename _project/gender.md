@@ -7,11 +7,11 @@ img: "thumb-dataviz.jpg"
 banner: "thumb-dataviz.jpg"
 case-study: false
 ---
-# Team
+### Team
 
 Kevin Ma, Hannah Ajmani, Kimberly Brown
 
-# Background
+### Background
 
 Hollywood is known for rampant sexism in its movies. Without data however, it's all rhetoric. We wanted to paint an objective picture of what the gender gap really looked like.
 

@@ -1,0 +1,36 @@
+<article class="font-light font-primary  ">
+  <div class="f3 pv5 ">
+    <section class="fn fl-ns w-50-ns w-100 pr3">
+      <a href="{{ page.next.url }}" class="black-50 link font-lightest font-body italicize">Check Out:</a>
+
+        <a href="{{ page.next.url }}" class="link black underline-hover"><h1 class="f1 fw7">{{ page.next.title }}</h1>
+      </h1></a>
+      <p class="white-40 font-body"> </p>
+  </section>
+  </div>
+</article>
+
+<!--
+<article class="horizontal-margin-wide font-light font-primary">
+  <div class="bt b--black-20 pv4 cf">
+  <section class="fn fl-ns w-25-ns w-50 pr3">
+  <h1 class="f3 fw7">Case Studies</h1>
+  {% for project in site.project %}{% if project.case-study and project.hide != true %}
+  <a class="link underline-hover font-light" href="{{ project.url }}"><p class="f5 fw5 lh-solid">{{ project.title }}</p></a>
+  {% endif %}{% endfor %}
+  </section>
+  <section class="fn fl-ns w-25-ns w-50">
+    <h1 class="f3 fw7">Side Projects</h1>
+  {% for project in site.project %}{% if project.case-study == false and project.hide != true %}
+  <a class="link dim underline-hover font-light" href="{{ project.url }}"><p class="f5 fw5 lh-solid">{{ project.title }}</p></a>
+  {% endif %}{% endfor %}
+  </section>
+  </div>
+</article> -->
+
+<!-- <div class="fl-ns fn">
+  <a href="{{ page.previous.url }}">Prev</a>
+</div>
+<div class="fr-ns fn">
+  <a href="{{ page.next.url }}">Next</a>
+</div> -->

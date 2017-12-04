@@ -10,7 +10,7 @@ case-study: true
 introduction: "I was hired by the Research Division at Cornell University to create a web-based HR portal for its employees."
 ---
 
-# Background
+### Background
 
 The HR Department of Cornell Research needed a new digital home — one that welcomed its employees, rather than confuse them.
 
@@ -19,7 +19,7 @@ Research Division employees and managers came to the existing site with a number
 The department hoped to create a platform that would make finding this information more intuitive. I closely worked with HR staff to create a site that prioritized the needs of its people. I was responsible for both design and development.
 
 
-# Outcome
+### Outcome
 
 A fully-responsive web application. The pages are built upon modules of functionality, which allow for the site to be scaled as time goes on and processes are continually updated.
 

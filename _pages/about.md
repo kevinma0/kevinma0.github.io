@@ -9,13 +9,15 @@ img: "me.jpg"
 <canvas class="vh-75" id="needles" style="background:#ea5a41"></div>
 </div> -->
 
-I grew up a combination of snowy Michigan and smoggy Beijing, in that order. [Illustration](/illo) is my first love.
+I was raised in a combination of snowy Michigan and smoggy Beijing. [Drawing](/illo) is my first love.
 
 I've designed for a couple of teams -
    HTC, IBM, and various research labs. At school I studied Information Science,
    with a focus on Human Computer Interaction.
 
    After graduation I [hitchhiked across the US](/hitchhiking). I'm exhausted from doing the 'thumbs up' for so long, but excited to get back to making things. Working on something interesting?
+
+
    Feel free to [reach out and let's chat](mailto:kym5@cornell.edu)!
 
 

@@ -82,11 +82,15 @@ a {
 }
 
 .font-brand {
-  @extend .red;
+  @extend .blue;
+}
+
+.bg-brand {
+
 }
 
 .hover-brand:hover {
-  @extend .hover-red;
+  @extend .hover-blue;
 }
 
 .font-dark {

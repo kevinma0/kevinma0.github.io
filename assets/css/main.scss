@@ -115,10 +115,13 @@ a {
     @extend .pb1;
   }
   h2 {
-    @extend .pt4, .fw7, .f3, .font-primary, .mb0;
+    @extend .pt5, .fw7, .f2, .font-primary, .mb0;
   }
   h3 {
-    @extend .pt4, .fw7, .f3, .font-primary, .mb0;
+    @extend .fw7, .f3, .pt0, .font-primary, .mb0;
+  }
+  h6 {
+    @extend .f2, .font-body, .fw3, .font-lightest, .center;
   }
   img {
     @extend .mt5;

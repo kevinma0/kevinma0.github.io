@@ -27,21 +27,6 @@ introduction:
 
 Audiobooks are a tricky medium. They combine passive and active listening. They're consumed on the go, or in the background. This has quite different implications for the ideal consumption experience when compared to a book, that captures a reader's full attention, or a song, that can be enjoyed with minimum attention.
 
-## Features
-![]({{site.baseurl}}/assets/img/audio/feature_1.jpg)
-
-### Listen
-The audio player: built around bookmarking without obstructing the experience of listening.
-
-![]({{site.baseurl}}/assets/img/audio/feature_2.jpg)
-
-### Engage
-Editing a bookmark is immersive and easy - add notes or change the audio duration on the go.
-
-![]({{site.baseurl}}/assets/img/audio/feature_3.jpg)
-
-### Repeat, anytime
-Bookmarks are a swipe away. Come back to them during listening, or afterwards.
 
 ## Understanding the problem
 
@@ -133,6 +118,22 @@ Some interactions, while appealing, proved to be too complex for actual listenin
 ![]({{site.baseurl}}/assets/img/audio/previewing.png)
 
 Why this works: if users are multitasking, a preview should provide minimal information at the top level.
+
+## Features
+![]({{site.baseurl}}/assets/img/audio/feature_1.jpg)
+
+### Listen
+The audio player: built around bookmarking without obstructing the experience of listening.
+
+![]({{site.baseurl}}/assets/img/audio/feature_2.jpg)
+
+### Engage
+Editing a bookmark is immersive and easy - add notes or change the audio duration on the go.
+
+![]({{site.baseurl}}/assets/img/audio/feature_3.jpg)
+
+### Repeat, anytime
+Bookmarks are a swipe away. Come back to them during listening, or afterwards.
 
 ## Next steps
 I'm proud of some of the thinking that went into this project, but there are things that I wished I did differently. Bookmarks belong to chapters - this made sense when I thought about extremely episodic content like a lecture, but less so when chapters build upon previous chapters. I would have liked to go into how people access bookmarks from different chapters.

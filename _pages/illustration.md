@@ -5,7 +5,7 @@ permalink: /illo
 ---
 
   <header class="tc-l pt4 pt5-ns">
-    <h1 class="f3 fw7 f2-m f-subheadline-l font-primary measure lh-title mt0">Illustration</h1>
+    <h1 class="f3 fw7 f2-m f-subheadline-l font-body measure lh-title mt0">Illustration</h1>
     <time class="f5 f4-l db fw1 font-body mb4">December 2016</time>
     <img class="db ph6 center w-50" src="/assets/img/illo/man.jpg" alt="">
     <p class="f4 mb4 tc center measure lh-copy font-body">

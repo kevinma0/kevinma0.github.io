@@ -82,7 +82,7 @@ a {
 }
 
 .font-brand {
-  @extend .blue;
+  @extend .red;
 }
 
 .bg-brand {
@@ -90,7 +90,7 @@ a {
 }
 
 .hover-brand:hover {
-  @extend .hover-blue;
+  @extend .hover-red;
 }
 
 .font-dark {

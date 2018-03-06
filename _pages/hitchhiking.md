@@ -6,7 +6,7 @@ permalink: /hitchhiking/
 
 
   <header class="tc-ns pt4 pt5-ns">
-    <h1 class="f3 fw7 f2-m f-subheadline-l font-primary measure lh-title mt0">Hitchhiking</h1>
+    <h1 class="f3 fw7 f2-m f-subheadline-l font-body measure lh-title mt0">Hitchhiking</h1>
     <time class="f5 f4-l db fw1 font-body mb4"> October 15th, 2017</time>
     <img class="w-100 dib center-ns measure f3" src="/assets/img/hitching/opening.jpg" alt=""/>
   </header>
@@ -18,7 +18,7 @@ permalink: /hitchhiking/
 <iframe src="https://player.vimeo.com/video/242748906" width="100%" height="335" class="mt4 mt5-ns" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-Months ago, I was sitting in Jane Law's cozy office. I had taken a fantastic course with her the previous spring, and I wanted to let her to know it had had some sort of impact on me. At least that’s what I thought at the time. My days in Ithaca were numbered, hastened by impending graduation, and with that came the urgency to feel reconciled with all that I thought of as the past.
+Months ago, I was sitting in Jane Law's cozy office. I had taken a fantastic course with her the previous spring, and I wanted to let her to know how much I had enjoyed it. At least that’s what I thought at the time. My days in Ithaca were numbered, and I felt a strange urgency to be reconciled with what I thought of as the past.
 
 Her words came to my mind whenever I was unsure of myself, as was the case now:
 
@@ -26,11 +26,13 @@ Her words came to my mind whenever I was unsure of myself, as was the case now:
 
 ![Night lights]({{site.baseurl}}/assets/img/hitching/night.png)
 
-I walk faster now. The pale stucco houses stretch on. Their shadows are long and tangled, and soon they melt into the rest of the night. Far off, an airplane ascends and then lingers, as if star-bound but frightened.
+I walk faster now. The pale stucco houses stretch on. Their shadows are long and tangled, and soon they melt into the rest of the night.
 
-I curse myself for my naivety. For thinking that it would be so easy to find a place to sleep. For thinking that this would go smoothly at all.
+I curse myself for my naivety. For thinking that this would be easy.
 
-I camp on a roof.
+It's dark when I spot a ladder going up the side of an empty office building. I climb up and throw my things in a pile. Far off, the lights of an airplane blink blink blink in place.
+
+
 
 ![With Danny in the back up a pickup]({{site.baseurl}}/assets/img/hitching/4.png)
 
@@ -75,10 +77,10 @@ Tech is weird. I'm drawn to it, and the work that goes into making it. I'm sure 
 
 I wanted to see the US, as much of it as I could, before I started working in earnest.
 
-I wish I could draw a grand-sounding conclusion about the experience, but I'm always grasping at straws when it comes to grand-sounding conclusions.
+A friend asked me what I was looking for. I didn't know then and I don't know now.
 
 I will say: I enjoyed it thoroughly.
 
 ![Sunset out the back of a pickup]({{site.baseurl}}/assets/img/hitching/2.png)
 
-The sun is coming down, and I can see the downtown of my last stop. It's been a month since that first night in San Bernardino. I’m elated - to see my good friend Sam mostly. There's so much I want to tell him.
+The sun is coming down, and I can see the downtown of my last stop. It's months since that first night in San Bernardino. I’m elated - to see my good friend Sam mostly. There's so much I want to tell him.

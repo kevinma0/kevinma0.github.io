@@ -3,22 +3,21 @@ layout: about
 title: About
 permalink: /about/
 header: "Hey!"
-img: "me.jpg"
+img: "me1.jpg"
 ---
 <!-- <div class="ph5-ns ph4">
 <canvas class="vh-75" id="needles" style="background:#ea5a41"></div>
 </div> -->
 
-I was raised in a combination of snowy Michigan and smoggy Beijing. [Drawing](/illo) is my first love.
+I grew up in a combination of snowy Michigan and smoggy Beijing. [Drawing](/illo) is my first love.
 
 I've designed for a couple of teams -
-   HTC, IBM, and various research labs. At school I studied Information Science,
+   HTC, IBM, startups and research labs. At school I studied Information Science,
    with a focus on Human Computer Interaction.
 
-   After graduation I [hitchhiked across the US](/hitchhiking). I'm exhausted from doing the 'thumbs up' for so long, but excited to get back to making things. Working on something interesting?
+   After graduation I [hitchhiked across the US](/hitchhiking) for a year. I'm exhausted from holding my thumb up for so long, but excited to get back to making things.
 
-
-   Feel free to [reach out and let's chat](mailto:kym5@cornell.edu)!
+   Working on something interesting? [Reach out and let's chat](mailto:kym5@cornell.edu)!
 
 
 

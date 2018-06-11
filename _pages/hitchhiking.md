@@ -6,21 +6,22 @@ permalink: /hitchhiking/
 
 
   <header class="tc-ns pt4 pt5-ns">
-    <h1 class="f3 fw7 f2-m f-subheadline-l font-body measure lh-title mt0">Hitchhiking</h1>
-    <time class="f5 f4-l db fw1 font-body mb4"> October 15th, 2017</time>
+    <h1 class="f3 fw7 f2-m f-subheadline-l font-body measure lh-title mt0">Hitchhiking Pt. 1</h1>
+    <time class="f5 f4-l db fw1 font-body mb4"> January 15th, 2018</time>
     <img class="w-100 dib center-ns measure f3" src="/assets/img/hitching/opening.jpg" alt=""/>
   </header>
 
-  Earlier this year, I found myself hundreds of miles from home, in a strange neighborhood. It was the first night of a hitchhiking trip across the country, and I was looking for a place to roll out my sleeping bag.
+  Earlier last year, I found myself hundreds of miles from home, in a strange neighborhood. It was the first night of a hitchhiking trip across the country, and I was looking for a place to roll out my sleeping bag.
 
   The LA lights twinkled in the distance as dusk fell.
+
 <div class="cover">
 <iframe src="https://player.vimeo.com/video/242748906" width="100%" height="335" class="mt4 mt5-ns" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-Months ago, I was sitting in Jane Law's cozy office. I had taken a fantastic course with her the previous spring, and I wanted to let her to know how much I had enjoyed it. At least that’s what I thought at the time. My days in Ithaca were numbered, and I felt a strange urgency to be reconciled with what I thought of as the past.
+Months ago, I was sitting in Jane Law's cozy office. I had taken a mindblowing course with her the previous spring, and I wanted to let her to know how much I had enjoyed it. At least that’s what I thought at the time. My days in Ithaca were numbered, and I felt a strange urgency to be reconciled with what I thought of as the past.
 
-Her words came to my mind whenever I was unsure of myself, as was the case now:
+Her advice came to my mind whenever I was unsure of myself, as was the case now:
 
 “Go, go far away.”
 
@@ -30,19 +31,17 @@ I walk faster now. The pale stucco houses stretch on. Their shadows are long and
 
 I curse myself for my naivety. For thinking that this would be easy.
 
-It's dark when I spot a ladder going up the side of an empty office building. I climb up and throw my things in a pile. Far off, the lights of an airplane blink blink blink in place.
-
-
+It's dark when I spot a ladder going up the side of an empty office building. I climb up and throw my things in a pile. I crawl into the sleeping bag, and look up into the boundless blue night. Far off, the lights of an airplane blink blink blink in place.
 
 ![With Danny in the back up a pickup]({{site.baseurl}}/assets/img/hitching/4.png)
 
 Who still hitchhikes?
 
-It turns out there’s a sprawling road culture, and it comes in flavors.
+It turns out there’s a sprawling road culture. Like any culture it comes in flavors that weave and blend together.
 
-I can't help but feel like a tourist, and that's probably what I am. I'm going home when it's over. Maybe I’ll write a blog post or two about my experience. Maybe I’ll fill it with blurry phone photos.
+I can't help but feel like a tourist, and that's probably what I am. I'm going home when it's over. Maybe I'll begin a 9 to 5. Maybe I’ll write a blog post or two about my experience. Maybe I’ll fill it with blurry phone photos.
 
-Danny is something else. The road is his home and he’s proud of it. With the patchwork pants, mutton chops, and dyed 'fro, he looks as if he was spit out by a jam band concert deep in the Arizona desert and then decided to keep on going. And that was 2 years ago. He busks to pay the way. He’s indignant at the people who shout at him to “get a job”, but only friendly to other travelers.
+Danny is something else. With the patchwork pants, mutton chops, and crazy 'fro, he looks as if he was spit out by a jam band concert deep somewhere in the desert and then decided to keep on walking. And that was 2 years ago. He busks to pay the way. He’s indignant at people who admonish him to “get a job”. He's nothing but friendly to other travelers.
 
 “I’m going to Maine.” He says.
 
@@ -50,37 +49,40 @@ Danny is something else. The road is his home and he’s proud of it. With the p
 
 “I’m from San Diego originally, and it’s the farthest from San Diego there is.”
 
-He runs a hand through his afro.
+He's looking past me now, into the distance.
 
 “I’ve tried, but I always had to turn back for some reason. But I feel good about this time.”
 
 ![Andrew buys us burgers at a Wendy's.]({{site.baseurl}}/assets/img/hitching/andrew.png)
 
-100 miles out of Phoenix, Andrew stops at a Wendy’s to buy us burgers. He had picked me up somewhere around Indio and we had been driving and talking for the past 2 hours. I’m ravenous and I gladly wolf down the burgers after initial polite refusal.
+100 miles out of Phoenix, Andrew stops at a Wendy’s to buy us burgers. He picked me up somewhere around Indio and we'd been talking for 2 hours. I’m ravenous and I wolf my burger down.
 
-Andrew mades it known at the start that he was a Jehovah's Witness, and also made it known we didn’t have to talk about it. Seemingly aware of the discomfort that comes with the door-to-door evangelism, he was at once eager to talk about his faith, and restrained out of politeness from doing so.
+Andrew is a Jehovah's Witness. He makes that known at the start. He also makes it known that we don't have to talk about it. Aware of discomfort that comes with the door-to-door evangelism, he's simultaneously eager to talk about his faith, and restrained by his own social awareness from doing so.
 
-He ends up picking up two more people: an old rancher and a young hitchhiker. He extends the same introduction to them, and there’s a straining there too.
+We stop and pick up two more people: an old rancher and a young hitchhiker. He extends the same muted enthusiasm to them.
 
-He drops me off at the U of A library, because I don't know another landmark. The rancher got off a while ago and I say good luck to the other hitchhiker.
+He drops me off at the U of A library, because I don't know another landmark in the city. He gives me 5 dollars.
 
 ![Mishka was a beautiful dog]({{site.baseurl}}/assets/img/hitching/5.png)
 
-Every few days or so I hunker down in a McDonald's rest booth and do my side job - a small web dev gig.
+Sometimes I hunker down in a McDonald's rest booth and work. I manage to pick up small web dev gigs that let me keep the decadence going.
 
-As I slide <div>’s across the screen, huge freight trucks scream past on the highway outside.
+As I hammer away into the Terminal, huge freight trucks scream past on the highway outside. Sometimes I take the work to bed. I take it into my sleeping bag.
 
-Tech is weird. I'm drawn to it, and the work that goes into making it. I'm sure I misuse it though. After spending enough time in any app I feel like I've eaten a big basket of candy.
-
+The weirdness of the situation eludes me at the time. In retrospect it is very weird: a guy lying on his stomach in a <a href="https://s3.amazonaws.com/images.gearjunkie.com/uploads/2007/07/bivvy-sleeper2.jpg">survival bivvy</a> staring at a glowing screen. A lantern in the pitch black night. The irony is almost malicious: I never got away from anything. I was doing the same thing,  just without a roof over my head.
 
 ![A hippie caravan]({{site.baseurl}}/assets/img/hitching/8.png)
 
 I wanted to see the US, as much of it as I could, before I started working in earnest.
 
-A friend asked me what I was looking for. I didn't know then and I don't know now.
+"What were you looking for?" A friend asks when the whole thing is done.
 
-I will say: I enjoyed it thoroughly.
+Truth. Beauty. Love. Nothingness. All of the cliches.
+
+And then there was cynicism, too. I felt stagnant at the end of college. Despite having some fantastic professors, I felt complicit in a system that was preparing me for a lifetime of collecting gold stars. Something I had been good at, something that put me into the system in the first place. It's easy for me to point the finger, but I realize now the real problem was my own lack of intellectual and creative inquisitiveness.
+
+Life goes on.
 
 ![Sunset out the back of a pickup]({{site.baseurl}}/assets/img/hitching/2.png)
 
-The sun is coming down, and I can see the downtown of my last stop. It's months since that first night in San Bernardino. I’m elated - to see my good friend Sam mostly. There's so much I want to tell him.
+The sun is coming down, and I can see the downtown of Austin. It's months since the first night in San Bernardino. I’m elated - to see my good friend Sam mostly. There's so much I want to tell him.

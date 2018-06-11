@@ -3,7 +3,7 @@ layout: project
 permalink: /audiobooks
 title: "Audiobit"
 type: "UX"
-description: "An app that refocuses the audiobook experience on engagement."
+description: "Redefining the audiobook experience."
 img: "thumb_audio.jpg"
 banner: "banner_audio.jpg"
 format: "custom"

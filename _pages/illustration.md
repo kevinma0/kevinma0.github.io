@@ -6,7 +6,7 @@ permalink: /illo
 
   <header class="tc-l pt4 pt5-ns">
     <h1 class="f3 fw7 f2-m f-subheadline-l font-body measure lh-title mt0">Illustration</h1>
-    <time class="f5 f4-l db fw1 font-body mb4">December 2016</time>
+    <time class="f5 f4-l db fw1 font-body mb4">June 2017</time>
     <img class="db ph6 center w-50" src="/assets/img/illo/man.jpg" alt="">
     <p class="f4 mb4 tc center measure lh-copy font-body">
   A collection of personal  work.
@@ -16,9 +16,7 @@ permalink: /illo
 
 ![](/assets/img/illo/paint2.png)
 
-I didn’t grow up around the advent of personal computing—I was a bit (read as: 20 years) late. But I sure wish I did. There’s something very earnest to me about old computer interfaces. I’m the hugest sucker for vicarious nostalgia.
-
-And Mac Paint is the bee’s knees.
+I didn’t grow up around the advent of personal computing—I was a bit (read as: 20 years) late. But I sure wish I did. There’s something very earnest to me about old computer interfaces. And Mac Paint is the bee’s knees.
 
 ![](/assets/img/illo/cat2.png)
 
@@ -26,11 +24,7 @@ They cannot know who I am, inside.
 
 ![](/assets/img/illo/drowning.jpg)
 
-Reflections on learning natural language processing.
-
-<!-- Some people start writing code by the time they're 8. They can tell you stories of their dads bringing home Commodore 128s, showing them BASIC, or Scratch, or Python, or whatever the hell dads and moms show their kids nowadays. They latch right on. They write games. They spend after school at the computer lab. They write their own compilers.
-
-I am not these people. Learning to code was very painful for me. It wasn't until after much sweat and blood had been shed, that I felt like I had stumbled upon something incredible. -->
+Adventures in code.
 
 ![](/assets/img/illo/smarthome.jpg)
 
@@ -44,23 +38,23 @@ Patterns draw me in because they tell stories of the mundane. They speak of ever
 
 Guess the ending.
 
-![](/assets/img/illo/housey.jpg)
-
-Beige: #EEC7B8, Powder Blue: #CAB7BB, Pink: #89CCE2
-
 ![](/assets/img/illo/wave.jpg)
 
-A personal response to editorial: [Groupthink, The New Yorker](https://www.newyorker.com/magazine/2012/01/30/groupthink)
+Response to editorial: [Groupthink, The New Yorker](https://www.newyorker.com/magazine/2012/01/30/groupthink)
 
-![](/assets/img/illo/spacey.jpg)
+![](/assets/img/illo/brand.jpg)
 
-I hope we'll play catch in space.
+![](/assets/img/illo/passive.jpg)
+
+![](/assets/img/illo/latte.jpg)
+
 
 <img class="db ph6 center" src="{{site.baseurl}}/assets/img/illo/cat.jpg" alt="">
 
+<p class="f4 mb4 tc center measure lh-copy font-body">
 
-Thanks for coming through! More [here](http://messybin.tumblr.com).
-
+More <a href="http://messybin.tumblr.com">here</a>.
+</p>
 <!--
 
     <p class="f4 mb4 center measure lh-copy">

@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /about/
-header: "Hey!"
+header: "What's up!"
 img: "me1.jpg"
 ---
 <!-- <div class="ph5-ns ph4">
@@ -12,12 +12,12 @@ img: "me1.jpg"
 I grew up in a combination of snowy Michigan and smoggy Beijing. [Drawing](/illo) is my first love.
 
 I've designed for a couple of teams -
-   HTC, IBM, startups and research labs. At school I studied Information Science,
+   HTC, IBM, startups and labs. At school I studied Information Science,
    with a focus on Human Computer Interaction.
 
-   After graduation I [hitchhiked across the US](/hitchhiking) for a year. I'm exhausted from holding my thumb up for so long, but excited to get back to making things.
+   After graduation I spent a year [hitchhiking across America and working odd jobs.](/hitchhiking)  I'm exhausted from holding my thumb up for so long, but excited to get back to making things.
 
-   Working on something interesting? [Reach out and let's chat](mailto:kym5@cornell.edu)!
+   Working on something interesting? [Reach out and let's chat](mailto:kevthema@gmail.com)!
 
 
 

@@ -103,9 +103,9 @@ I wanted to see the US, as much of it as I could, before I started working in ea
 
 Truth. Beauty. Love. Nothingness. Sure, all of the cliches.
 
-And I was looking for a resolution to my own problem as well. I felt incredibly disillusioned by the end of school. Despite having studied under fantastic professors, I had slowly come to the uncomfortable realization that I was spending four years jumping through arbitrary hoops, for what amounted to gold stars. Something I had been good at. Something that had gotten me into college in the first place.
+And I must have been looking for an answer to my own cynicism as well. I was incredibly frustrated by the end of college. Despite having had some fantastic professors and friends, I felt all too complicit in a system that was preparing me for a lifetime of collecting gold stars. Something I had been good at; something that had allowed me entrance into the system in the first place.
 
-It's easy to point the finger: at authority figures, at the system, at groupthink. The truth is that the opportunities for growth were there. I just never looked for them. The real problem was my own lack of intellectual and creative inquisitiveness.
+It's easy for me to point the finger at authority figures. At the system. The truth is that the opportunities for growth were there. I just never looked for them. The real problem was my own lack of intellectual and creative inquisitiveness.
 
 Life goes on.
 

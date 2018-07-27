@@ -87,10 +87,14 @@ The weirdness of the situation eludes me at the time. In retrospect it is very w
 
 ![Abandoned water park]({{site.baseurl}}/assets/img/hitching/slide.png)
 
+![Contents of my bag]({{site.baseurl}}/assets/img/hitching/stuff.jpg)
+
 ![Grafitti: You are Beautiful]({{site.baseurl}}/assets/img/hitching/beautiful.jpg)
 
+
+
 <div class="cover">
-<iframe src="https://player.vimeo.com/video/187762089" width="100%" height="335" class="mt4 mt5-ns" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/281284284" width="100%" height="335" class="mt4 mt5-ns" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 I wanted to see the US, as much of it as I could, before I started working in earnest.
@@ -99,9 +103,9 @@ I wanted to see the US, as much of it as I could, before I started working in ea
 
 Truth. Beauty. Love. Nothingness. Sure, all of the cliches.
 
-And I must have been looking for an answer to my own cynicism as well. I was incredibly frustrated by the end of college. Despite having had some fantastic professors and friends, I felt all too complicit in a system that was preparing me for a lifetime of collecting gold stars. Something I had been good at; something that had allowed me entrance into the system in the first place.
+And I was looking for a resolution to my own problem as well. I felt incredibly disillusioned by the end of school. Despite having studied under fantastic professors, I had slowly come to the uncomfortable realization that I was spending four years jumping through arbitrary hoops, for what amounted to gold stars. Something I had been good at. Something that had gotten me into college in the first place.
 
-It's easy for me to point the finger. The opportunities for growth were there. I just never looked for them. The real problem was my own lack of intellectual and creative inquisitiveness.
+It's easy to point the finger: at authority figures, at the system, at groupthink. The truth is that the opportunities for growth were there. I just never looked for them. The real problem was my own lack of intellectual and creative inquisitiveness.
 
 Life goes on.
 

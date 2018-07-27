@@ -12,12 +12,12 @@ img: "me1.jpg"
 I grew up in a combination of snowy Michigan and smoggy Beijing. [Drawing](/illo) is my first love.
 
 I've designed for a couple of teams -
-   HTC, IBM, startups and labs. At school I studied Information Science,
+   HTC, IBM, research labs and startups. At school I studied Information Science,
    with a focus on Human Computer Interaction.
 
-   After graduation I spent a year [hitchhiking across America and working odd jobs.](/hitchhiking)  I'm exhausted from holding my thumb up for so long, but excited to get back to making things.
+   After graduation I spent the better part of a year [hitchhiking across America and working odd jobs.](/hitchhiking)  I'm exhausted from holding my thumb up for so long, but excited to get back to making things.
 
-   Working on something interesting? [Reach out and let's chat](mailto:kevthema@gmail.com)!
+   Working on something interesting? [Reach out and let's chat!](mailto:kevthema@gmail.com)
 
 
 

@@ -19,11 +19,19 @@ permalink: /hitchhiking/
 <iframe src="https://player.vimeo.com/video/242748906" width="100%" height="335" class="mt4 mt5-ns" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-Rewind to a couple of months ago. I'm in Jane Law's cozy office. I had taken a fantastic course with her a previous spring, and I wanted to let her to know how much I had enjoyed it. At least that’s what I thought at the time. My days in Ithaca were numbered, and I felt a strange urgency to be reconciled with what I thought of as the past.
+Rewind to a couple of months ago. I'm in Jane Law's cozy office. I had taken a fantastic course in Japanese religions with her a previous spring, and I wanted to let her to know how much I had enjoyed it. At least that’s what I thought at the time. My days in Ithaca were numbered, and I felt a strange urgency to be reconciled with what I thought of as the past.
 
-Her parting advice came to my mind whenever I was unsure of myself, as was the case now:
+"So, what do you want to do with your life?" She asks.
 
-“Go, go far away.”
+"I want to be a designer."
+
+"OK. What else?"
+
+As we talked, the shadows in the room become elongated and formless. She was as fearless in conversation as she was in lecture. On the receiving end of that fearlessness I felt exposed, like a child with a hand in the cookie jar when the light is suddenly flipped on. She told me about her travels in the past. She told me about her research in the present. I told her about my concerns for the future.
+
+Her parting advice still comes to my mind whenever I'm unsure of myself, as was the case my night in San Bernardino.
+
+“Try it. Go away for a while.”
 
 ![Night lights]({{site.baseurl}}/assets/img/hitching/night.png)
 
@@ -111,6 +119,6 @@ Life goes on.
 
 ![Sunset out the back of a pickup]({{site.baseurl}}/assets/img/hitching/close.png)
 
-The sun is coming down, and I can see the downtown of Austin. It's been months since the first night in San Bernardino. I’m elated - to see my good friend Sam mostly. There's so much I want to tell him.
+The sun is coming down, and I can see the downtown of Austin. It's been months since the first night in California. I’m elated - to see my good friend Sam mostly. There's so much I want to tell him.
 
 <p class="i">Thank you for reading! Part II is coming soon.</p>

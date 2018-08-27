@@ -18,7 +18,7 @@ introduction: "Emotar takes a photo of you and then converts it into a 3D model 
 
 <div class="w-100 w-50-ns fn fl-ns">
 <p>{{page.introduction}}</p>
-<a class="button" href="https://medium.com/@kevinyma/redesigning-htcs-emotar-4a7e719f87c3">Full Case Study</a>
+<a class="button" href="https://medium.com/@kevin8ma/redesigning-htcs-emotar-4a7e719f87c3">Full Case Study</a>
 </div>
 </div>
 

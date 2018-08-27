@@ -17,7 +17,7 @@ introduction:
 
 <div class="w-100 w-50-ns fn fl-ns">
 <p>Audiobit helps people interact with what they're listening to - gaining a better understanding in the process.</p>
-<a class="button" href="https://medium.com/@kevinyma/towards-a-more-interactive-audiobook-experience-aece33814122">Full Case Study</a>
+<a class="button" href="https://medium.com/@kevin8ma/towards-a-more-interactive-audiobook-experience-aece33814122">Full Case Study</a>
 </div>
 </div>
 

@@ -23,7 +23,7 @@ The department hoped to create a platform that would make finding this informati
 
 A fully-responsive web application. The pages are built upon modules of functionality, which allow for the site to be scaled as time goes on and processes are continually updated.
 
-<a class="button" href="https://medium.com/@kevinyma/designing-an-hr-portal-ce7ac9b5463a">Read Case Study</a>
+<a class="button" href="https://medium.com/@kevin8ma/designing-an-hr-portal-ce7ac9b5463a">Read Case Study</a>
 
 ![]({{site.baseurl}}/assets/img/hr/process.jpg)
 ![]({{site.baseurl}}/assets/img/hr/wireframe.png)

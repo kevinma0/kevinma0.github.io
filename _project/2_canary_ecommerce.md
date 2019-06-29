@@ -1,34 +1,37 @@
 ---
-layout: project
-permalink: /audiobooks
-title: "Audiobit"
+layout: project-natural
+permalink: /canarypdp
+title: "Canary PDP + Shopping Cart"
 type: "UX"
-description: "Redefining the audiobook experience."
+description: "Canary's e-commerce experience needed to be updated to accomodate its "
 img: "thumb_audio.jpg"
 banner: "banner_audio.jpg"
 format: "custom"
 case-study: true
+hide: true
 introduction:
 ---
+
 <div class="pv5 cf">
-<div class="w-100 w-50-ns fn fl-ns">
-<h1 class="fw7 f1 fl w-100 mt2 mb3 font-primary font-dark lh-title">{{ page.title }}</h1>
-</div>
-
-<div class="w-100 w-50-ns fn fl-ns">
-<p>Audiobit helps people interact with what they're listening to - gaining a better understanding in the process.</p>
-<a class="button" href="https://medium.com/@kevin8ma/towards-a-more-interactive-audiobook-experience-aece33814122">Full Case Study</a>
+<div class="w-100">
+<h1 class="fw7 f1 tc w-100 mt2 mb3 font-primary font-dark lh-title">{{ page.title }}</h1>
 </div>
 </div>
 
+<div class="mhn2" style="
+    margin-left: -20%;
+    margin-right: -20% style="background-image: url(/assets/img/canarypdp/test.jpg);"></div>
+</div>
 
-<!-- ###### I can't interact with an audiobook like I can with a physical book. This makes it harder to learn. -->
-## The challenges of listening
-
-Audiobooks are a tricky medium. They combine passive and active listening. They're consumed on the go, or in the background. This has quite different implications for the ideal consumption experience when compared to a book, that captures a reader's full attention, or a song, that can be enjoyed with minimum attention.
 
 
-## Understanding the problem
+Over its lifetime, Canary's business model gradually transitioned from hardware-only sales to  a software subscription service. Our existing e-commerce experience, including the PDP, did not accommodate our new emphasis on premium software features, or our decision to promote hardware-software bundles.
+
+I worked with project manager Subashiny as the sole designer on a number of initiatives within the e-commerce experience. Our challenge was the lay the groundwork for a new PDP that could be extended in the future with various software plans. Additionally, we examined user data to optimize every step of the shopping cart checkout experience.
+
+
+
+### Understanding the problem
 
 I conducted qualitative interviews with audiobook and podcast listeners who enjoyed audio segments of different genres, to understand their motives and contexts of listening.
 

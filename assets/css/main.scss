@@ -20,6 +20,28 @@ a {
 }
 
 @font-face {
+  font-family: Tiempos Headline;
+  font-style: normal;
+  src:
+    url('/assets/fonts/Tiempos-Headline-Semibold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: Tiempos;
+  font-style: normal;
+  src:
+    url('/assets/fonts/Tiempos-Text-Regular.otf') format('opentype');
+}
+
+
+@font-face {
+  font-family: Raleway;
+  font-style: italic;
+  font-weight: 300;
+  src: local('Raleway-Light'),
+      url(/assets/fonts/Raleway-Light.ttf);
+}
+@font-face {
   font-family: Raleway;
   font-style: italic;
   font-weight: 400;
@@ -64,25 +86,25 @@ a {
 }
 
 .font-primary {
-    font-family: 'Raleway', Athelas, sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 .font-body {
   // @extend .athelas;
-  font-family: 'Cardo', Baskerville, serif;
-  line-height: 1.7
+  font-family: 'adobe-caslon-pro', Georgia, Times, serif;
+  line-height: 1.5
 }
 
 .font-light {
-  @extend .black-60;
+  @extend .black-50;
 }
 
 .font-lightest {
-  @extend .black-40;
+  @extend .black-20;
 }
 
 .font-brand {
-  @extend .red;
+  @extend .blue;
 }
 
 .bg-brand {
@@ -94,7 +116,8 @@ a {
 }
 
 .font-dark {
-  @extend .black-80;
+  // @extend .black-80;
+  color: #051033;
 }
 
 .horizontal-margin-wide {
@@ -103,13 +126,16 @@ a {
 
 .nav {
   a {
-    @extend  .f5-l, .f6, .fw5, .link, .font-brand, .font-primary, .lh-copy, .underline-hover, .db-l, .dib, .mr3, .mr0-l;
+    @extend .db-l, .dib, .mr3, .mr0-l;
   }
 }
 
 .project-body {
   p, ol, ul {
-    @extend .lh-copy, .f4, .fw1, .font-body;
+    @extend .lh-copy, .f4-ns, .f5, .font-body;
+  }
+  img {
+    @extend .mt5-ns, .mt4;
   }
   li {
     @extend .pb1;
@@ -123,9 +149,7 @@ a {
   h6 {
     @extend .f2, .font-body, .fw3, .font-lightest, .center;
   }
-  img {
-    @extend .mt5;
-  }
+  
   a {
     @extend .link, .lh-copy, .font-brand, .underline-hover, .font-body;
   }

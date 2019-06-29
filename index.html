@@ -4,13 +4,12 @@ title: "Kevin Ma"
 permalink: "/"
 ---
 
-<article class="pb6  pt4 horizontal-margin-wide">
+<article class="pb6  pt6 horizontal-margin-wide">
   <header class="cf mv4-ns">
-    <!-- <h1 class="f2 f1-ns fw7 lh-title measure-narrow font-primary black">Kevin loves design, code, and <a href="https://archive.org/details/LightsOutoldTimeRadio/LightsOut-1938-03-23TheDream.mp3" class="link black dim">old-time radio shows</a>.</h1> -->
-<!-- <h1 class="f1 f-headline-ns lh-title mt0 pt0 measure font-primary black">Hello!</h1> -->
-<h1 class="f2-ns f3 fw7 lh-title font-primary font-dark">Hi, my name is <a href="{{site.baseurl}}/about/" class="link underline-hover font-brand">Kevin</a>.<br> I'm a designer and developer.</h1>
+<!-- <h1 class="f1-ns f2 fw7 lh-title font-primary font-dark">Hi, my name is <a href="{{site.baseurl}}/about/" class="link underline-hover font-brand">Kevin</a>.<br> I'm a product designer in NYC.</h1> -->
+<h1 class="f1-ns f2 fw7 tc lh-title font-primary font-dark">Kevin is a product designer in NYC.</h1>
 
-      </p>
+      
 
   </header>
 </article>
@@ -21,14 +20,14 @@ permalink: "/"
     {% continue %}
   {% endif %} -->
    <section class="pv5 cf">
-    <div class="w-100 w-third-l fn fl-l pr0 pr3-l ">
+    <div class="w-100 w-50-l fn fl-l pr0 pr4-l ">
     <!-- <p class="f7 f6-ns fw6 ttu tracked black-30 mv0 font-primary lh-copy">Case Study</p> -->
-    <a href="{{ project.url | prepend: site.baseurl }}" class="link black dim"><h1 class=" f3-ns f4 fw7 font-primary font-dark lh-title mt0 mb1">{{ project.title }}</h1></a>
+    <a href="{{ project.url | prepend: site.baseurl }}" class="link black dim"><h1 class=" f2-ns f3 fw7 font-primary font-dark lh-title mt0 mb1">{{ project.title }}</h1></a>
     <!-- <p class="w2 bt bw2"></p> -->
-    <p class="f4 fw4 lh-copy font-body font-light">{{ project.description }}</p>
+    <p class="f5 fw4 lh-copy font-body-alt font-light">{{ project.description }}</p>
 
     </div>
-    <div class="w-100 w-two-thirds-l fn fl-l pl0 pl3-l ">
+    <div class="w-100 w-50-l fn fl-l pl0 pl3-l ">
       <a href="{{ project.url | prepend: site.baseurl }}" class="w-100 fl border-box overflow-visible br3 shadow-hover">
       <div class="br3 cover aspect-ratio aspect-ratio--16x9 " style="background:red url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
       </a>
@@ -37,7 +36,13 @@ permalink: "/"
   {% endif %}{% endfor %}
 </article>
 <article class="horizontal-margin-wide pv4-ns pv2">
-  <h1 class="w-100 f3-ns f4 fw7 font-primary font-dark lh-title pt4">On the Side</h1>
+  <h1 class="w-100 f2-ns f3 fw7 tc font-primary font-dark lh-title pt5 pb1">Side Projects</h1>
+
+  {% for project in site.project %}{% if project.case-study == false and project.hide != true%}
+
+
+  {% endif %}{% endfor %}
+
 
   <div class="pb5 pt3-ns cf mhn3-l mhn2-m">
   {% for project in site.project %}{% if project.case-study == false and project.hide != true%}
@@ -48,8 +53,8 @@ permalink: "/"
         </a>
 
       <!-- <p class="w-100 fl f7 f6-ns fw5 ttu tracked black-30 font-primary lh-copy pt3">{{project.type}}</p> -->
-      <a href="{% if project.alturl %}{{ project.alturl | prepend: site.baseurl }}{% else %}{{ project.url | prepend: site.baseurl }}{% endif %}" class="link font-light dim"><h1 class="fl w-100 f4-ns f4 fw7 font-primary font-dark lh-title mb1 mt4">{{project.title}}</h1></a>
-      <p class="f4 fw4 lh-copy font-body font-light">{{ project.description }}</p>
+      <a href="{% if project.alturl %}{{ project.alturl | prepend: site.baseurl }}{% else %}{{ project.url | prepend: site.baseurl }}{% endif %}" class="link tc font-light dim"><h1 class="fl w-100 f4-ns f4 fw7 font-primary font-dark lh-title mb1 mt4">{{project.title}}</h1></a>
+      <p class="f5-ns tc fw4 lh-copy font-sans-serif font-light">{{ project.description }}</p>
     </section>
     {% endif %}{% endfor %}
   </div>

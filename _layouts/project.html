@@ -1,24 +1,34 @@
 ---
 layout: default
 ---
-{% if page.banner %}
-<div class="">
-<div class=" vh-75-ns vh-50 cover bg-center" style="background-image: url(/assets/img/{{page.banner}});"></div>
-</div>
-{% endif %}
 
-  <div class="measure f3 center mb5 ph4">
-    {% unless page.format == "custom" %}
+<!-- <div class="">
+<div class=" vh-75-ns vh-50 cover bg-center" style="background-image: url(/assets/img/{{page.banner}});"></div>
+</div> -->
+
+
+    <!-- {% unless page.format == "custom" %}
     <div class="pt5 pb3">
       <h1 class="fw7 f1 fl w-100 mt2 mb3 font-primary font-dark lh-title">{{ page.title }}</h1>
       <p class="f3 fw4 lh-copy measure font-primary font-dark">
         {{ page.introduction }}
       </p>
     </div>
-    {% endunless %}
-    <div class="project-body font-dark">
+    {% endunless %} -->
+    <div class="horizontal-margin-wide">
+        {% if page.banner %}
+        <div class=" vh-25 vh-50-ns cover bg-center center mw" style="background-image: url(/assets/img/{{page.banner}});"></div>
+        {% endif %}
+
+        <div class="pv5-ns pv4  ph4-ns center cf tc-ns">
+        
+        <h1 class="fw7 f1-ns f2 w-100 mv0 font-primary font-dark lh-title">{{ page.title }}</h1>
+        <h2 class="fw4 f2-l f3 w-100 mt0 mb4 font-lightest font-primary lh-title">{{ page.subtitle }}</h2>
+        <time class="color-brand f5 fw4 font-primary">{{ page.dated }}</time>
+        </div>
+    </div>
+    <div class="horizontal-margin-wide project-body">
       {{ content }}
     </div>
-  </div>
 
-{% include project-footer.html %}
+    {% include project-footer.html %}

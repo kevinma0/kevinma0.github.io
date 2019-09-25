@@ -8,14 +8,15 @@ img: "me1.jpg"
 <!-- <div class="ph5-ns ph4">
 <canvas class="vh-75" id="needles" style="background:#ea5a41"></div>
 </div> -->
-
-I grew up in a combination of snowy Michigan and smoggy Beijing. [Drawing](/illo) is my first love.
+I'm a product designer at Canary, living in Brooklyn.
 
 I've designed for a couple of teams -
    HTC, IBM, research labs and startups. At school I studied Information Science,
    with a focus on Human Computer Interaction.
 
-   After graduation I spent the better part of a year [hitchhiking across America and working odd jobs.](/hitchhiking)  I'm exhausted from holding my thumb up for so long, but excited to get back to making things.
+I grew up in a combination of snowy Michigan and smoggy Beijing. [Drawing](/illo) is my first love.
+
+   After graduation I spent the better part of a year [hitchhiking across America and working odd jobs.](/hitchhiking) It was pretty tiring.
 
    Working on something interesting? [Reach out and let's chat!](mailto:kevthema@gmail.com)
 

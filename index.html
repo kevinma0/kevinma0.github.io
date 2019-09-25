@@ -1,56 +1,81 @@
 ---
 layout: default
-title: "Kevin Ma"
+title: "Kevin Ma - Product Designer in NYC"
 permalink: "/"
 ---
 
-<article class="pb6  pt4 horizontal-margin-wide">
-  <header class="cf mv4-ns">
-    <!-- <h1 class="f2 f1-ns fw7 lh-title measure-narrow font-primary black">Kevin loves design, code, and <a href="https://archive.org/details/LightsOutoldTimeRadio/LightsOut-1938-03-23TheDream.mp3" class="link black dim">old-time radio shows</a>.</h1> -->
-<!-- <h1 class="f1 f-headline-ns lh-title mt0 pt0 measure font-primary black">Hello!</h1> -->
-<h1 class="f2-ns f3 fw7 lh-title font-primary font-dark">Hi, my name is <a href="{{site.baseurl}}/about/" class="link underline-hover font-brand">Kevin</a>.<br> I'm a designer and developer.</h1>
 
-      </p>
+<script type="text/paperscript" src="/assets/js/windmills.js" canvas=canvasThumbnail></script>
 
-  </header>
-</article>
-<article id="projects" class="horizontal-margin-wide">
 
-  {% for project in site.project %}{% if project.case-study and project.hide != true %}
-  <!-- {% if project.hide %}
-    {% continue %}
-  {% endif %} -->
-   <section class="pv5 cf">
-    <div class="w-100 w-third-l fn fl-l pr0 pr3-l ">
-    <!-- <p class="f7 f6-ns fw6 ttu tracked black-30 mv0 font-primary lh-copy">Case Study</p> -->
-    <a href="{{ project.url | prepend: site.baseurl }}" class="link black dim"><h1 class=" f3-ns f4 fw7 font-primary font-dark lh-title mt0 mb1">{{ project.title }}</h1></a>
-    <!-- <p class="w2 bt bw2"></p> -->
-    <p class="f4 fw4 lh-copy font-body font-light">{{ project.description }}</p>
+<article class="mw9 center helvetica">
+
+  <div class=" ph4-ns ph3 w-100">
+    <header class="cf pb6">
+    <div class="fn fl-l w-50-l w-75-m w-100">
+      <p class="f3 fw4 lh-copy mt0">He wields design and code to solve interesting problems with nice people. He's currently designing digital products at Canary. Prior to that he worked at IBM and HTC.</p>
+        <!-- <p class="f3 fw4 lh-copy mt0">Currently I'm a product designer at Canary. Previously I worked at IBM and HTC.</p>
+     -->
+
+      <!-- <fieldset>
+          <legend>Settings</legend>
+            <div>
+              <input class="checkout" type="checkbox" id="coding" name="interest" value="coding">
+              <label class="f3" for="coding">Site bones</label>
+            </div>
+        </fieldset>
+        <input type="checkbox" name="vehicle1" value="bones" checked> Site bones<br>
+        <input type="checkbox" name="vehicle1" value="images" checked> Images<br> -->
 
     </div>
-    <div class="w-100 w-two-thirds-l fn fl-l pl0 pl3-l ">
-      <a href="{{ project.url | prepend: site.baseurl }}" class="w-100 fl border-box overflow-visible br3 shadow-hover">
-      <div class="br3 cover aspect-ratio aspect-ratio--16x9 " style="background:red url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
-      </a>
-    </div>
-  </section>
-  {% endif %}{% endfor %}
-</article>
-<article class="horizontal-margin-wide pv4-ns pv2">
-  <h1 class="w-100 f3-ns f4 fw7 font-primary font-dark lh-title pt4">On the Side</h1>
 
-  <div class="pb5 pt3-ns cf mhn3-l mhn2-m">
-  {% for project in site.project %}{% if project.case-study == false and project.hide != true%}
-    <section class="w-100 fn fl-ns w-third-l pl3-l pr3-l pv5 pv0-ns cf">
 
-        <a href="{% if project.alturl %}{{ project.alturl | prepend: site.baseurl }}{% else %}{{ project.url | prepend: site.baseurl }}{% endif %}" class="w-100 fl overflow-visible border-box br3">
-          <div class="cover pv5 pv6-m pv6-l shadow-hover br3" style="background:red url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
+    </header>
+
+
+    {% for project in site.project %}{% if project.case-study and project.hide != true %}
+    <section class="pv5 cf">
+      <div class="w-100 w-25-l fn fl-l pr0">
+      <div class="bt b--black pt4 mr4-l mr0">
+        <a href="{{ project.url | prepend: site.baseurl }}" class="link black dim">
+          <h1 class="f4 fw5 lh-title mt0 mb1">{{ project.title }} <span class="black-20">{{project.year}}</span></h1>
         </a>
+        <p class="f4 fw4 lh-copy ">{{ project.description }}</p>
+        {% if project.action == "link" %}<a href=="" class="f4 black underline">read case study ></a>   {% endif %}
+        {% if project.action == "deck" %}<a href=="" class="f4 black underline">get design deck ></a>   {% endif %}
+      </div>
+      </div>
+      <div class="w-100 w-75-l fn fl-l pl0  ">
+        <a href="{{ project.url | prepend: site.baseurl }}"
 
-      <!-- <p class="w-100 fl f7 f6-ns fw5 ttu tracked black-30 font-primary lh-copy pt3">{{project.type}}</p> -->
-      <a href="{% if project.alturl %}{{ project.alturl | prepend: site.baseurl }}{% else %}{{ project.url | prepend: site.baseurl }}{% endif %}" class="link font-light dim"><h1 class="fl w-100 f4-ns f4 fw7 font-primary font-dark lh-title mb1 mt4">{{project.title}}</h1></a>
-      <p class="f4 fw4 lh-copy font-body font-light">{{ project.description }}</p>
+          class="w-100 fl border-box overflow-visible shadow-hover">
+          {% if project.special == "codeart" %}
+          <canvas resize="true" id="canvasThumbnail" style="background:#ea5a41;height:100%;"></canvas>
+          {% else %}
+          <div class="cover aspect-ratio aspect-ratio--16x9 "
+            style="background:blue url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
+          {% endif %}
+        </a>
+      </div>
     </section>
     {% endif %}{% endfor %}
-  </div>
+
+    <section class="pv5 cf">
+
+    {% for project in site.project %}{% if project.case-study != true and project.hide != true %}
+    <div class="w-100 w-25-l fn fl-l pr0">
+    <div class="bt b--black pt4 mr4">
+        {% if project.action == "link" %}<a href="{{ project.url | prepend: site.baseurl }}" class="link black dim">
+        {% else if project.action == "externallink" %}<a href="{{ project.externalurl}}" class="link black dim">{% endif %}
+          <h1 class="f4 fw5 lh-title mt0 mb1">{{ project.title }} <span class="black-20">{{project.year}}</span></h1>
+        </a>
+        <p class="f4 fw4 lh-copy ">{{ project.description }}</p>
+      </div>
+    </div>
+      {% endif %}{% endfor %}
+    </section>
 </article>
+
+
+
+

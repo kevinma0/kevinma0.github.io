@@ -1,12 +1,14 @@
 ---
 layout: blog
-title: Hitchhiking
-permalink: /hitchhiking/
+title: Vignettes
+subtitle:
+permalink: /vignettes/
 ---
 
 
   <header class="tc-ns pt4 pt5-ns">
-    <h1 class="f3 fw7 f2-m f-subheadline-l font-body measure lh-title mt0">Hitchhiking Pt. 1</h1>
+    <h1 class="f3 fw7 f2-m f-subheadline-l font-body measure lh-title mt0 mb0">Vignettes</h1>
+    <h1 class="f4 fw1 f3-m center f2-l font-light font-body measure lh-title mt0">Sketches and photos from a hitchhiking trip across the USA</h1>
     <time class="f5 f4-l db fw1 font-body mb4"> April 25th, 2018</time>
     <img class="w-100 dib center-ns measure f3" src="/assets/img/hitching/opening.jpg" alt=""/>
   </header>

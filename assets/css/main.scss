@@ -20,6 +20,16 @@ a {
 }
 
 @font-face {
+  font-family: 'Tiempos Text';
+  src: local('Tiempos Text') url('/assets/fonts/Tiempos-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Tie<iframe src="https://player.vimeo.com/video/282559899" width="100%" height="355" class="mt4 mt5-ns" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>mpos Headline';
+  src: local('Tiempos Headline') url('/assets/fonts/Tiempos-Headline.otf') format('opentype');
+}
+
+@font-face {
   font-family: Raleway;
   font-style: italic;
   font-weight: 400;
@@ -59,18 +69,126 @@ a {
       url(/assets/fonts/Raleway-Black.ttf);
 }
 
-.serif {
-  font-family: "Source Serif Pro";
+@font-face{
+	font-family: 'Cooper Hewitt';
+	src: url('/assets/fonts/CooperHewitt-Medium.eot');
+	src: url('/assets/fonts/CooperHewitt-Medium.eot?#iefix') format('embedded-opentype'),
+	     url('/assets/fonts/CooperHewitt-Medium.woff') format('woff'),
+	     url('/assets/fonts/CooperHewitt-Medium.svg#webfont') format('svg');
+}
+
+/* Hide the browser's default checkbox */
+.input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+
+.embed-container {
+    position: relative;
+    padding-bottom: 56.25%;
+
+    overflow: hidden;
+  
+}
+
+.embed-container iframe,
+.embed-container object,
+.embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+//This is cool save for later.
+// .medium h1 {
+// 	margin: auto;
+//   position: absolute;
+//    top: 40%;
+//   left: 36%;
+//   font-size: 12rem;
+//   color: black;
+//    font-family: 'Cooper Hewitt';
+//  }
+.medium {
+  
+  position: relative;
+}
+ .medium h1 {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+   bottom: -100px;
+  font-size: 20em;
+  color: white;
+   font-family: 'Cooper Hewitt';
+   letter-spacing: -1rem;
+ }
+
+
+
+canvas {
+  width: 100%;
+}
+
+/* Create a custom checkbox */
+.checkout {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 25px;
+  width: 25px;
+  background-color: #eee;
+}
+
+/* On mouse-over, add a grey background color */
+.container:hover input ~ .checkmark {
+  background-color: #ccc;
+}
+
+.f4 {
+  font-size: 18px;
+}
+
+.graphik {
+  font-family: Graphik;
+}
+
+.tiempos {
+  font-family: 'Tiempos Text';
+}
+
+.tiempos-headline {
+  font-family: 'Tiempos Headline';
+}
+
+.color-cream {
+  color: #f0eae4;
+}
+
+.bg-cream {
+  background-color: #F0EAE4;
+}
+
+.color-coffee {
+  color: #9A9188;
+}
+
+.color-burntcoffee {
+  color: #4F4F4F;
 }
 
 .font-primary {
-    font-family: 'Raleway', Athelas, sans-serif;
+  font-family: Avenir, sans-serif;
 }
 
 .font-body {
-  // @extend .athelas;
-  font-family: 'Cardo', Baskerville, serif;
-  line-height: 1.7
+  font-family: 'Tiempos Text', Georgia, Times, serif;
+  line-height: 1.7;
 }
 
 .font-light {
@@ -81,45 +199,69 @@ a {
   @extend .black-40;
 }
 
-.font-brand {
-  @extend .red;
+$brand-color: #FE4B12;
+
+.color-brand {
+  color: $brand-color;
 }
 
 .bg-brand {
-
+  background-color: $brand-color;
 }
 
 .hover-brand:hover {
   @extend .hover-red;
 }
 
+// .font-dark {
+//   @extend .black-80;
+// }
+
 .font-dark {
-  @extend .black-80;
+  color: #333131;
 }
 
 .horizontal-margin-wide {
-  @extend .ph4, .ph5-m, .ph6-l;
+  @extend .ph3, .ph4-m, .ph5-l;
 }
+
+
 
 .nav {
   a {
-    @extend  .f5-l, .f6, .fw5, .link, .font-brand, .font-primary, .lh-copy, .underline-hover, .db-l, .dib, .mr3, .mr0-l;
+    @extend  .f5-l, .f6, .fw5, .link, .color-brand, .font-primary, .lh-copy, .underline-hover, .db-l, .dib, .mr3, .mr0-l;
   }
+}
+
+$max-post-width: 40rem;
+.mh-post {
+  @extend .center;
+  max-width: 40rem;
+}
+
+.mw {
+  max-width: 70rem;
 }
 
 .project-body {
   p, ol, ul {
-    @extend .lh-copy, .f4, .fw1, .font-body;
+    @extend .font-body, .f4-ns, .f5, .mt0, .mb4, .mh-post;
   }
   li {
     @extend .pb1;
   }
-  h2 {
-    @extend .pt5, .fw7, .f2, .font-primary, .mb0;
-  }
   h3 {
-    @extend .fw7, .f3, .pt0, .font-primary, .mb0;
+    @extend .fw6, .font-primary, .lh-title, .pt5, .f3, .mh-post, .mb4;
   }
+
+  figure {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  figcaption {
+    @extend .mt2, .f5-ns, .f6, .font-primary, .fw3, .font-lightest, 
+  }
+ 
   h6 {
     @extend .f2, .font-body, .fw3, .font-lightest, .center;
   }
@@ -127,7 +269,7 @@ a {
     @extend .mt5;
   }
   a {
-    @extend .link, .lh-copy, .font-brand, .underline-hover, .font-body;
+    @extend .link, .lh-copy, .color-brand, .underline-hover, .font-body;
   }
   .button {
    @extend .f7, .f6-ns, .fw5, .ttu, .tracked, .link, .dim, .ba, .bw1, .ph4, .pv3, .mv2, .dib, .black, .font-primary;
@@ -146,7 +288,7 @@ a {
   }
 
   a {
-    @extend .link, .lh-copy, .font-brand, .underline-hover, .font-body;
+    @extend .link, .lh-copy, .color-brand, .underline-hover, .font-body;
   }
 }
 
@@ -158,11 +300,32 @@ a {
     @extend .db , .mt4, .mt5-ns;
   }
   a {
-    @extend .link, .lh-copy, .font-brand, .underline-hover, .font-body;
+    @extend .link, .lh-copy, .color-brand, .underline-hover, .font-body;
   }
 }
 
+//custom Not-Large styles
+@media screen and (max-width: 60em) {
 
-.b--true-yellow {
-  border-color: white;
+}
+
+//custom Small styles
+@media screen and (max-width: 30em) {
+
+}
+
+//custom Medium styles
+@media screen and (min-width: 30em) and (max-width: 60em) {
+
+}
+
+//custom Large styles
+@media screen and (min-width: 60em) {
+  .ml15p-l {
+    margin-left: 12%;
+    margin-right: 12%;
+  }
+  .mtn4-l {
+    margin-top: -4em;
+  }
 }

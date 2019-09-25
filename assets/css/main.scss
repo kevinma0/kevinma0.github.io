@@ -192,11 +192,11 @@ canvas {
 }
 
 .font-light {
-  @extend .black-60;
+  @extend .black-50;
 }
 
 .font-lightest {
-  @extend .black-40;
+  @extend .black-20;
 }
 
 $brand-color: #FE4B12;
@@ -265,9 +265,7 @@ $max-post-width: 40rem;
   h6 {
     @extend .f2, .font-body, .fw3, .font-lightest, .center;
   }
-  img {
-    @extend .mt5;
-  }
+  
   a {
     @extend .link, .lh-copy, .color-brand, .underline-hover, .font-body;
   }

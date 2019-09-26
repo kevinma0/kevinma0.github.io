@@ -11,6 +11,7 @@ team:
 introduction: 
 action: "link"
 year: 2017
+hide: true
 ---
 <section id="intro" class="cf mb5 w-100">
     <header class="fn fl-l w-50-l w-100">
@@ -23,16 +24,22 @@ Here’s what people were most interested asking about. </p></div>
 
   <div class="fn fl-l w-50-l w-100">
   <p class="mt0-ns f3 lh-copy">
+
+<p class="f4 fw5 lh-copy">
 Is it safe?
-
+</p>
+<p class="f4 fw4 lh-copy">
 It was much safer and easier than I expected it to be. That being said, there are risks that you are aware of and accept going in.
-
+</p>
+<p class="f4 fw5 lh-copy">
 Where did you go?
-
-
+</p>
+<p class="f4 fw5 lh-copy">
 How do you do it?
+</p>
+<p class="f4 fw5 lh-copy">
 In most states, it’s illegal to hitchhike on the highway, even though I saw many people who did it anyways. The common advice, and what worked best for me, was to stand before the highway ramp.
-
+</p>
 Who picks up hitchhikers?
 All different kinds! You have your Jehovah’s witnesses , Scientologists.
 

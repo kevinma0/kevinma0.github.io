@@ -1,9 +1,24 @@
 ---
 layout: blog
+title: "Hitchhiking Vignettes"
+permalink: /vignettes
+type: "Writing"
+description: "After school I hitchhiked across the US and worked odd jobs for a year. Here's a collection of sketches and photos."
+img: 
+banner: 
+case-study: false
+team: 
+introduction: 
+action: "link"
+year: 2017
+---
+
+<!-- ---
+layout: blog
 title: Vignettes
 subtitle:
 permalink: /vignettes/
----
+--- -->
 
 
   <header class="tc-ns pt4 pt5-ns">
@@ -29,11 +44,9 @@ Rewind to a couple of months ago. I'm in Jane Law's cozy office. I had taken a f
 
 "OK. What else?"
 
-As we talked, the shadows in the room become elongated and formless. She was as fearless in conversation as she was in lecture. On the receiving end of that fearlessness I felt exposed, like a child with a hand in the cookie jar when the light is suddenly flipped on. She told me about her travels in the past. She told me about her research in the present. I told her about my concerns for the future.
+As we talked, the shadows in the room become elongated and formless. She told me about her travels and her research. I talked about my concerns for the future.
 
-Her parting advice still comes to my mind whenever I'm unsure of myself, as was the case my night in San Bernardino.
-
-“Try it. Go away for a while.”
+She tells me to try going away for a while.
 
 ![Night lights]({{site.baseurl}}/assets/img/hitching/night.png)
 
@@ -87,11 +100,7 @@ The weirdness of the situation eludes me at the time. In retrospect it is very w
 
 ![Hippie friends]({{site.baseurl}}/assets/img/hitching/hippies2.png)
 
-![Me in California]({{site.baseurl}}/assets/img/hitching/me.png)
-
 ![Sunset]({{site.baseurl}}/assets/img/hitching/sunset.png)
-
-![Washing underwear and socks]({{site.baseurl}}/assets/img/hitching/underwear.png)
 
 ![Skuds]({{site.baseurl}}/assets/img/hitching/skuds.png)
 
@@ -107,20 +116,20 @@ The weirdness of the situation eludes me at the time. In retrospect it is very w
 <iframe src="https://player.vimeo.com/video/281284284" width="100%" height="335" class="mt4 mt5-ns" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-I wanted to see the US, as much of it as I could, before I started working in earnest.
+<!-- I wanted to see the US, as much of it as I could, before I started working in earnest.
 
 "What were you looking for?" A friend asks when the whole thing is done.
 
-Truth. Beauty. Love. Nothingness. Sure, all of the cliches.
-
+All of the cliches. Adventure and freedom.  -->
+<!-- 
 And I must have been looking for an answer to my own cynicism as well. I was incredibly frustrated by the end of college. Despite having had some fantastic professors and friends, I felt all too complicit in a system that was preparing me for a lifetime of collecting gold stars. Something I had been good at; something that had allowed me entrance into the system in the first place.
 
 It's easy for me to point the finger at authority figures. At the system. The truth is that the opportunities for growth were there. I just never looked for them. The real problem was my own lack of intellectual and creative inquisitiveness.
 
-Life goes on.
+Life goes on. -->
 
 ![Sunset out the back of a pickup]({{site.baseurl}}/assets/img/hitching/close.png)
 
 The sun is coming down, and I can see the downtown of Austin. It's been months since the first night in California. I’m elated - to see my good friend Sam mostly. There's so much I want to tell him.
 
-<p class="i">Thank you for reading! Part II is coming soon.</p>
+<!-- <p class="i">Thank you for reading! Part II is coming soon.</p> -->

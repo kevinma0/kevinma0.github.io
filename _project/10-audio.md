@@ -3,7 +3,7 @@ layout: project
 permalink: /audiobooks
 title: "audioBit"
 subtitle: A passion project exploring some of my favorite topics
-description: "Before Audible released something very similar. Thinking how people can learn better from audiobooks, from research to execution."
+description: "Before Audible released something similar, I researched and designed an app that helps people create bookmarks, to address the question of how we can learn better from audio."
 type: "case-study"
 dated: "Fall 2018"
 year: 2018

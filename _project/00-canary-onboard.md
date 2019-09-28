@@ -3,16 +3,16 @@ layout: project
 permalink: /canary
 title: "Canary Onboarding"
 subtitle: ""
-description: "An ultimatum from Apple forced us to eliminate our sign up process from the Canary app<br><br>How our team completely redid our new user onboarding within tight constraints."
+description: "An ultimatum from Apple forced us to eliminate our sign up process from the Canary app. This would have a huge impact on the ecosystem and business.<br><br>Working closely with product and analytics, I led UX testing, prototyping and design to push out a new onboading experience on the web."
 type: "case-study"
 year: "2019"
-img: "onboarding.png"
+img: "onboarding.jpg"
 banner: "group.png"
 case-study: true
-action: "deck"
+action: "link"
 ---
 
-I joined Canary as the sole product designer in Fall 2018. Initially I was responsible for improving the mobile user experience. Due to the small size of the team however, I ended up working on design initatives across our mobile appss, web app, e-commerce experience, marketing website, advertisements, and email.
+I joined Canary as the sole product designer in Fall 2018. Initially I was responsible for improving the mobile user experience. Due to the small size of the team however, I ended up working on design initatives across our mobile apps, web app, e-commerce experience, marketing website, advertisements, and email.
 
 Here is what's been keeping me busy.
 

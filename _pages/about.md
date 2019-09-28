@@ -5,14 +5,14 @@ permalink: /about/
 ---
 
 
-<section id="about" class="cf mb5 w-100">
+<section id="about" class="cf mb3 w-100">
     <div class="fn fl-ns w-25-ns w-50">
         <img src="{{site.baseurl}}/assets/img/cool.jpg">
     </div>
     <div class="fn fl-ns w-25-ns w-100">
     <p>&nbsp;</p>
     </div>
-    <div class="fn fl-ns w-50-ns w-100"><p class="mt0-ns f3 lh-copy"> I'm a product designer living in Brooklyn and working in Manhattan.
+    <div class="fn fl-ns w-50-ns w-100"><p class="mt0-ns f3 lh-copy"> I'm a product designer living in Brooklyn and working in Manhattan. I grew up in Beijing.
 <br><br>
 I graduated from Cornell in 2017 with a degree in Information Science, after designing for a couple of teams - HTC, IBM, research labs and startups. 
 <br><br>
@@ -24,6 +24,7 @@ I graduated from Cornell in 2017 with a degree in Information Science, after des
    <br><br>
    email: kevthema@gmail.com
    </p>
+   <img src="{{site.baseurl}}/assets/img/latte.jpg" class="mt3">
    </div>
-
+    
 </section>

@@ -1,6 +1,6 @@
 ---
 layout: project
-permalink: /audiobooks
+permalink: /audiobooks2
 title: "Audiobit"
 type: "UX"
 description: "Audiobooks are a halfway medium - they often don't capture your full attention but need a bare minimum of engagement to be useful. How can we learn better from audiobooks?"

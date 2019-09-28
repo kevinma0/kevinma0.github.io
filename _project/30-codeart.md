@@ -42,7 +42,7 @@ special: "codeart"
 
 <section id="invaders" class="cf mv5 bb--black">
   <div class="cf"><canvas data-processing-sources="{{ site.baseurl }}/assets/spaceinvaders/spaceinvaders.pde"></canvas></div>
-  <p class="f3 fw5 mt4 graphik">Invaders <span class="black-20">2016</span> <span class="fw4">Randomly generated invaders. Try clicking!</span></p>
+  <p class="f3 fw5 mt4 graphik">Invaders <span class="black-20">2016</span> <span class="fw4">Randomly generated invaders inspired by <a href="http://www.complexification.net/gallery/" class="black underline">Jared Tarbell.</a> Try clicking!</span></p>
 </section>
 
   <section id="snake" class="cf mv5 bb--black">

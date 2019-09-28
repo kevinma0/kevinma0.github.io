@@ -30,6 +30,36 @@ a {
 }
 
 @font-face {
+  font-family: Graphik;
+  font-weight: 300;
+  src: local('Graphik-Light'),
+      url(/assets/fonts/Graphik-Light.otf);
+}
+
+
+@font-face {
+  font-family: Graphik;
+  font-weight: 400;
+  src: local('Graphik-Regular'),
+      url(/assets/fonts/Graphik-Regular.otf);
+}
+
+@font-face {
+  font-family: Graphik;
+  font-weight: 500;
+  src: local('Graphik-Medium'),
+      url(/assets/fonts/Graphik-Medium.otf);
+}
+
+@font-face {
+  font-family: Graphik;
+  font-weight: 600;
+  src: local('Graphik-Semibold'),
+      url(/assets/fonts/Graphik-Semibold.otf);
+}
+
+
+@font-face {
   font-family: Raleway;
   font-style: italic;
   font-weight: 400;
@@ -76,6 +106,8 @@ a {
 	     url('/assets/fonts/CooperHewitt-Medium.woff') format('woff'),
 	     url('/assets/fonts/CooperHewitt-Medium.svg#webfont') format('svg');
 }
+
+
 
 /* Hide the browser's default checkbox */
 .input {

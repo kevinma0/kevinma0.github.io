@@ -2,7 +2,7 @@
 layout: project
 title: "BOX!"
 type: "Game Design"
-description: "A pretty fun spatial reasoning flash game I designed levels and visuals for."
+description: "A pretty fun spatial reasoning flash game I designed levels and visuals for. 100,000+ players!"
 img: "banner-box.jpg"
 banner: "banner-box.jpg"
 case-study: false

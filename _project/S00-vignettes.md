@@ -3,7 +3,7 @@ layout: blog
 title: "Hitchhiking Vignettes"
 permalink: /vignettes
 type: "Writing"
-description: "After school I hitchhiked across the US and worked odd jobs for a year. Here's some writing and pictures from the experience."
+description: "After school I hitchhiked across the US and worked odd jobs for a year. Here are some pictures from the experience."
 img: 
 banner: 
 case-study: false

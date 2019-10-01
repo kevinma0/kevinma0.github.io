@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-<section id="about" class="cf mb3 w-100">
+<section id="about" class="cf mb5 w-100">
     <div class="fn fl-ns w-25-ns w-50">
         <img src="{{site.baseurl}}/assets/img/cool.jpg">
     </div>
@@ -18,13 +18,12 @@ I graduated from Cornell in 2017 with a degree in Information Science, after des
 <br><br>
     After graduation I spent the better part of a year <a class="underline black" href=" {{site.baseurl}}/vignettes/">hitchhiking</a> across America and working odd jobs.
 <br><br>
-    I worked as a <a class="underline black" href="http://kribbz.com">freelance</a> <a class="underline black" href="https://ras.research.cornell.edu/RDHR/">web</a> <a class="underline black" href="">developer</a> for a while, and made the jump to Canary because I wanted to work on longer-term projects with a more meaningful impact on people’s day to day. I’ve since gravitated towards product design (with an emphasis on mobile) because it involves the areas I’m most interested in: product strategy and direction, interaction and visual design, research and testing, and development.
+    I worked as a <a class="underline black" href="http://kribbz.com">freelance</a> <a class="underline black" href="https://ras.research.cornell.edu/RDHR/">web</a> <a class="underline black" href="http://legofortheblind.com">developer</a> for a while, and made the jump to Canary because I wanted to work on longer-term projects with a more meaningful impact on people’s day to day. I’ve since gravitated towards product design (with an emphasis on mobile) because it involves the areas I’m most interested in: product strategy and direction, interaction and visual design, research and testing, and development.
 <br><br>
    Working on something cool? Let's chat!
    <br><br>
    email: kevthema@gmail.com
    </p>
-   <img src="{{site.baseurl}}/assets/img/latte.jpg" class="mt3">
    </div>
     
 </section>

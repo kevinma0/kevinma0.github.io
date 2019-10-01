@@ -10,4 +10,5 @@ img: "large_designsystem.jpg"
 banner: "group.png"
 case-study: true
 action: "deck"
+hide: true
 ---

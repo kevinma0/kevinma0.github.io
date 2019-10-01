@@ -9,7 +9,6 @@ banner: "banner_audio.jpg"
 format: "custom"
 case-study: true
 hide: true
-introduction:
 ---
 
 <div class="pv5 cf">

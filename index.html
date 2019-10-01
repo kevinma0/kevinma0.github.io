@@ -36,19 +36,29 @@ permalink: "/"
     {% for project in site.project %}{% if project.case-study and project.hide != true %}
     <section class="pv5 cf">
       <div class="w-100 w-25-l fn fl-l pr0">
-      <div class="bt b--black pt4 mr4-l mr0">
+      <div class="mr4-l mr0">
+        {% if project.action == "none" %}
+            <h1 class="f3  fw5 lh-title mt0 mb1">{{ project.title }} </h1>
+            <p class="f4 fw4 black-40">{{project.year}}</p>
+        {% else %}
         <a href="{{ project.url | prepend: site.baseurl }}" class="link black dim">
-          <h1 class="f4 fw5 lh-title mt0 mb1">{{ project.title }} <span class="black-20">{{project.year}}</span></h1>
+          <h1 class="f3  fw5 lh-title mt0 mb1">{{ project.title }} </h1>
+          <p class="f4 fw4 black-40">{{project.year}}</p>
         </a>
+        {% endif %}
         <p class="f4 fw4 lh-copy ">{{ project.description }}</p>
         {% if project.action == "link" %}<a href=="" class="f4 black underline">read case study ></a>   {% endif %}
         {% if project.action == "deck" %}<a href=="" class="f4 black underline">get design deck ></a>   {% endif %}
+        {% if project.action == "check em out" %}<a href=="" class="f4 black underline">check em' out ></a>   {% endif %}
       </div>
       </div>
       <div class="w-100 w-75-l fn fl-l pl0  ">
-        <a href="{{ project.url | prepend: site.baseurl }}"
+          {% if project.action == "none" %}
+          <div class="cover aspect-ratio aspect-ratio--16x9 "
+          style="background:blue url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
+          {% else %}
 
-          class="w-100 fl border-box overflow-visible shadow-hover">
+        <a href="{{ project.url | prepend: site.baseurl }}" class="w-100 fl border-box overflow-visible shadow-hover">
           {% if project.special == "codeart" %}
           <canvas resize="true" id="canvasThumbnail" style="background:#ea5a41;height:100%;"></canvas>
           {% else %}
@@ -56,6 +66,7 @@ permalink: "/"
             style="background:blue url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
           {% endif %}
         </a>
+        {% endif %}
       </div>
     </section>
     {% endif %}{% endfor %}

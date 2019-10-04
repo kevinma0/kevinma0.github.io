@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kevin Ma - Product Designer in NYC"
+title: "Kevin Ma - Product Designer in NY"
 permalink: "/"
 ---
 
@@ -11,9 +11,9 @@ permalink: "/"
 <article class="mw9 center graphik">
 
   <div class=" ph4-ns ph3 w-100">
-    <header class="cf pb6">
-    <div class="fn fl-l w-50-l w-75-m w-100">
-      <p class="f3 fw4 lh-copy mt0">He wields design and code to solve interesting problems. He's currently designing at Canary. Prior to that he worked at IBM and HTC.</p>
+    <header class="cf">
+    <div class="fn fl-l w-75-ns w-100">
+      <p class="f2-ns f3 fw3 lh-copy mt5 mb6">Kevin is a product designer based in NYC. He wields design and code to solve interesting problems. He's currently designing at Canary. Prior to that he worked at IBM and HTC.</p>
         <!-- <p class="f3 fw4 lh-copy mt0">Currently I'm a product designer at Canary. Previously I worked at IBM and HTC.</p>
      -->
 
@@ -47,9 +47,10 @@ permalink: "/"
         </a>
         {% endif %}
         <p class="f4 fw4 lh-copy ">{{ project.description }}</p>
-        {% if project.action == "link" %}<a href=="" class="f4 black underline">read case study ></a>   {% endif %}
-        {% if project.action == "deck" %}<a href=="" class="f4 black underline">get design deck ></a>   {% endif %}
-        {% if project.action == "check em out" %}<a href=="" class="f4 black underline">check em' out ></a>   {% endif %}
+        {% if project.action == "none" %}{% endif %}
+        {% if project.action == "link" %}<p><a href="{{ project.url | prepend: site.baseurl }}" class="f4 black underline">read case study ></a></p>  {% endif %}
+        {% if project.action == "deck" %}<a href="" class="f4 black underline">get design deck ></a>   {% endif %}
+        {% if project.action == "check em out" %}<p><a href="{{ project.url | prepend: site.baseurl }}" class="f4 black underline">check em' out ></a></p>   {% endif %}
       </div>
       </div>
       <div class="w-100 w-75-l fn fl-l pl0  ">
@@ -57,6 +58,7 @@ permalink: "/"
           <div class="cover aspect-ratio aspect-ratio--16x9 "
           style="background:blue url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
           {% else %}
+        
 
         <a href="{{ project.url | prepend: site.baseurl }}" class="w-100 fl border-box overflow-visible shadow-hover">
           {% if project.special == "codeart" %}
@@ -74,7 +76,7 @@ permalink: "/"
     <section class="pv5 cf">
 
     {% for project in site.project %}{% if project.case-study != true and project.hide != true %}
-    <div class="w-100 w-25-l fn fl-l pr0">
+    <div class="w-100 w-50-m mt6 mt0-ns w-25-l fn fl-ns pr0">
     <div class="bt b--black pt4 mr4">
         {% if project.action == "link" %}<a href="{{ project.url | prepend: site.baseurl }}" class="link black dim">
         {% else if project.action == "externallink" %}<a href="{{ project.externalurl}}" class="link black dim">{% endif %}

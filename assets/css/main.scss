@@ -21,13 +21,14 @@ a {
 
 @font-face {
   font-family: 'Tiempos Text';
-  src: local('Tiempos Text') url('/assets/fonts/Tiempos-Regular.otf') format('opentype');
+  src: url('/assets/fonts/Tiempos-Regular.otf') format('opentype');
 }
 
 @font-face {
-  font-family: 'Tie<iframe src="https://player.vimeo.com/video/282559899" width="100%" height="355" class="mt4 mt5-ns" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>mpos Headline';
-  src: local('Tiempos Headline') url('/assets/fonts/Tiempos-Headline.otf') format('opentype');
+  font-family: 'Tiempos Headline';
+  src: url('/assets/fonts/Tiempos-Headline.otf') format('opentype');
 }
+
 
 @font-face {
   font-family: Graphik;
@@ -187,7 +188,7 @@ canvas {
 }
 
 .graphik {
-  font-family: Graphik;
+  font-family: 'Graphik';
 }
 
 .tiempos {
@@ -215,11 +216,11 @@ canvas {
 }
 
 .font-primary {
-  font-family: Avenir, sans-serif;
+  font-family: 'Baskerville', sans-serif;
 }
 
 .font-body {
-  font-family: 'Tiempos Text', Georgia, Times, serif;
+  font-family: 'Graphik', Georgia, Times, serif;
   line-height: 1.7;
 }
 

@@ -8,7 +8,7 @@ type: "case-study"
 dated: "2017"
 year: 2017
 img: "audio-large.png"
-banner: "banner_audio.jpg"
+banner: "audio-large.png"
 case-study: true
 action: "link"
 ---

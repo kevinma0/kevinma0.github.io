@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Kevin Ma - Product Designer in NY"
+title: "Kevin Ma - Product Designer in NYC"
 permalink: "/"
 ---
 
@@ -12,8 +12,8 @@ permalink: "/"
 
   <div class=" ph4-ns ph3 w-100">
     <header class="cf">
-    <div class="fn fl-l w-75-ns w-100">
-      <p class="f2-ns f3 fw3 lh-copy mt5 mb6">Kevin is a product designer based in NYC. He wields design and code to solve interesting problems. He's currently designing at Canary. Prior to that he worked at IBM and HTC.</p>
+    <div class="fn fl-l w-100">
+      <p class="f1-ns f2 fw3 lh-copy mv6-l mh6-l mv6 mh0 ">Kevin is a product and brand designer based in NYC. He wields design and code to solve interesting problems.</p>
         <!-- <p class="f3 fw4 lh-copy mt0">Currently I'm a product designer at Canary. Previously I worked at IBM and HTC.</p>
      -->
 
@@ -38,11 +38,11 @@ permalink: "/"
       <div class="w-100 w-25-l fn fl-l pr0">
       <div class="mr4-l mr0">
         {% if project.action == "none" %}
-            <h1 class="f3  fw5 lh-title mt0 mb1">{{ project.title }} </h1>
+            <h1 class="f3  fw4 lh-title mt0 mb1">{{ project.title }} </h1>
             <p class="f4 fw4 black-40">{{project.year}}</p>
         {% else %}
         <a href="{{ project.url | prepend: site.baseurl }}" class="link black dim">
-          <h1 class="f3  fw5 lh-title mt0 mb1">{{ project.title }} </h1>
+          <h1 class="f3  fw4 lh-title mt0 mb1">{{ project.title }} </h1>
           <p class="f4 fw4 black-40">{{project.year}}</p>
         </a>
         {% endif %}
@@ -80,7 +80,7 @@ permalink: "/"
     <div class="bt b--black pt4 mr4">
         {% if project.action == "link" %}<a href="{{ project.url | prepend: site.baseurl }}" class="link black dim">
         {% else if project.action == "externallink" %}<a href="{{ project.externalurl}}" class="link black dim">{% endif %}
-          <h1 class="f4 fw5 lh-title mt0 mb1">{{ project.title }} <span class="black-20">{{project.year}}</span></h1>
+          <h1 class="f4 fw4 lh-title mt0 mb1">{{ project.title }} <span class="black-20">{{project.year}}</span></h1>
         </a>
         <p class="f4 fw4 lh-copy ">{{ project.description }}</p>
       </div>

@@ -10,6 +10,7 @@ year: 2017
 img: "audio-large.png"
 banner: "audio-large.png"
 case-study: true
+hide: false
 action: "link"
 ---
 

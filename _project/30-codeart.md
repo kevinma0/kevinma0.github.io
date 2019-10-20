@@ -9,6 +9,7 @@ year: "2015-2017"
 img: "codeart.png"
 banner: "group.png"
 case-study: true
+hide: false
 action: "check em out"
 special: "codeart"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: free
-permalink: /codeart
-title: "Code Art"
+permalink: /codetoys
+title: "Code & Toys"
 subtitle: ""
 description: "Experiments with hardware, software, interactivity and identity."
 type: "case-study"
@@ -16,7 +16,7 @@ special: "codeart"
 
   <section id="intro" class="cf mb5 w-100">
     <header class="fn fl-l w-50-l w-100">
-      <h1 class="f-subheadline lh-solid domaine mt0">Code Art</h1>
+      <h1 class="f-subheadline fw4 lh-solid baskerville mt0">Code & Toys</h1>
     </header>
     <div class="fn fl-l w-50-l w-100"><p class="mt0-ns f3 lh-copy">Experiments with software, hardware, interactivity and brand.</p></div>
   </section>
@@ -55,7 +55,7 @@ special: "codeart"
 
 <section>
     <div class="medium"><h1>medium</h1><canvas resize="true" id="canvasMedium" style="background:#c334eb"></canvas></div>
-    <p class="f3 fw5 mt4 graphik">Medium <span class="black-20">2017</span> <span class="fw4">Interactive identity work for Medium, a design collective at Cornell University.</span></p>
+    <p class="f3 fw5 mt4 graphik">Medium <span class="black-20">2017</span> <span class="fw4">Identity work for Medium, a design collective at Cornell University.</span></p>
       
 </section>
 

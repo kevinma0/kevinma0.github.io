@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: "Hitchhiking Vignettes"
-permalink: /vignettes
+permalink: /vignettes/
 type: "Writing"
 description: "After school I hitchhiked across the US and worked odd jobs for a year. Here are some pictures from the experience."
 img: 
@@ -22,9 +22,9 @@ permalink: /vignettes/
 
 
   <header class="tc-ns pt4 pt5-ns">
-    <h1 class="f3 fw7 f2-m f-subheadline-l font-body measure lh-title mt0 mb0">Hitchhiking Vignettes</h1>
-    <h1 class="f4 fw1 f3-m center f2-l font-light font-body measure lh-title mt0">Sketches and photos from a hitchhiking trip across the USA</h1>
-    <time class="f5 f4-l db fw1 font-body mb4"> April 25th, 2018</time>
+    <h1 class="f3 fw4 f2-m f-subheadline-l baskerville measure lh-title mt0 mb0">Vignettes</h1>
+    <h1 class="f4 fw4 f3-m center f2-l font-light font-body measure lh-title mt0">A photo essay about a hitchhiking trip across the USA.</h1>
+    <time class="f5 f4-l db fw4 font-body mb4"> April 25th, 2018</time>
     <img class="w-100 dib center-ns measure f3" src="/assets/img/hitching/opening.jpg" alt=""/>
   </header>
 
@@ -36,7 +36,7 @@ permalink: /vignettes/
 <iframe src="https://player.vimeo.com/video/242748906" width="100%" height="335" class="mt4 mt5-ns" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-Rewind to a couple of months ago. I'm in Jane Law's cozy office. I had taken a fantastic course in Japanese religions with her a previous spring, and I wanted to let her to know how much I had enjoyed it. At least that’s what I thought at the time. My days in Ithaca were numbered, and I felt a strange urgency to be reconciled with what I thought of as the past.
+A couple of months ago, I was in Jane Law's cozy office. I had taken a great course with her a previous semester, and I wanted to let her to know how much I had enjoyed it. My days in Ithaca were numbered, and I felt the strange, urgent desire for closure in everything that I did.
 
 "So, what do you want to do with your life?" She asks.
 
@@ -44,7 +44,7 @@ Rewind to a couple of months ago. I'm in Jane Law's cozy office. I had taken a f
 
 "OK. What else?"
 
-As we talked, the shadows in the room become elongated and formless. She told me about her travels and her research. I talked about my concerns for the future.
+As we talked, the shadows in the room become elongated and formless. I realized that I had burned myself out studying over the past 4 years, but hadn't done much critical thinking at all.
 
 She tells me to try going away for a while.
 
@@ -60,11 +60,11 @@ It's dark when I spot a ladder going up the side of an empty office building. I 
 
 Who still hitchhikes?
 
-It turns out there’s a sprawling road culture. Like any culture it comes in flavors that weave and blend together.
+It turns out there’s a sprawling road subculture. Like any subculture it comes in many flavors that weave and blend together.
 
-I can't help but feel like a tourist, and that's probably what I am. I'm going home when it's over. Maybe I'll begin a 9 to 5. Maybe I’ll write a blog post or two about my experience. Maybe I’ll fill it with blurry phone photos.
+I can't help but feel like a tourist, and that's probably what I am. Maybe I'll go home afterwards and write a blog post or two about my experience, and then fill it with blurry phone photos.
 
-Danny is something else. With the patchwork pants, mutton chops, and crazy 'fro, he looks as if he was spit out by a punk concert deep in the New Mexican desert and then decided to keep on walking. And that was 2 years ago. He busks to pay the way. He’s indignant at people who admonish him to “get a job”. He's nothing but friendly to other travelers.
+Danny is something else completely. With the patchwork pants, mutton chops, and crazy 'fro, he looks as if he was spit out by a hippie music festival deep in the desert and then decided not to go home. And that was 2 years ago. He busks to pay the way. He’s indignant at people who admonish him to “get a job”. He's nothing but friendly to other travelers.
 
 “I’m going to Maine.” He says.
 
@@ -88,11 +88,11 @@ He drops me off at Arizona State University, because I don't know another landma
 
 ![Mishka was a beautiful dog]({{site.baseurl}}/assets/img/hitching/mishka.png)
 
-Sometimes I hunker down in a McDonald's rest booth and work. I manage to pick up small web dev gigs that let me keep traveling.
+I have a web dev gig I carried over from school that I work on with the McDonald's Wifi.
 
-As I hammer away into the Terminal, huge freight trucks scream past on the highway outside. Sometimes I take the work to bed. I take it into my sleeping bag.
+As I hammer away in my editor, huge freight trucks scream past on the highway outside. 
 
-The weirdness of the situation eludes me at the time. In retrospect it is very weird: a guy lying on his stomach in a survival bivvy staring at a glowing screen. A lantern in the pitch black night. The irony is almost malicious: I left home to do exactly what I did at home, only without a roof over my head.
+Sometimes I take the work to bed. It is very weird: a guy lying on his stomach in a survival bivvy staring at a glowing screen. A lantern in the pitch black night. The irony is almost malicious: I left home to do exactly what I did at home, only without a roof over my head.
 
 <div class="cover">
 <iframe src="https://player.vimeo.com/video/280655084" width="100%" height="335" class="mt4 mt5-ns" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -116,20 +116,21 @@ The weirdness of the situation eludes me at the time. In retrospect it is very w
 <iframe src="https://player.vimeo.com/video/281284284" width="100%" height="335" class="mt4 mt5-ns" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-<!-- I wanted to see the US, as much of it as I could, before I started working in earnest.
+I wanted to see the US, as much of it as I could, before I started working in earnest.
 
-"What were you looking for?" A friend asks when the whole thing is done.
+I was chasing a bunch of cliches for sure: adventure and freedom and friendship and love. 
 
-All of the cliches. Adventure and freedom.  -->
-<!-- 
-And I must have been looking for an answer to my own cynicism as well. I was incredibly frustrated by the end of college. Despite having had some fantastic professors and friends, I felt all too complicit in a system that was preparing me for a lifetime of collecting gold stars. Something I had been good at; something that had allowed me entrance into the system in the first place.
+And I was chasing an answer to the cynicism I felt towards my schooling. 
 
-It's easy for me to point the finger at authority figures. At the system. The truth is that the opportunities for growth were there. I just never looked for them. The real problem was my own lack of intellectual and creative inquisitiveness.
+As time went on, I slowly accepted that the faults I saw in my college experience were reflections of the faults I saw in myself. There were opportunities for real growth everywhere. I had just neglected them.
 
-Life goes on. -->
+I worked a couple of jobs along the way: dishwasher, waiter, barista, busser, delivery boy. I got a temporary place in a few cities. I scrubbed floors and toilets at midnight. Some people were bamboozled when I told them my degree. I'd shrug and say I wanted to try doing bicycle deliveries.
+
 
 ![Sunset out the back of a pickup]({{site.baseurl}}/assets/img/hitching/close.png)
 
 The sun is coming down, and I can see the downtown of Austin. It's been months since the first night in California. I’m elated - to see my good friend Sam mostly. There's so much I want to tell him.
+
+<span class="black-70 f5 baskerville">Downtown Crossing, Boston<br>2018</span>
 
 <!-- <p class="i">Thank you for reading! Part II is coming soon.</p> -->

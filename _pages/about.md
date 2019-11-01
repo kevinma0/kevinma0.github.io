@@ -18,7 +18,7 @@ I graduated from Cornell in 2017 with a degree in Information Science, after des
 <br><br>
     After graduation I spent the better part of a year <a class="underline black" href=" {{site.baseurl}}/vignettes/">hitchhiking</a> across America and working odd jobs.
 <br><br>
-    I worked as a <a class="underline black" href="http://kribbz.com">freelance</a> <a class="underline black" href="https://ras.research.cornell.edu/RDHR/">web</a> <a class="underline black" href="http://legofortheblind.com">developer</a> for a while, and made the jump to Canary because I wanted to work on longer-term projects with a more meaningful impact on people’s day to day. I’ve since gravitated towards product design (with an emphasis on mobile) because it involves the areas I’m most interested in: product strategy and direction, interaction and visual design, research and testing, and development.
+    I worked as a <a class="underline black" href="https://hr.cornell.edu">freelance</a> <a class="underline black" href="https://ras.research.cornell.edu/RDHR/">web</a> <a class="underline black" href="https://research.cornell.edu/research-division/">developer</a> for a while, and made the jump to Canary because I wanted to work on longer-term projects with a more meaningful impact on people’s day to day. I’ve since gravitated towards product design (with an emphasis on mobile) because it involves the areas I’m most interested in: product strategy and direction, interaction and visual design, research and testing, and development.
 <br><br>
    Working on something cool? Let's chat!
    <br><br>

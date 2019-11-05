@@ -1,9 +1,9 @@
 ---
 layout: blog
-title: "Hitchhiking Vignettes"
+title: "Vignettes"
 permalink: /vignettes/
 type: "Writing"
-description: "After school I hitchhiked across the US and worked odd jobs for a year. Here are some pictures from the experience."
+description: "After school I hitchhiked across the US and worked odd jobs for a year. Here's a photo essay about the whole experience."
 img: 
 banner: 
 case-study: false
@@ -131,6 +131,5 @@ I worked a couple of jobs along the way: dishwasher, waiter, barista, busser, de
 
 The sun is coming down, and I can see the downtown of Austin. It's been months since the first night in California. I’m elated - to see my good friend Sam mostly. There's so much I want to tell him.
 
-<span class="black-70 f5 baskerville">Downtown Crossing, Boston<br>2018</span>
 
 <!-- <p class="i">Thank you for reading! Part II is coming soon.</p> -->

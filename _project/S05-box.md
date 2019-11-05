@@ -11,6 +11,7 @@ introduction: "A video game about a 2D guy in a 3D world. Escape the cube in thi
 externalurl: "http://www.kongregate.com/games/casiogre/box"
 year: 2015
 action: "externallink"
+hide: true
 ---
 
 ### Team

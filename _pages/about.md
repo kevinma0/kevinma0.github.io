@@ -7,20 +7,20 @@ permalink: /about/
 
 <section id="about" class="cf mb5 w-100">
     <div class="fn fl-ns w-25-ns w-50">
-        <img src="{{site.baseurl}}/assets/img/cool.jpg">
+        <img src="{{site.baseurl}}/assets/img/me.jpg">
     </div>
     <div class="fn fl-ns w-25-ns w-100">
     <p>&nbsp;</p>
     </div>
-    <div class="fn fl-ns w-50-ns w-100"><p class="mt0-ns f3 lh-copy"> I'm a product designer living in Brooklyn and working in Manhattan. I grew up in Beijing.
+    <div class="fn fl-ns w-50-ns w-100"><p class="mt0-ns f3 lh-copy"> I'm a product designer and software developer living in Brooklyn. After graduating from Cornell University, I <a class="underline black" href="{{site.baseurl}}/vignettes/">hitchhiked across America and worked odd jobs</a> for a year.
 <br><br>
-I graduated from Cornell in 2017 with a degree in Information Science, after designing for a couple of teams - HTC, IBM, research labs and startups. 
+  Afterwards, I was a <a class="underline black" href="https://hr.cornell.edu">freelance</a> <a class="underline black" href="https://bokchoybrothers.com">web</a> <a class="underline black" href="https://research.cornell.edu">developer</a> and <a class="underline black" href="{{site.baseurl}}/streetart/">street artist</a>.
+  <br><br>
+  I made the jump to full-time <a class="underline black" href="https://canary.is/how-it-works/">at Canary</a> because I wanted to work on longer-term projects with a more meaningful impact on people’s day to day. I’ve since gravitated towards product design (with an emphasis on mobile) because it involves the areas I’m most interested in: product strategy and direction, interaction and visual design, research and testing, and development.
 <br><br>
-    After graduation I spent the better part of a year <a class="underline black" href=" {{site.baseurl}}/vignettes/">hitchhiking</a> across America and working odd jobs.
-<br><br>
-    I worked as a <a class="underline black" href="https://hr.cornell.edu">freelance</a> <a class="underline black" href="https://ras.research.cornell.edu/RDHR/">web</a> <a class="underline black" href="https://research.cornell.edu/research-division/">developer</a> for a while, and made the jump to Canary because I wanted to work on longer-term projects with a more meaningful impact on people’s day to day. I’ve since gravitated towards product design (with an emphasis on mobile) because it involves the areas I’m most interested in: product strategy and direction, interaction and visual design, research and testing, and development.
-<br><br>
-   Working on something cool? Let's chat!
+    Outside of full-time work, I partner with growth-stage startups to build thoughtful products and businesses.
+    <br><br>
+   Making something cool? Let's chat!
    <br><br>
    email: kevthema@gmail.com
    </p>

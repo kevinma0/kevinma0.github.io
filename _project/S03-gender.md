@@ -2,7 +2,7 @@
 layout: project
 title: "Gender in Film"
 type: "Data Visualization"
-description: "I was intereted in visualizing films by the gender of their dialogue."
+description: "I was interested in visualizing films by the gender of their dialogue. Here's my tribute to NYTimes style visualizations."
 img: "thumb-dataviz.jpg"
 banner: "thumb-dataviz.jpg"
 case-study: false

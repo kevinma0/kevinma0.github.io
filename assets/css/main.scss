@@ -333,6 +333,9 @@ $max-post-width: 40rem;
   a {
     @extend .link, .lh-copy, .color-brand, .underline-hover, .font-body;
   }
+  ul, blockquote {
+    @extend .f4, .measure, .center, .lh-copy;
+  }
 }
 
 //custom Not-Large styles

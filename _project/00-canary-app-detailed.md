@@ -100,7 +100,7 @@ I chose to focus on the core Dashboard first: how this experiences changed would
 
 <figure class="ph4-ns ph3 mw7 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/canaryapp/wireframes.png"></figure>
 
-###Design milestones###
+### Design milestones
 
 A few key things that happened during the design process
 

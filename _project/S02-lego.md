@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Lego for the Blind"
-description: "With my friend Matthew Shifrin, I built a site that makes Lego accessible for the blind and visually impaired. The project was featured on Braincraft and covered by Popular Science."
+description: "With my friend Matthew Shifrin, I built a site that makes Lego accessible for the blind and visually impaired. The project was featured on <a class='underline black' href='https://www.youtube.com/watch?v=hVy5E2DZkKM'>Braincraft</a> and covered by Popular Science."
 case-study: false
 team: ""
 img: "legobrick.png"

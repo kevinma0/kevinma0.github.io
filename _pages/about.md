@@ -16,11 +16,11 @@ permalink: /about/
 <br><br>
   Afterwards, I was a <a class="underline black" href="https://hr.cornell.edu">freelance</a> <a class="underline black" href="https://bokchoybrothers.com">web</a> <a class="underline black" href="https://research.cornell.edu">developer</a> and <a class="underline black" href="{{site.baseurl}}/streetart/">street artist</a>.
   <br><br>
-  I made the jump to full-time <a class="underline black" href="https://canary.is/how-it-works/">at Canary</a> because I wanted to work on longer-term projects with a more meaningful impact on people’s day to day. I’ve since gravitated towards product design (with an emphasis on mobile) because it involves the areas I’m most interested in: product strategy and direction, interaction and visual design, research and testing, and development.
+  I made the jump to full-time at <a class="underline black" href="https://canary.is/how-it-works/">Canary</a> because I wanted to work on longer-term projects with a more meaningful impact on people’s day to day. I’ve since gravitated towards product design (with an emphasis on mobile) because it involves the areas I’m most interested in: product strategy and direction, interaction and visual design, research and testing, and development.
 <br><br>
-    Outside of full-time work, I partner with growth-stage startups to build thoughtful products and businesses.
+    I try to make <a class="underline black" href="http://yubinma.tumblr.com"> something new</a> every day.
     <br><br>
-   Making something cool? Let's chat!
+   Working on something cool? Let's chat!
    <br><br>
    email: kevthema@gmail.com
    </p>

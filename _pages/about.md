@@ -18,7 +18,7 @@ permalink: /about/
   <br><br>
   I made the jump to full-time at <a class="underline black" href="https://canary.is/how-it-works/">Canary</a> because I wanted to work on longer-term projects with a more meaningful impact on people’s day to day. I’ve since gravitated towards product design (with an emphasis on mobile) because it involves the areas I’m most interested in: product strategy and direction, interaction and visual design, research and testing, and development.
 <br><br>
-    I try to make <a class="underline black" href="http://yubinma.tumblr.com"> something new</a> every day.
+    I try to make <a class="underline black" href="http://yubinma.tumblr.com"> something new every week</a>.
     <br><br>
    Working on something cool? Let's chat!
    <br><br>

@@ -127,7 +127,7 @@ And don't forget: you have the ability to make someone's day :)
 <figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/pair.jpg"></figure>
 <figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image5.jpg"></figure>
 <figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image6.jpg"></figure>
-<figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/sunny.jpg"></figure>
+<figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/sunny.png"></figure>
 <figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/mysign.jpg"></figure>
 
 

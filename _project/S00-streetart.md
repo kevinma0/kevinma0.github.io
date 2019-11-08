@@ -50,7 +50,7 @@ Filled with trepidation and excitement, I stepped out of the Red Line station in
 
 **How much money did you make?**
 
-Haha. This is always the first question. I charge $10 a portrait but message it as a suggested donation. This means that a third of people who really like their portraits will pay me $20 or more. The most I got paid was $100 (true [80/20 curve](https://www.8020curve.com/instructions.html) in action). For simplification, let's say this is $15/portrait. 
+Haha. This is always the first question. I initially charged $10 a portrait but messaged it as a suggested donation. This means that a third of people who really like their portraits will pay me $20 or more. The most I got paid was $100 (true [80/20 curve](https://www.8020curve.com/instructions.html) in action). For simplification, let's say this is $15/portrait. 
 
 A portrait takes me 15 minutes. Given a chit-chat time of 5 minutes per person, this caps me at 3 portraits per hour, or $45/hour...assuming that people are lining up to get drawn.
 
@@ -106,6 +106,14 @@ I thought of it as free drawing practice, which made the whole thing go more smo
 
 <figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image4.jpg"></figure>
 
+**Worst Experience?**
+
+Dirtbike teenagers hanging out on the street all evening and scaring all my customers away with the noise.
+
+Or, that customer that walked off without giving the "suggested donation". Haha.
+
+<figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/kid.jpg"></figure>
+
 **Any tips for aspiring street artists?**
 
 Experiment with times and locations. I thought I would to better in Faneuil Hall, Boston's most touristy spot, but I rarely got any customers when I set up there (there was also more established competition).
@@ -116,6 +124,7 @@ Your mood can get get low easily when you've get stretches without customers. It
 
 And don't forget: you have the ability to make someone's day :)
 
+<figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/pair.jpg"></figure>
 <figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image5.jpg"></figure>
 <figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image6.jpg"></figure>
 <figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/sunny.jpg"></figure>

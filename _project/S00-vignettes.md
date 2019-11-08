@@ -24,7 +24,7 @@ permalink: /vignettes/
   <header class="tc-ns pt4 pt5-ns">
     <h1 class="f3 fw4 f2-m f-subheadline-l baskerville measure lh-title mt0 mb0">Vignettes</h1>
     <h1 class="f4 fw4 f3-m center f2-l font-light font-body measure lh-title mt0">A photo essay about a hitchhiking trip across the USA.</h1>
-    <time class="f5 f4-l db fw4 font-body mb4"> April 25th, 2018</time>
+    <time class="f5 f4-l db fw4 font-body mb4"> December 15th, 2017</time>
     <img class="w-100 dib center-ns measure f3" src="/assets/img/hitching/opening.jpg" alt=""/>
   </header>
 
@@ -36,7 +36,7 @@ permalink: /vignettes/
 <iframe src="https://player.vimeo.com/video/242748906" width="100%" height="335" class="mt4 mt5-ns" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-A couple of months ago, I was in Jane Law's cozy office. I had taken a great course with her a previous semester, and I wanted to let her to know how much I had enjoyed it. My days in Ithaca were numbered, and I felt the strange, urgent desire for closure in everything that I did.
+A couple of months ago, I was in Jane Law's cozy office. I had taken a great course with her a previous semester, and I wanted to let her to know how much I had enjoyed it. My days in Ithaca were numbered, and I needed the feeling of closure.
 
 "So, what do you want to do with your life?" She asks.
 
@@ -44,7 +44,7 @@ A couple of months ago, I was in Jane Law's cozy office. I had taken a great cou
 
 "OK. What else?"
 
-As we talked, the shadows in the room become elongated and formless. I realized that I had burned myself out studying over the past 4 years, but hadn't done much critical thinking at all.
+As we talked, the shadows in the room become elongated and formless. I realized that whilte I had burned myself out studying over the past 4 years, I hadn't done much thinking for myself at all.
 
 She tells me to try going away for a while.
 

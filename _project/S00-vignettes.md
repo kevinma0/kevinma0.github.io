@@ -28,7 +28,7 @@ permalink: /vignettes/
     <img class="w-100 dib center-ns measure f3" src="/assets/img/hitching/opening.jpg" alt=""/>
   </header>
 
-  In the spring of last year, I found myself hundreds of miles from home, in a strange neighborhood. It was the first night of a hitchhiking trip across the country, and I was looking for a place to roll out my sleeping bag.
+  At the beginning of this year, I found myself hundreds of miles from home, in a strange neighborhood. It was the first night of a hitchhiking trip across the country, and I was looking for a place to roll out my sleeping bag.
 
   The LA lights twinkled in the distance as dusk fell.
 
@@ -36,7 +36,7 @@ permalink: /vignettes/
 <iframe src="https://player.vimeo.com/video/242748906" width="100%" height="335" class="mt4 mt5-ns" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
-A couple of months ago, I was in Jane Law's cozy office. I had taken a great course with her a previous semester, and I wanted to let her to know how much I had enjoyed it. My days in Ithaca were numbered, and I needed the feeling of closure.
+A couple of months ago, I was in Jane Law's cozy office. I had taken a great course with her a previous semester, and I wanted to let her to know how much I had enjoyed it. My days in Ithaca were numbered, and I needed closure.
 
 "So, what do you want to do with your life?" She asks.
 
@@ -44,7 +44,7 @@ A couple of months ago, I was in Jane Law's cozy office. I had taken a great cou
 
 "OK. What else?"
 
-As we talked, the shadows in the room become elongated and formless. I realized that whilte I had burned myself out studying over the past 4 years, I hadn't done much thinking for myself at all.
+As we talked, the shadows in the room become elongated and formless. I realized that while I had studied fairly hard over the past 4 years, I hadn't done much thinking for myself at all.
 
 She tells me to try going away for a while.
 
@@ -64,7 +64,7 @@ It turns out there’s a sprawling road subculture. Like any subculture it comes
 
 I can't help but feel like a tourist, and that's probably what I am. Maybe I'll go home afterwards and write a blog post or two about my experience, and then fill it with blurry phone photos.
 
-Danny is something else completely. With the patchwork pants, mutton chops, and crazy 'fro, he looks as if he was spit out by a hippie music festival deep in the desert and then decided not to go home. And that was 2 years ago. He busks to pay the way. He’s indignant at people who admonish him to “get a job”. He's nothing but friendly to other travelers.
+Danny is something else completely. With the patchwork pants, mutton chops, and crazy 'fro, he looks as if he was spit out by a desert hippie commune and then decided not to go home. And that was 2 years ago. He busks to pay the way. He’s indignant at people who admonish him to “get a job”. He's nothing but friendly to other travelers.
 
 “I’m going to Maine.” He says.
 
@@ -88,7 +88,7 @@ He drops me off at Arizona State University, because I don't know another landma
 
 ![Mishka was a beautiful dog]({{site.baseurl}}/assets/img/hitching/mishka.png)
 
-I have a web dev gig I carried over from school that I work on with the McDonald's Wifi.
+In the beginning have a web dev gig I carried over from school. Simple web applications that I work on with the McDonald's Wifi.
 
 As I hammer away in my editor, huge freight trucks scream past on the highway outside. 
 
@@ -118,18 +118,19 @@ Sometimes I take the work to bed. It is very weird: a guy lying on his stomach i
 
 I wanted to see the US, as much of it as I could, before I started working in earnest.
 
-I was chasing a bunch of cliches for sure: adventure and freedom and friendship and love. 
+I was chasing a bunch of clichés for sure: adventure and freedom and friendship and love. 
 
-And I was chasing an answer to the cynicism I felt towards my schooling. 
+And I was chasing an answer to the cynicism I had bottled up during my schooling. 
 
-As time went on, I slowly accepted that the faults I saw in my college experience were reflections of the faults I saw in myself. There were opportunities for real growth everywhere. I had just neglected them.
+As time went on, I slowly accepted that the faults I saw in my college experience were the faults I saw in myself, reflected across the aisle. There were opportunities for growth everywhere. I had just neglected them.
 
-I worked a couple of jobs along the way: dishwasher, waiter, barista, busser, delivery boy. I got a temporary place in a few cities. I scrubbed floors and toilets at midnight. Some people were bamboozled when I told them my degree. I'd shrug and say I wanted to try doing bicycle deliveries.
+I worked a couple of jobs along the way: waiter, barista, busser, food prep, delivery boy. I got a temporary place in a few cities. I scrubbed floors and toilets at midnight. I'd look at the floor tiles and get the vague feeling that once upon a time I had been a student but that was now a very long time ago.
+
+Some people were puzzled when I told them what I had studied and where. I'd shrug and say I liked restaurants and cooking.
 
 
 ![Sunset out the back of a pickup]({{site.baseurl}}/assets/img/hitching/close.png)
 
-The sun is coming down, and I can see the downtown of Austin. It's been months since the first night in California. I’m elated - to see my good friend Sam mostly. There's so much I want to tell him.
+It's been months since the first night in California. The sun is coming down, and I can see the downtown of Austin. I’m elated - to see my good friend Sam mostly.
 
-
-<!-- <p class="i">Thank you for reading! Part II is coming soon.</p> -->
+There's so much I want to tell him.

@@ -11,7 +11,7 @@ img: "large_app.jpg"
 banner: "large_app.jpg"
 case-study: true
 hide: false
-action: "link"
+action: "none"
 ---
 
 The Canary team has added features to the app at a rapid pace. Over time, the app went from supporting a single device, to multiple devices in multiple locations with multiple users. 

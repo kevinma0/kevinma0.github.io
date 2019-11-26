@@ -12,17 +12,18 @@ permalink: /about/
     <div class="fn fl-ns w-25-ns w-100">
     <p>&nbsp;</p>
     </div>
-    <div class="fn fl-ns w-50-ns w-100"><p class="mt0-ns f3 lh-copy"> I'm a product designer and software developer living in Brooklyn, originally from Beijing. After graduating from Cornell University, I <a class="underline black" href="{{site.baseurl}}/vignettes/">hitchhiked across America and worked odd jobs</a> for a year.
-<br><br>
-  Afterwards, I was a <a class="underline black" href="https://research.cornell.edu">freelance web developer</a> and <a class="underline black" href="{{site.baseurl}}/streetart/">street artist</a>.
-  <br><br>
-  I made the jump to full-time at <a class="underline black" href="https://canary.is/how-it-works/">Canary</a> because I wanted to work on longer-term projects with a more meaningful impact on people’s day to day. I’ve since gravitated towards product design because it involves the areas I’m most interested in: product strategy and definition, interaction and visual design, research and testing, and development.
-<br><br>
-    I try to <a class="underline black" href="http://maaa.space/">make  something every week</a>.
+    <div class="fn fl-ns w-50-ns w-100"><p class="mt0-ns f3 lh-copy"> I'm a product designer in New York, originally from Beijing. After graduating from Cornell University, I <a class="underline black" href="{{site.baseurl}}/vignettes/">hitchhiked across America and worked odd jobs</a> for a year.
+    
+    <br><br> Afterwards, I was a <a class="underline black" href="https://research.cornell.edu">contract software developer</a> and <a class="underline black" href="{{site.baseurl}}/streetart/">street artist</a>.
     <br><br>
-   Working on something cool? Let's chat!
+  I made the jump to full-time at <a class="underline black" href="https://canary.is/how-it-works/">Canary</a> because I wanted to work on longer-term projects, as well as build process and culture within a smaller organization. I’ve since gravitated towards product design because it involves the areas I’m most interested in: product strategy and definition, design as a business driver, and research.
+<br><br>
+   
+I enjoy working with companies who prioritize user research supported by a lean development process. I’m especially drawn to projects whose stakeholders have strong self-awareness, domain expertise, and business ethics.<br><br> I'm pretty friendly. Feel free to drop me a line:
    <br><br>
-   email: kevthema@gmail.com
+   kevthema@gmail.com
+   <br><br>
+   <span class="black-30">PS. Here's a fun side project where I <a class="underline black-30" href="http://maaa.space/">make something, anything, every week</a>.</span>
    </p>
    </div>
     

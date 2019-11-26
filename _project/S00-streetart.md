@@ -30,7 +30,7 @@ permalink: /vignettes/
 
 ![Boston's very own Downtown Crossing.]({{site.baseurl}}/assets/img/streetart/downtown.jpg)
 
-This summer I was working as a remote web developer in Boston. Without the regular hours of an office, I found my schedule slipping into the early AMs, and then the late AMs. I also started to feel quite isolated. I decided that I needed to do something that:
+This summer I was working as a remote software developer in Boston. Without the regular hours of an office, I found my schedule slipping into the early AMs, and then the late AMs. I also started to feel quite isolated. I decided that I needed to do something that:
 
 > 1. required lots of socializing,
 > 2. would get me outside during the day, and

@@ -1,11 +1,11 @@
 ---
 layout: free
 permalink: /codetoys
-title: "Code & Toys"
+title: "Toys Lol"
 subtitle: ""
 description: "Experiments with hardware, software, interactivity and identity."
 type: "case-study"
-year: "2015-2017"
+year: "2013-2016"
 img: "codeart.png"
 banner: "group.png"
 case-study: true

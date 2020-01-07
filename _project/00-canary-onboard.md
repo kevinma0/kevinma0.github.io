@@ -3,7 +3,7 @@ layout: project
 permalink: /canary
 title: "Canary Onboarding"
 subtitle: ""
-description: "Earlier this year Apple gave us an ultimatum: get rid of sign-ups within our app or have it removed from the App store. <br><br>Working closely with product and analytics, I led UX testing, prototyping, and design to push out a new onboarding experience on the web."
+description: "Earlier this year Apple gave us an ultimatum: get rid of sign-ups within our app or have it removed from the App store. <br><br>Working with product and analytics, I led UX testing, prototyping, and design to push out a new onboarding experience on the web."
 type: "case-study"
 year: "2019"
 img: "onboarding.jpg"

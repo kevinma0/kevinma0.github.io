@@ -3,7 +3,7 @@ layout: project
 permalink: /audiobooks
 title: "audioBit"
 subtitle: A passion project exploring some of my favorite topics
-description: "Before Audible released something similar, I researched and designed an app that helps people create bookmarks, to address the question of how we can learn better from audio."
+description: "Before Audible released something similar, I designed and built an app that lets people create and edit bookmarks while listening to audiobooks."
 type: "case-study"
 dated: "2017"
 year: 2017
@@ -11,7 +11,7 @@ img: "audio-large.png"
 banner: "audio-large.png"
 case-study: true
 hide: false
-action: "link"
+action: none
 ---
 
 [//]: Make it clear this is just a feature, 

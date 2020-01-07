@@ -13,7 +13,7 @@ permalink: /about/
     <p>&nbsp;</p>
     </div>
     <div class="fn fl-ns w-50-ns w-100"><p class="mt0-ns f5 lh-copy"> 
-    I'm a designer and developer in NYC, originally from Beijing. <a class="underline black" href="{{site.baseurl}}/illo/">I like to draw.</a>
+    Hi, my name is Kevin Ma. I'm a designer in NYC, originally from Beijing. <a class="underline black" href="{{site.baseurl}}/illo/">I enjoy drawing.</a>
     <br><br>
     After graduating from Cornell University, I <a class="underline black" href="{{site.baseurl}}/vignettes/">hitchhiked</a> across America and worked odd jobs for a year.
     <br><br> 

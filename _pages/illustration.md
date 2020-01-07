@@ -32,11 +32,11 @@ I am a lover of coding.
 
 ![](/assets/img/illo/apartments.jpg)
 
-BEIJING - Patterns draw me in because they tell stories of the mundane. They speak of everyday life and its routines.
+Patterns draw me in because they are mundane. They speak of everyday life and its routines.
 
 ![](/assets/img/illo/eden.jpg)
 
-The part that really gets me about this story is its inevitability. God makes a Tempter and a temptable being. Does free will ever enter the equation?
+The part that really gets me about this story is its inevitability.
 
 ![](/assets/img/illo/latte.jpg)
 

@@ -55,7 +55,7 @@ special: "codeart"
 
 <section>
     <div class="medium"><canvas resize="true" id="canvasMedium" style="background:#000"></canvas></div>
-    <p class="f3 fw5 mt4 graphik">Medium <span class="black-20">2017</span> <span class="fw4">Identity work for Medium, Cornell's design collective. Click for animation.</span></p>
+    <p class="f3 fw5 mt4 graphik">Medium <span class="black-20">2017</span> <span class="fw4">Identity work for Medium, Cornell's design collective.</span></p>
       
 </section>
 

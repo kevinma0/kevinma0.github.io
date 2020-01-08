@@ -1,6 +1,6 @@
 ---
 layout: free
-permalink: /codetoys
+permalink: /toys
 title: "Toys Lol"
 subtitle: ""
 description: "Experiments with hardware, software, interactivity and identity."
@@ -16,7 +16,7 @@ special: "codeart"
 
   <section id="intro" class="cf mb5 w-100">
     <header class="fn fl-l w-50-l w-100">
-      <h1 class="f-subheadline fw4 lh-solid baskerville mt0">Code & Toys</h1>
+      <h1 class="f-subheadline fw4 lh-solid baskerville mt0">Toys Lol</h1>
     </header>
     <div class="fn fl-l w-50-l w-100"><p class="mt0-ns f3 lh-copy">Experiments with software, hardware, interactivity and brand.</p></div>
   </section>

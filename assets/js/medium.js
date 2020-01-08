@@ -1,3 +1,9 @@
+var text = new PointText(new Point(view.center.x - 260, view.center.y + 50));
+text.fillColor = 'white';
+text.fontSize = 130;
+text.content = 'medium';
+text.fontFamily = 'Cooper Hewitt';
+
 
   var count = 1000;
   var fillColors = ['rgba(255,0,0,1)','rgba(255,255,0,1)','rgba(0,0,255,1)']

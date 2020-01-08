@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Vignettes"
+title: "Road Vignettes"
 permalink: /vignettes/
 type: "Writing"
 description: "After school I hitchhiked across the US and worked odd jobs for a year. Here's a photo essay about the whole shebang."
@@ -22,7 +22,7 @@ permalink: /vignettes/
 
 
   <header class="tc-ns pt4 pt5-ns">
-    <h1 class="f3 fw4 f2-m f-subheadline-l baskerville measure lh-title mt0 mb0">Vignettes</h1>
+    <h1 class="f3 fw4 f2-m f-subheadline-l baskerville measure lh-title mt0 mb0">Road Vignettes</h1>
     <h1 class="f4 fw4 f3-m center f2-l font-light font-body measure lh-title mt0">A photo essay about a hitchhiking trip across the USA.</h1>
     <time class="f5 f4-l db fw4 font-body mb4"> December 15th, 2017</time>
     <img class="w-100 dib center-ns measure f3" src="/assets/img/hitching/opening.jpg" alt=""/>
@@ -80,9 +80,9 @@ He's looking past me now, eyes tinged with the soft orange of dusk.
 
 100 miles out of Phoenix, Andrew stops at a Wendy’s to buy us burgers. He's been driving for about 2 hours. I am ravenous. I wolf my Son of Baconator down.
 
-Andrew is a Jehovah's Witness. He made it known at the start. He also made it known that we didn't have to talk about it. Aware of discomfort that comes with the door-to-door evangelism, he's simultaneously eager to talk about his faith, and restrained by his own social grace from doing so.
+Andrew is a Jehovah's Witness. He made it known at the start. He also made it known that we didn't have to talk about it. Aware of discomfort that comes with the door-to-door evangelism, he's simultaneously eager to talk about his faith, and restrained by his own social graces from doing so.
 
-We stop and pick up two more people: an old rancher and a young hitchhiker. He extends the same dampened religious enthusiasm to them.
+We stop and pick up two more people: an old rancher and a young hitchhiker. He extends the same muted religious enthusiasm to them.
 
 He drops me off at Arizona State University, because I don't know another landmark in the city. He gives me 5 dollars.
 
@@ -92,7 +92,7 @@ In the beginning have a web dev gig I carried over from school. Simple web appli
 
 As I hammer away in my editor, huge freight trucks scream past on the highway outside. 
 
-Sometimes I take the work to bed. It is very weird: a guy lying on his stomach in a survival bivvy staring at a glowing screen. A lantern in the pitch black night. The irony is almost malicious: I left home to do exactly what I did at home, only without a roof over my head.
+Sometimes I take the work to bed. It is very weird and perverse: a guy is lying on his stomach in a sleeping bag staring at a glowing screen next to the highway. A lantern in pitch black. The irony is malicious: I left home to do exactly what I did at home, only without a roof over my head.
 
 <div class="cover">
 <iframe src="https://player.vimeo.com/video/280655084" width="100%" height="335" class="mt4 mt5-ns" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
@@ -120,17 +120,24 @@ I wanted to see the US, as much of it as I could, before I started working in ea
 
 I was chasing a bunch of clichés for sure: adventure and freedom and friendship and love. 
 
-And I was chasing an answer to the cynicism I had bottled up during my schooling. 
+And I was chasing a response to the cynicism I had bottled up during my schooling. 
 
 As time went on, I slowly accepted that the faults I saw in my college experience were the faults I saw in myself, reflected across the aisle. There were opportunities for growth everywhere. I had just neglected them.
 
 I worked a couple of jobs along the way: waiter, barista, busser, food prep, delivery boy. I got a temporary place in a few cities. I scrubbed floors and toilets at midnight. I'd look at the floor tiles and get the vague feeling that once upon a time I had been a student but that was now a very long time ago.
 
-Some people were puzzled when I told them what I had studied and where. I'd shrug and say I liked restaurants and cooking.
+Some people were puzzled when I told them what I had studied. I'd say I liked being around food.
 
 
 ![Sunset out the back of a pickup]({{site.baseurl}}/assets/img/hitching/close.png)
 
-It's been months since the first night in California. The sun is coming down, and I can see the downtown of Austin. I’m elated - to see my good friend Sam mostly.
+It's been months since the first night in California. The sun is coming down, and I can see the downtown lights of Austin. I’m elated, to see my good friend Sam mostly.
 
 There's so much I want to tell him.
+
+
+
+
+
+<br><br><br>
+[Back to all posts]({{site.baseurl}}/#posts)

@@ -38,8 +38,8 @@ This summer I was working as a remote software developer in Boston. Without the 
 
 I decided to be a portrait artist, like the ones I used to idolize as a kid in Times Square. It fulfilled all conditions easily. That afternoon, I picked up:
 > - Two camping seats. Small enough to fold and put into my bag. One for me, one for my customer.
-> - A canvas stand. Not to use for drawing, but to hold up my sign.
-> - A drawing pad, 18" x 24". Again, not for actual drawing but to use as my sign.
+> - A tripod. Not for drawing, but to hold up my advertisement.
+> - A drawing pad, 18" x 24". Not for drawing, but to use as my advertisement.
 > - A bucket hat and sunscreen.
 
 Filled with trepidation and excitement, I stepped out of the Red Line station into Boston's Downtown Crossing. And so began my life as a street artist.
@@ -76,15 +76,19 @@ One could argue that you don't do something like this for the money. From talkin
 
 <figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{siste.baseurl}}/assets/img/streetart/image1.jpg"></figure>
 
-**Make any friends out there?**
+**What kind of people are street performers?**
 
-I would frequently see [The Human DJ](https://www.instagram.com/thehumandj/), one of the more popular street performers in Boston. He told me it was the quickest way to make money for now, and as soon as he saved enough, he would leave Boston and produce music full time. He's had a lot worse experiences than me because he's been doing this for so long, like getting shut down by police and getting robbed.
+I would frequently see [The Human DJ](https://www.instagram.com/thehumandj/), one of the more popular street performers in Boston. He told me it was the quickest way to make money for now, and as soon as he saved enough, he would leave Boston and produce music full time (EDIT: As of 2019, he's moved to Atlanta and is doing this exactly). He's had a lot worse experiences than me because he's been doing this for so long, like getting shut down by police and getting robbed.
 
 [Mr. Not Art](http://www.mettermedia.com/not-art-x-metter-media-interview/) was a grafitti artist. He sold his prints on the street while working on his own pieces in the meantime. He's been doing the same concept for 7 years now, and is having a hard time coming up with something new.
 
-Ming doesn't have an online presence, but at one point I'd stop by and talk to him every day. He's one of those OG graduates of the Central Academy of Fine Art in Beijing in Painting. He works on his own paintings in the winter and draws realistic pastels in the summer. He's not too invested in his own work though. He just likes being able to go home when he wants to and the fact that MassHealth is so cheap.
+Ming doesn't have an online presence, but at one point I'd stop by and talk to him every day. He's one of those Original Gangster graduates of the Central Academy of Fine Art in Beijing, with a degree in Oil Painting. He works on his own paintings in the winter and draws realistic pastels of children in the summer. He's not too invested in his own work though. He just likes being able to go home when he wants to and the fact that MassHealth is so cheap.
 
-I got acquainted with a lot of the homeless people in the area. In the beginning I was afraid they would resent me for being invasive competition. But I'd bring them cigarettes, food and small bills and we became friendly. Once, Jack, a local homeless man, brought me a burrito.
+Free spirits, the lot of them. Not in the sense that they were extraordinarily bohemian; more in that most would rather be paid less and respected less by the general public, than relinquish any control of their financial and creative destinies to employers. Many had quite good business sense.
+
+I also got acquainted with a lot of the homeless people in the area. In the beginning I was afraid they would resent me for being an invasive presence. But I'd offer cigarettes (greatest learning from growing up in China) and we became friendly. Once, a local homeless man brought me a burrito.
+
+
 
 <figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image2.jpg"></figure>
 
@@ -104,11 +108,13 @@ Oh gosh. Plenty. Lot of weirdos. Lot of nice weirdos too. Some kids who worked a
 
 **Was it enjoyable?**
 
-I liked talking to people about their days and their lives, and the part where I got paid. I didn't actually like doing the actual portraits. 
+I liked talking to people about their days and their lives. 
 
-It's pretty mentally taxing for me go for accuracy with such a short time constraint. Sometimes I got into a flow but this was rare.
+I didn't actually like doing the actual portraits. 
 
-I thought of it as free drawing practice, which made the whole thing go more smoothly. 
+It's mentally taxing to go for accuracy with a time constraint.
+
+I thought of it as technical training, which made the whole thing go more smoothly. 
 
 <figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image4.jpg"></figure>
 
@@ -134,7 +140,7 @@ It's very empowering to realize that you can make money completely independently
 
 And don't forget:
 
-You're basically a bus driver. You're aren't really a part of the lives of any of your passengers, but you do have the unique ability to make all of their days :)
+You're like a bus driver. You're aren't really a part of the lives of any of your passengers. You can however, make their days.
 
 <figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/pair.jpg"></figure>
 <figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image5.jpg"></figure>
@@ -143,7 +149,6 @@ You're basically a bus driver. You're aren't really a part of the lives of any o
 <figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/mysign.jpg"></figure>
 
 
-<!-- 
-<div class="cover">
-<iframe src="https://player.vimeo.com/video/242748906" width="100%" height="335" class="mt4 mt5-ns" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div> -->
+
+<br><br><br>
+[Back to all posts]({{site.baseurl}}/#posts)

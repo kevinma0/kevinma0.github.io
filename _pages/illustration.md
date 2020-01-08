@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Illustration
-permalink: /illo
+permalink: /illo/
 ---
 
   <header class="tc-l pt4 pt5-ns">

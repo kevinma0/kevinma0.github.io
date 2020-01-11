@@ -8,6 +8,7 @@ img: "legobrick.png"
 externalurl: "http://legofortheblind.com"
 action: "externallink"
 year: 2016
+hide: true
 ---
 
 Hello

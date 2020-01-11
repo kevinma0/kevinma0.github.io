@@ -1,12 +1,12 @@
 ---
 layout: project
 permalink: /canaryapp
-title: "Redesigning Canary"
+title: "Hello Again, Canary"
 subtitle: ""
-description: "Over the years, new features were rapidly shipped on the Canary app. Many features were forced into unflexible paradigms, resulting in a Frankensteinian experience.<br><br>I rethought and redesigned parts of the core experience from the ground up, to better accommodate how people use Canary today.
+description: "Canary grew very fast in the early days, and over time the app became a Frankensteinian hodgepodge of experiences.<br><br>We redesigned the app from the ground up, to better accommodate how people use Canary today.
 "
 type: "case-study"
-year: "2018"
+year: "2019"
 img: "large_app.jpg"
 banner: "large_app.jpg"
 case-study: true

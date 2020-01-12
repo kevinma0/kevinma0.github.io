@@ -13,7 +13,7 @@ permalink: /about/
     <p>&nbsp;</p>
     </div>
     <div class="fn fl-ns w-50-ns w-100"><p class="mt0-ns f5 lh-copy"> 
-    Hi, my name is Kevin. I'm live in NYC and <a class="underline black" href="{{site.baseurl}}/illo/">I enjoy drawing.</a>
+    Hi, my name is Kevin. I'm live in NYC and <a class="underline black" href="{{site.baseurl}}/drawing/">I enjoy drawing.</a>
     <br><br>
     After graduating from Cornell University with a degree in Information Science, I <a class="underline black" href="{{site.baseurl}}/vignettes/">hitchhiked</a> across America and worked odd jobs for a year.
     <br><br> 

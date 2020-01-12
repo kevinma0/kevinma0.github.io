@@ -120,11 +120,11 @@ I wanted to see the US, as much of it as I could, before I started working in ea
 
 I was chasing a bunch of clichés for sure: adventure and freedom and friendship and love. 
 
-And I was chasing a response to the cynicism I had bottled up during my schooling. 
+And I was seeking a resolution to the frustration I had bottled up towards my schooling. 
 
-As time went on, I slowly accepted that the faults I saw in my college experience were the faults I saw in myself, reflected across the aisle. There were opportunities for growth everywhere. I had just neglected them.
+As time went on, I slowly accepted that the faults I saw in my college experience were the faults I saw in myself, reflected across the aisle. There were opportunities for growth everywhere. I had just neglected them. 
 
-I worked a couple of jobs along the way: waiter, barista, busser, food prep, delivery boy. I got a temporary place in a few cities. I scrubbed floors and toilets at midnight. I'd look at the floor tiles and get the vague feeling that once upon a time I had been a student but that was now a very long time ago.
+I worked a couple of jobs along the way: waiter, barista, busser, food prep, delivery boy. I got a temporary place in a few cities. I scrubbed floors and toilets at midnight. I'd look at the black and white floor tiles and get the vague feeling that once upon a time I had been a student but that was now a very long time ago.
 
 Some people were puzzled when I told them what I had studied. I'd say I liked being around food.
 

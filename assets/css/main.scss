@@ -199,21 +199,6 @@ canvas {
   font-family: 'Tiempos Headline';
 }
 
-.color-cream {
-  color: #f0eae4;
-}
-
-.bg-cream {
-  background-color: #F0EAE4;
-}
-
-.color-coffee {
-  color: #9A9188;
-}
-
-.color-burntcoffee {
-  color: #4F4F4F;
-}
 
 .font-primary {
   font-family: 'Baskerville', sans-serif;
@@ -232,7 +217,7 @@ canvas {
   @extend .black-20;
 }
 
-$brand-color: #FE4B12;
+$brand-color: #E7040F;
 
 .color-brand {
   color: $brand-color;

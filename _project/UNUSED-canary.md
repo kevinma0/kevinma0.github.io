@@ -26,7 +26,7 @@ hide: true
 
 Over its lifetime, Canary's business model gradually transitioned from hardware-only sales to  a software subscription service. Our existing e-commerce experience, including the PDP, did not accommodate our new emphasis on premium software features, or our decision to promote hardware-software bundles.
 
-I worked with project manager Subashiny as the sole designer on a number of initiatives within the e-commerce experience. Our challenge was the lay the groundwork for a new PDP that could be extended in the future with various software plans. Additionally, we examined user data to optimize every step of the shopping cart checkout experience.
+I worked with project manager Mach as the sole designer on a number of initiatives within the e-commerce experience. Our challenge was the lay the groundwork for a new PDP that could be extended in the future with various software plans. Additionally, we examined user data to optimize every step of the shopping cart checkout experience.
 
 
 

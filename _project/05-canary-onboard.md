@@ -1,9 +1,9 @@
 ---
 layout: project
-permalink: /canary
-title: "Canary Onboard"
+permalink: /onboarding
+title: "Onboarding"
 subtitle: ""
-description: "Early 2019, Apple gave Canary an ultimatum: get rid of sign ups in the app, or have the it removed from the App store. <br><br>We pushed out a new onboarding experience on the web very quickly."
+description: "Early 2019, Apple gave Canary an ultimatum: get rid of sign ups in the app, or have the it removed from the App store. <br><br>We pushed out a very new onboarding experience on the web, very quick."
 type: "case-study"
 year: "2019"
 img: "onboarding.jpg"

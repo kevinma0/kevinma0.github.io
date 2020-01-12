@@ -42,6 +42,10 @@ The part that really gets me about this story is its inevitability.
 
 No seriously, I've had enough lattes.
 
+![](/assets/img/illo/angel.png)
+
+For AngelList: [Want to Recruit Better Engineers? Open Source Your Code](https://angel.co/blog/want-to-recruit-better-engineers-open-source-your-code)
+
 ![](/assets/img/illo/whale.jpg)
 
 Trynna have a convo like

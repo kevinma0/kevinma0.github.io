@@ -19,7 +19,7 @@ permalink: /about/
             <br><br> 
             After that, I was a contract software developer and <a class="underline black" href="{{site.baseurl}}/streetart/">street artist</a>.
             <br><br> Then, I joined <a class="underline black" href="https://canary.is/how-it-works/">Canary</a> as the lead product designer.
-            <br><br> Today, I do brand & product consulting through my studio practice. Good design makes cash money. 
+            <br><br> Today, I do brand & product consulting through my studio practice. Good design means more cash money for any business. 
             <br><br> Contact me if you need help with design: <a href="mailto:kevin@kevthema.com" class="black">kevin@kevthema.com</a>
             <br><br>
         </p>

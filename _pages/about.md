@@ -17,12 +17,12 @@ permalink: /about/
             <br><br>
             After graduating from Cornell University with a degree in Information Science, I <a class="underline black" href="{{site.baseurl}}/vignettes/">hitchhiked</a> across America and worked odd jobs for two years.
             <br><br> 
-            After that, I was a <a class="underline black" href="{{site.baseurl}}/streetart/">street artist</a>.
-            <br><br> Soon after that, I joined <a class="underline black" href="https://canary.is/how-it-works/">Canary</a> as the Lead Product Designer.
+            One of those jobs was being a <a class="underline black" href="{{site.baseurl}}/streetart/">street artist</a>.
+            <br><br> After that, I joined <a class="underline black" href="https://canary.is/how-it-works/">Canary</a> as the Lead Product Designer.
             <br><br> Today, I do brand & product consulting through my studio practice. 
             <br><br>
             Good design is revenue. That's as true for Fortune 500s as it is for Mom-and-Pop shops.
-            <br><br> Contact me if you need help with your business: <a href="mailto:kevin@kevthema.com" class="black">kev@kevthema.com</a>
+            <br><br> Contact me if you need help with your business: kev@kevthema.com
             <br><br>
         </p>
     </div>

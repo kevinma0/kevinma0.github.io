@@ -3,7 +3,7 @@ layout: project
 permalink: /canary
 title: "Hello Again World"
 subtitle: ""
-description: "Over time the Canary app became a Frankensteinian experience.<br><br>We redesigned the app from the ground up.
+description: "Over time, the Canary app became a Frankenstein that frustrated users attempting the simplest tasks. <br><br>We redesigned the app from the ground up to improve product metrics across the board.
 "
 type: "case-study"
 year: "2019"

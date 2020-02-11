@@ -13,9 +13,9 @@ permalink: /about/
     </div>
     <div class="fn fl-ns w-50-ns w-100">
         <p class="mt0-ns f5 lh-copy"> 
-            Hi, my name is Kevin. I'm live in NYC.  <a class="underline black" href="{{site.baseurl}}/drawing/">I enjoy drawing.</a>
+            Hi, my name is Kevin. I live in NYC and <a class="underline black" href="{{site.baseurl}}/drawing/">I enjoy drawing.</a>
             <br><br>
-            After graduating from Cornell University with a degree in Information Science, I <a class="underline black" href="{{site.baseurl}}/vignettes/">hitchhiked</a> across America and worked odd jobs for two years.
+            After graduating from Cornell University with a degree in Information Science, I <a class="underline black" href="{{site.baseurl}}/vignettes/">hitchhiked</a> across the United States and worked odd jobs for two years.
             <br><br> 
             One of those jobs was being a <a class="underline black" href="{{site.baseurl}}/streetart/">street artist</a>.
             <br><br> After that, I joined <a class="underline black" href="https://canary.is/how-it-works/">Canary</a> as the Lead Product Designer.

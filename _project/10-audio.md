@@ -1,9 +1,9 @@
 ---
 layout: project
 permalink: /audiobooks
-title: "Audiobooks"
+title: "Audiobit"
 subtitle: A passion project exploring some of my favorite topics
-description: "Before Audible released something similar, I built an app that let people create and edit bookmarks while listening to audiobooks.<br><br>It died in the water. Part of that had to be because I didn't know you had to do this thing called marketing."
+description: "Before Audible released something similar, I built an app that let people create and edit bookmarks while listening to audiobooks.<br><br>It died in the water. At the time I didn't know anything about sales or marketing."
 type: "case-study"
 dated: "2017"
 year: 2017

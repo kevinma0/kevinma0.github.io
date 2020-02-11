@@ -3,7 +3,7 @@ layout: blog
 title: "Road Vignettes"
 permalink: /vignettes/
 type: "Writing"
-description: "After school I hitchhiked across the US and worked odd jobs for a year. Here's a photo essay about the whole shebang."
+description: "After school I hitchhiked across the US and worked odd jobs for 2 years. Here's a short essay I wrote in the middle of the whole shebang."
 img: 
 banner: 
 case-study: false
@@ -126,12 +126,12 @@ As time went on, I slowly accepted that the faults I saw in my college experienc
 
 I worked a couple of jobs along the way: waiter, barista, busser, food prep, delivery boy. I got a temporary place in a few cities. I scrubbed floors and toilets at midnight. I'd look at the black and white floor tiles and get the vague feeling that once upon a time I had been a student but that was now a very long time ago.
 
-Some people were puzzled when I told them what I had studied. I'd say I liked being around food.
+Some people were puzzled when I told them what I had studied. I'd say I liked being around food. And stuff.
 
 
 ![Sunset out the back of a pickup]({{site.baseurl}}/assets/img/hitching/close.png)
 
-It's been months since the first night in California. The sun is coming down, and I can see the downtown lights of Austin. I’m elated, to see my good friend Sam mostly.
+It's been months since the first night in California. The sun is coming down, and I can see the downtown lights of Austin. I’m elated, mostly to see my good friend Sam.
 
 There's so much I want to tell him.
 

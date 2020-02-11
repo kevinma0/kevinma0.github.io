@@ -1,9 +1,9 @@
 ---
 layout: project
 permalink: /canary
-title: "Hello Again, World"
+title: "Hello Again World"
 subtitle: ""
-description: "Canary grew very fast in the early days. Over time the app became a Frankensteinian hodgepodge of experiences.<br><br>We redesigned the app from the ground up, to accommodate how people use it today.
+description: "Over time the Canary app became a Frankensteinian experience.<br><br>We redesigned the app from the ground up.
 "
 type: "case-study"
 year: "2019"

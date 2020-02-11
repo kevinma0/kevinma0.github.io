@@ -13,14 +13,16 @@ permalink: /about/
     </div>
     <div class="fn fl-ns w-50-ns w-100">
         <p class="mt0-ns f5 lh-copy"> 
-            Hi, my name is Kevin. I'm live in NYC and <a class="underline black" href="{{site.baseurl}}/drawing/">I enjoy drawing.</a>
+            Hi, my name is Kevin. I'm live in NYC.  <a class="underline black" href="{{site.baseurl}}/drawing/">I enjoy drawing.</a>
             <br><br>
-            After graduating from Cornell University with a degree in Information Science and Architecture, I <a class="underline black" href="{{site.baseurl}}/vignettes/">hitchhiked</a> across America and worked odd jobs for a year.
+            After graduating from Cornell University with a degree in Information Science, I <a class="underline black" href="{{site.baseurl}}/vignettes/">hitchhiked</a> across America and worked odd jobs for two years.
             <br><br> 
-            After that, I was a contract software developer and <a class="underline black" href="{{site.baseurl}}/streetart/">street artist</a>.
-            <br><br> Then, I joined <a class="underline black" href="https://canary.is/how-it-works/">Canary</a> as the lead product designer.
-            <br><br> Today, I do brand & product consulting through my studio practice. Good design means more cash money for any business. 
-            <br><br> Contact me if you need help with design: <a href="mailto:kevin@kevthema.com" class="black">kevin@kevthema.com</a>
+            After that, I was a <a class="underline black" href="{{site.baseurl}}/streetart/">street artist</a>.
+            <br><br> Soon after that, I joined <a class="underline black" href="https://canary.is/how-it-works/">Canary</a> as the Lead Product Designer.
+            <br><br> Today, I do brand & product consulting through my studio practice. 
+            <br><br>
+            Good design is revenue. That's as true for Fortune 500s as it is for Mom-and-Pop shops.
+            <br><br> Contact me if you need help with your business: <a href="mailto:kevin@kevthema.com" class="black">kev@kevthema.com</a>
             <br><br>
         </p>
     </div>

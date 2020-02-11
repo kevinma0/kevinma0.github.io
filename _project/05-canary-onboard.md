@@ -3,7 +3,7 @@ layout: project
 permalink: /onboarding
 title: "Onboarding"
 subtitle: ""
-description: "Early 2019, Apple gave Canary an ultimatum: get rid of sign ups in the app, or have the it removed from the App store. <br><br>We pushed out a very new onboarding experience on the web, very quick."
+description: "In early 2019, Apple gave Canary an ultimatum: eliminate sign ups in the app, or have the it removed from the App store. <br><br>We pushed out a very new onboarding experience on the web within a month. It would go on to upsell Canary's SaaS offering better than the old experience."
 type: "case-study"
 year: "2019"
 img: "onboarding.jpg"

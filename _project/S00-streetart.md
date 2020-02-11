@@ -30,13 +30,13 @@ permalink: /vignettes/
 
 ![Boston's very own Downtown Crossing.]({{site.baseurl}}/assets/img/streetart/downtown.jpg)
 
-This summer I was working as a remote software developer in Boston. Without the regular hours of an office, I found my schedule slipping into the early AMs, and then the late AMs. I also started to feel quite isolated. I decided that I needed to do something that:
+This summer I was working back-of-house at a ramen shop and as a software developer for local clients. Without regular shifts or hours, I found myself awake every day 'til the early hours of the morning. During this period I also felt quite isolated. I decided that I needed to do something that:
 
 > 1. required lots of socializing,
 > 2. would get me outside during the day, and
 > 3. would help me improve at something I was interested in.
 
-I decided to be a portrait artist, like the ones I used to idolize as a kid in Times Square. It fulfilled all conditions easily. That afternoon, I picked up:
+I decided to be a portrait artist, like the ones I used to idolize as a kid in Times Square. It easily fulfilled all conditions. That afternoon, I picked up:
 > - Two camping seats. Small enough to fold and put into my bag. One for me, one for my customer.
 > - A tripod. Not for drawing, but to hold up my advertisement.
 > - A drawing pad, 18" x 24". Not for drawing, but to use as my advertisement.

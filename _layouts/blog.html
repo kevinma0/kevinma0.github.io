@@ -2,10 +2,13 @@
 layout: default
 ---
 
-<article class="font-body dont-dark pb5">
-  <div class="ph3 ph4-m ph5-l blog-body">
-
+<article class="graphik ph3 ph4-m ph5-l blog-body">
+    <header class="tc-ns pt4 pt5-ns mt3-ns mt0 pb4-ns pb3">
+      <h1 class="fw4 f2 f1-m f-subheadline-l baskerville measure lh-solid mt4 mb3-ns mb1">{{ page.title }}</h1>
+      <h2 class="fw4 f5 f4-m f3-l center baskerville measure lh-title mt2 mb3 mb4-ns">{{ page.description }}</h2>
+      <time class="f6 f5-l db fw4 font-body mb4"> {{ page.date | date: "%B %d, %Y, %l:%M%P %Z"}} </time>
+      <img class="w-100 dib center-ns measure f3" src="/assets/img/{{ page.img }}" alt=""/>
+    </header>
     {{ content }}
     {% include blog-footer.html %}
-  </div>
 </article>

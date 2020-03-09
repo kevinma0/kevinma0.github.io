@@ -1,0 +1,130 @@
+I"<div class="pv5 cf">
+<div class="w-100">
+<h1 class="fw7 f1 tc w-100 mt2 mb3 font-primary font-dark lh-title">Canary PDP + Shopping Cart</h1>
+</div>
+</div>
+
+<p>&lt;div class=”mhn2” style=”
+    margin-left: -20%;
+    margin-right: -20% style=”background-image: url(/assets/img/canarypdp/test.jpg);”&gt;&lt;/div&gt;
+&lt;/div&gt;</p>
+
+<p>Over its lifetime, Canary’s business model gradually transitioned from hardware-only sales to  a software subscription service. Our existing e-commerce experience, including the PDP, did not accommodate our new emphasis on premium software features, or our decision to promote hardware-software bundles.</p>
+
+<p>I worked with project manager Mach as the sole designer on a number of initiatives within the e-commerce experience. Our challenge was the lay the groundwork for a new PDP that could be extended in the future with various software plans. Additionally, we examined user data to optimize every step of the shopping cart checkout experience.</p>
+
+<h3 id="understanding-the-problem">Understanding the problem</h3>
+
+<p>I conducted qualitative interviews with audiobook and podcast listeners who enjoyed audio segments of different genres, to understand their motives and contexts of listening.</p>
+
+<p>I asked questions about what they got out of listening, where and when they listened and for how long. I also asked about some of the frustrations they ran into when listening.</p>
+
+<div class="mhn2" style="
+    margin-left: -20%;
+    margin-right: -20%;
+"><img src="/assets/img/audio/insights.png" /></div>
+
+<p>At this point, I wondered whether my initial problem, engaging with audio, was the actual problem. One insight was that users who were listening to textbooks or educational material mentioned that they rewinded the most.</p>
+
+<p>I shifted my problem space from the general question of engagement to the problem of learning.</p>
+
+<h2 id="learning-about-learning">Learning about learning</h2>
+
+<p>I wanted a better understanding of the relationship between learning and engagement. To this end, I conducted a study by asking users to record notes in small diaries whenever they performed an action. The actions were:</p>
+
+<ul>
+  <li>Day A: Artifact Creation</li>
+  <li>Day B: Artifact Revisiting</li>
+</ul>
+
+<p><img src="/assets/img/audio/stickies2.jpg" alt="" /></p>
+
+<p>Insights:</p>
+<ul>
+  <li>People use passive reminders to help them remember</li>
+  <li>Some people create artifacts even if they don’t revisit them. The artifact creation helps them learn</li>
+  <li>Some artifacts are useful only when they are created. Others have repeat use for later.</li>
+</ul>
+
+<h2 id="people-problem">People problem</h2>
+
+<h6 id="im-trying-to-learn-from-an-audiobook-its-difficult-to-revisit-parts-to-aid-my-understanding">I’m trying to learn from an audiobook. It’s difficult to revisit parts to aid my understanding.</h6>
+
+<p>I synthesized my research insights into design goals. I hoped to build something that would:</p>
+<ul>
+  <li>Encourage active engagement</li>
+  <li>Allow for fast revisiting during, and after listening</li>
+  <li>Tell me what I haven’t revisited</li>
+</ul>
+
+<h2 id="initial-exploration">Initial Exploration</h2>
+<p>I brainstormed different interactions that would affect the relationship between people and the material they were listening to, and help them get more out of it.</p>
+
+<div class="mhn2" style="
+    margin-left: -20%;
+    margin-right: -20%;
+"><img src="/assets/img/audio/iterations.png" /></div>
+
+<p>I was excited at the initial possibilities and admittedly, I spent a lot of time thinking about lofty ideas of questionable value. I eagerly solidified these earlier ideas with mockups, but with each mockup, I was moving away from a high level concept.</p>
+
+<p>I took a step back and focused on creating a flow for engagement during listening, the most important interaction of the app.</p>
+
+<p><img src="/assets/img/audio/pass_1.png" /></p>
+
+<p>Testing with users led to several interaction changes. For example, users found the bookmarks disconnected from the audio player. I tried some versions before arriving at the successful paged version.</p>
+
+<div style="margin-left: -30%; margin-right: -30%;">
+
+
+<video loop="" width="100%" name="Demo" src="/assets/img/audio/paged_demo.mp4" autoplay="autoplay"></video>
+</div>
+
+<p>Why this works: if I want users to be able to revisit during listening, they should be able to see the status of the main audio player at all times.</p>
+
+<h2 id="bookmark-cells">Bookmark Cells</h2>
+<p>Bookmarks are at the heart of Audiobit.</p>
+
+<p>Getting them right was a challenge. I established an information hierarchy for a bookmark cell based on my design goals, and then I proceeded to design and test different cell actions.</p>
+
+<p><img src="/assets/img/audio/bookmarking_iterations.png" /></p>
+
+<p><img src="/assets/img/audio/bookmarking_actions.png" /></p>
+
+<p>Why this works: Putting revisiting first means emphasizing playability and editing. Secondary features, such as sharing can be safely put in an options menu.</p>
+
+<h2 id="doubling-down-on-previews">Doubling Down on Previews</h2>
+
+<p>What’s in an effective preview? I experimented with various ways of showing the most recent bookmark on the audio player.</p>
+
+<div style="
+    margin-left: -40%;
+    margin-right: -40%;
+"><img src="/assets/img/audio/player_iterations.png" /></div>
+
+<p>Some interactions, while appealing, proved to be too complex for actual listening. I went forward with a previewing upon that minimized cognitive load.</p>
+
+<p><img src="/assets/img/audio/previewing.png" alt="" /></p>
+
+<p>Why this works: if users are multitasking, a preview should provide minimal information at the top level.</p>
+
+<h2 id="features">Features</h2>
+<p><img src="/assets/img/audio/feature_1.jpg" alt="" /></p>
+
+<h3 id="listen">Listen</h3>
+<p>The audio player: built around bookmarking without obstructing the experience of listening.</p>
+
+<p><img src="/assets/img/audio/feature_2.jpg" alt="" /></p>
+
+<h3 id="engage">Engage</h3>
+<p>Editing a bookmark is immersive and easy - add notes or change the audio duration on the go.</p>
+
+<p><img src="/assets/img/audio/feature_3.jpg" alt="" /></p>
+
+<h3 id="repeat-anytime">Repeat, anytime</h3>
+<p>Bookmarks are a swipe away. Come back to them during listening, or afterwards.</p>
+
+<h2 id="next-steps">Next steps</h2>
+<p>I’m proud of some of the thinking that went into this project, but there are things that I wished I did differently. Bookmarks belong to chapters - this made sense when I thought about extremely episodic content like a lecture, but less so when chapters build upon previous chapters. I would have liked to go into how people access bookmarks from different chapters.</p>
+
+<p>I’m interested now in whether or not bookmarks can add a social component - discussions might form around audio segments the same way they would in the margins of a book.</p>
+:ET

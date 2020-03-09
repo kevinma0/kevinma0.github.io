@@ -1,0 +1,19 @@
+I"�<h3 id="team">Team</h3>
+
+<p>Kevin Ma, Hannah Ajmani, Kimberly Brown</p>
+
+<h3 id="background">Background</h3>
+
+<p>Hollywood is known for rampant sexism in its movies. Without data however, it’s all rhetoric. We wanted to paint an objective picture of what the gender gap really looked like.</p>
+
+<p>We chose words of dialogue spoken by either gender as a metric of a film’s gender learnings (inspired largely by the <a href="http://bechdeltest.com/">Bechdel test</a>). Data was collected on 1000 of IMDB’s top movies of the past 10 years with Python’s Beautiful Soup library. Our team then built the visualization with D3.js. I worked on programming and information design.</p>
+
+<p>We were mainly interested in:</p>
+
+<ol>
+  <li>The gender skew of movies over time.</li>
+  <li>Whether or not the films’ key creative roles had an effect on the gender of the movie.</li>
+</ol>
+
+<p><a class="button" href="http://localhost:4000/viz/">View Visualization</a></p>
+:ET

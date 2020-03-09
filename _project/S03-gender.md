@@ -1,12 +1,12 @@
 ---
 layout: project
-title: "Gender in Film"
+title: "Gender & Film"
 type: "Data Visualization"
-description: "My tribute to NYTimes style data visualizations. On the gender split of dialogue in popular films."
+description: "A tribute to NYTimes style data visualizations. On the gender split of dialogue in popular films."
 img: "thumb-dataviz.jpg"
 banner: "thumb-dataviz.jpg"
 case-study: false
-year: 2016
+year: 2015
 externalurl: "viz/"
 action: "externallink"
 ---

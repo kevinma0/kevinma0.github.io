@@ -1,56 +1,39 @@
 ---
 layout: blog
-title: "Being a Street Artist"
+title: "The Art of Paying Rent with Art"
+description: "Alternate title: The good, the bad and the ugly of being a portrait artist in Downtown Boston."
+year: 2018
+date: "2018-06-25 09:01:00 -0500"
+img: "streetart/downtown.jpg"
 permalink: /streetart/
 type: "Writing"
-description: "The Good, the Bad and the Ugly of being a portrait artist in downtown Boston."
-img: 
-banner: 
 case-study: false
-team: 
-introduction: 
 action: "link"
-year: 2018
 ---
 
-<!-- ---
-layout: blog
-title: Vignettes
-subtitle:
-permalink: /vignettes/
---- -->
 
+This summer I was working back-of-house at a ramen shop and as a software developer for local clients. Without the regular shifts or hours of a full time job, I found myself awake every day 'til the early hours of the morning. In addition, I was beginning to feel isolated and lonely. I decided that I needed to do something that:
 
-  <header class="tc-ns pt4 pt5-ns">
-    <h1 class="f3 fw4 f2-m f-subheadline-l baskerville measure lh-title mt0 mb0">Being a Street Artist</h1>
-    <h1 class="f4 fw4 f3-m center f2-l font-light font-body measure lh-title mt0">The Good, the Bad and the Ugly</h1>
-    <time class="f5 f5-l db fw4 font-body mb4"> June 25th, 2018</time>
-    <img class="w-100 dib center-ns measure f3" src="/assets/img/streetart/opening.jpg" alt=""/>
-  </header>
-
-![Boston's very own Downtown Crossing.]({{site.baseurl}}/assets/img/streetart/downtown.jpg)
-
-This summer I was working back-of-house at a ramen shop and as a software developer for local clients. Without regular shifts or hours, I found myself awake every day 'til the early hours of the morning. During this period I also felt quite isolated. I decided that I needed to do something that:
-
-> 1. required lots of socializing,
-> 2. would get me outside during the day, and
-> 3. would help me improve at something I was interested in.
+> 1. Required lots of socializing,
+> 2. Would get me outside during the day, and
+> 3. Would help me improve at something I was interested in.
 
 I decided to be a portrait artist, like the ones I used to idolize as a kid in Times Square. It easily fulfilled all conditions. That afternoon, I picked up:
 > - Two camping seats. Small enough to fold and put into my bag. One for me, one for my customer.
 > - A tripod. Not for drawing, but to hold up my advertisement.
 > - A drawing pad, 18" x 24". Not for drawing, but to use as my advertisement.
+> - A sharpie
 > - A bucket hat and sunscreen.
 
 Filled with trepidation and excitement, I stepped out of the Red Line station into Boston's Downtown Crossing. And so began my life as a street artist.
 
-<figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image0.jpg"></figure>
+<figure class="ph5-ns ph4-m ph0 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image0.jpg"></figure>
 
 > ## FAQ
 
 **How much money did you make?**
 
-Haha. This is always the first question. I initially charged $10 a portrait but messaged it as a suggested donation. This means that a third of people who really like their portraits will pay me $20 or more. The most I got paid was $100 (true [80/20 curve](https://www.8020curve.com/instructions.html) in action). For simplification, let's say this is $15/portrait. 
+I initially charged $10 a portrait but messaged it as a suggested donation. This means that a third of people who really like their portraits will pay me $20 or more. The most I got paid was $100 (true [80/20 curve](https://www.8020curve.com/instructions.html) in action). For simplification, let's say this is $15/portrait. 
 
 A portrait takes me 15 minutes. Given a chit-chat time of 5 minutes per person, this caps me at 3 portraits per hour, or $45/hour...assuming that people are lining up to get drawn.
 
@@ -66,7 +49,7 @@ Here's week 6:
 
 A lot better!
 
-Short answer: Enough to pay the rent. 
+Short answer: I was able to cover all of my living expenses. I lived in Cambridge, which is right above Boston.
 
 Long answer: I was surprised that after the first week I was making a livable income. After I had learned my initial lessons though, my hourly revenue didn't change very much. By FAR the most meaningful change I made was upping my suggested donation from $10 to $20, and using a thicker, more official looking card-stock material.
 
@@ -74,7 +57,7 @@ I also acknowledge there were a number of optimizations I could have made. A lar
 
 One could argue that you don't do something like this for the money. From talking to the other street performers though, I get the sense that it is purely for the money, because it allows them pursue their art on the side without the obligation of employment. This brings me to the next question:
 
-<figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{siste.baseurl}}/assets/img/streetart/image1.jpg"></figure>
+<figure class="ph5-l ph4-m ph0 mw6 pb3 center"><img class="mb4" src="{{siste.baseurl}}/assets/img/streetart/image1.jpg"></figure>
 
 **What kind of people are street performers?**
 
@@ -82,29 +65,26 @@ I would frequently see [The Human DJ](https://www.instagram.com/thehumandj/), on
 
 [Mr. Not Art](http://www.mettermedia.com/not-art-x-metter-media-interview/) was a grafitti artist. He sold his prints on the street while working on his own pieces in the meantime. He's been doing the same concept for 7 years now, and is having a hard time coming up with something new.
 
-Ming doesn't have an online presence, but at one point I'd stop by and talk to him every day. He's one of those Original Gangster graduates of the Central Academy of Fine Art in Beijing, with a degree in Oil Painting. He works on his own paintings in the winter and draws realistic pastels of children in the summer. He's not too invested in his own work though. He just likes being able to go home when he wants to and the fact that MassHealth is so cheap.
+Ming doesn't have an online presence, but at one point I'd stop by and talk to him every day. He's one of those OG graduates of the Central Academy of Fine Art in Beijing, with a degree in Oil Painting. He works on his own paintings in the winter and draws realistic pastels of children in the summer. He's not too invested in his own work though. He just likes being able to go home when he wants to and the fact that MassHealth is so cheap.
 
-Free spirits, the lot of them. Not in the sense that they were extraordinarily bohemian; more in that most would rather be paid less and respected less by the general public, than relinquish any control of their financial and creative destinies to employers. Many had quite good business sense.
-
-I also got acquainted with a lot of the homeless people in the area. In the beginning I was afraid they would resent me for being an invasive presence. But I'd offer cigarettes (greatest learning from growing up in China) and we became friendly. Once, a local homeless man brought me a burrito.
+They were free spirits. Not in the sense that they were extraordinarily bohemian; more in that most of them would rather be paid less and respected less and than relinquish any control of their financial destinies to employers. I thought many had great business acumen.
 
 
-
-<figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image2.jpg"></figure>
+<figure class="ph5-l ph4-m ph0 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image2.jpg"></figure>
 
 **Who gets their portrait drawn?**
 
-I realized early on that my drawing style wasn't popular with the tourist families. My audience skewed towards younger - lots of high schoolers and college students. I got a lot of people with creative, niche interests. A lot more locals.  Otherwise, I got a fairly even split of gender and race.
+My drawing style wasn't popular with the tourist families. My audience skewed towards younger - lots of high schoolers and college students. A lot of people with creative, niche interests. A lot more locals.  Otherwise, I got a fairly even split of gender and race.
 
 I had lots of people who said they liked to draw too and wished they kept at it.
 
-<figure class="ph5-ns ph4 mw8 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image3.jpg"></figure>
+<figure class="ph5-l ph4-m ph0 mw8 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image3.jpg"></figure>
 
 **Any interesting people out there?**
 
 Oh gosh. Plenty. Lot of weirdos. Lot of nice weirdos too. Some kids who worked at the Downtown Crossing Primark would stop by every day and shill for me. They were fun.
 
-<figure class="ph5-ns ph4 mw8 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/kids.jpg"></figure>
+<figure class="ph5-l ph4-m ph0 mw8 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/kids.jpg"></figure>
 
 **Was it enjoyable?**
 
@@ -116,7 +96,7 @@ It's mentally taxing to go for accuracy with a time constraint.
 
 I thought of it as technical training, which made the whole thing go more smoothly. 
 
-<figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image4.jpg"></figure>
+<figure class="ph5-l ph4-m ph0 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image4.jpg"></figure>
 
 **Worst Experience?**
 
@@ -126,7 +106,7 @@ Or, that customer that walked off without giving the "suggested donation". Haha.
 
 Nothing that was too bad. I had a lot stranger experiences when <a class="underline black" href="{{site.baseurl}}/vignettes/">hitchhiking</a>.
 
-<figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/kid.jpg"></figure>
+<figure class="ph5-l ph4-m ph0 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/kid.jpg"></figure>
 
 **Any tips for aspiring street artists?**
 
@@ -142,13 +122,13 @@ And don't forget:
 
 You're like a bus driver. You're aren't really a part of the lives of any of your passengers. You can however, make their days.
 
-<figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/pair.jpg"></figure>
-<figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image5.jpg"></figure>
-<figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image6.jpg"></figure>
-<figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/sunny.png"></figure>
-<figure class="ph5-ns ph4 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/mysign.jpg"></figure>
+<figure class="ph5-l ph4-m ph0 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/pair.jpg"></figure>
+<figure class="ph5-l ph4-m ph0 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image5.jpg"></figure>
+<figure class="ph5-l ph4-m ph0 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/image6.jpg"></figure>
+<figure class="ph5-l ph4-m ph0 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/sunny.png"></figure>
+<figure class="ph5-l ph4-m ph0 mw6 pb3 center"><img class="mb4" src="{{site.baseurl}}/assets/img/streetart/mysign.jpg"></figure>
 
 
 
 <br><br><br>
-[Back to all posts]({{site.baseurl}}/#posts)
+[Go Home]({{site.baseurl}}/#posts)

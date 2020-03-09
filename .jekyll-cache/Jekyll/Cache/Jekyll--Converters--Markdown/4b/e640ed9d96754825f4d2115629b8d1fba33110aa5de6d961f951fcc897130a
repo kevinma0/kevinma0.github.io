@@ -1,0 +1,26 @@
+I"i<section id="about" class="cf mb7-l mb5 w-100">
+    <div class="fn fl-ns w-25-ns w-100">
+        <img src="/assets/img/me.jpg" class="pr4" />
+    </div> 
+    <div class="fn fl-ns w-25-ns w-100">
+        <p> </p>
+    </div> 
+    <div class="fn fl-ns w-25-ns w-100">
+        <p class="mt0-ns f5 lh-copy pr4"> 
+            Hi! I'm Kevin.<br /><br /> I live in NYC and I <a class="underline black" href="/drawing/">like to draw.</a> After graduating from Cornell University with a degree in Information Science, I <a class="underline black" href="/vignettes/">hitchhiked</a> across the United States and worked odd jobs for two years.<br /><br />
+            One of those jobs was being a <a class="underline black" href="/streetart/">street artist</a>.
+            A bit after that, I joined <a class="underline black" href="https://canary.is/how-it-works/">Canary</a> as the Lead Product Designer.
+        </p>
+    </div>
+    <div class="fn fl-ns w-25-ns w-100">
+        <p class="mt0-ns f5 lh-copy"> <br />
+        <br />
+            Today, I do brand &amp; product consulting through my studio.
+            Amongst other things, good design is a revenue multiplier. That's as true for Fortune 500s as it is for Mom-and-Pop shops.
+            <br /><br /> Contact me if you need help with your business: kev@kevthema.com
+            <br /><br />
+        </p>
+    </div>
+    
+</section>
+:ET

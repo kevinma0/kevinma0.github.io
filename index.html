@@ -1,97 +1,65 @@
 ---
 layout: default
-title: "Kevin Ma - Product Designer in NYC"
+title: "Kevin Ma - Software Designer in New York"
 permalink: "/"
 ---
 
+<script type="text/paperscript" src="/assets/js/needles.js" canvas=canvasThumbnail></script>
 
-<script type="text/paperscript" src="/assets/js/windmills.js" canvas=canvasThumbnail></script>
-
-
-<article class="mw9 center graphik">
-
-  <div class=" ph4-ns ph3 w-100">
-    <header class="cf">
-    <div class="fn fl-l w-100">
-      <p class="f1-l f2-m f3 fw3 w-60-l w-80-m w-100 lh-copy mt7-l mb5-l mt6-m mb5-m mt5 mb4">I'm a product designer and software developer in NYC.<br><br>—
-<br></p>
-        <!-- <p class="f3 fw4 lh-copy mt0">Currently I'm a product designer at Canary. Previously I worked at IBM and HTC.</p>
-     -->
-
-      <!-- <fieldset>
-          <legend>Settings</legend>
-            <div>
-              <input class="checkout" type="checkbox" id="coding" name="interest" value="coding">
-              <label class="f3" for="coding">Site bones</label>
-            </div>
-        </fieldset>
-        <input type="checkbox" name="vehicle1" value="bones" checked> Site bones<br>
-        <input type="checkbox" name="vehicle1" value="images" checked> Images<br> -->
-
-    </div>
-
-
-    </header>
-
+<article class="mw9 center graphik f5 fw4 ph4-ns ph3 w-100">
+    <header class="cf"></header>
 
     {% for project in site.project %}{% if project.case-study and project.hide != true %}
     <section class="pv5 cf">
-      <div class="w-100 w-25-l fn fl-l pr0">
-      <div class="mr4-l mr0">
+      <div class="w-100 w-50-m w-25-l fn fl-ns">
+        <div class="mr4-l mr5-m mr0">
+          <p class=" lh-copy mt0 mb4 mb0-ns">
+            <span>{{ project.title }} </span>
+            <span class="black-30">{{ project.year }}</span>
+            <br><br>
+            <span>{{ project.description }}</span>
+            {% if project.action != "none" %}
+              <br><br>
+              <a href="{{ project.url | prepend: site.baseurl }}" class="f4 black underline">{{project.action}} ></a> 
+            {% endif %}
+          </p> 
+        </div>
+      </div>
+      <!-- Image. Replace with CANVAS if special project -->
+      <div class="w-100 w-50-m w-75-l fn fl-ns">
         {% if project.action == "none" %}
-            <h1 class="f3  fw4 lh-title mt0 mb1">{{ project.title }} </h1>
-            <p class="f4 fw4 black-30">{{project.year}}</p>
-        {% else %}
-        <a href="{{ project.url | prepend: site.baseurl }}" class="link black dim">
-          <h1 class="f3  fw4 lh-title mt0 mb1">{{ project.title }} </h1>
-          <p class="f4 fw4 black-30">{{project.year}}</p>
-        </a>
+        <div class="cover aspect-ratio aspect-ratio--16x9 "
+          style="background:whitesmoke url({{site.baseurl}}/assets/img/{{project.img}}) center;">
+        </div>
         {% endif %}
-        <p class="f4 fw4 lh-copy ">{{ project.description }}</p>
-        {% if project.action == "none" %}{% endif %}
-        {% if project.action == "link" %}<p><a href="{{ project.url | prepend: site.baseurl }}" class="f4 black underline">read case study ></a></p>  {% endif %}
-        {% if project.action == "deck" %}<a href="" class="f4 black underline">get design deck ></a>   {% endif %}
-        {% if project.action == "check em out" %}<p><a href="{{ project.url | prepend: site.baseurl }}" class="f4 black underline">check them out ></a></p>   {% endif %}
-      </div>
-      </div>
-      <div class="w-100 w-75-l fn fl-l pl0  ">
-          {% if project.action == "none" %}
-          <div class="cover aspect-ratio aspect-ratio--16x9 "
-          style="background:whitesmoke url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
-          {% else %}
-        
-
-        <a href="{{ project.url | prepend: site.baseurl }}" class="w-100 fl border-box overflow-visible shadow-hover" style="background:#ea5a41;">
-          {% if project.special == "codeart" %}
-          <canvas resize="true" id="canvasThumbnail" style="background:#ea5a41;height:100%;"></canvas>
-          {% else %}
-          <div class="cover aspect-ratio aspect-ratio--16x9 "
-            style="background:whitesmoke url({{site.baseurl}}/assets/img/{{project.img}}) center;"></div>
-          {% endif %}
+        {% if project.special == "codeart" %}
+        <a href="{{ project.url | prepend: site.baseurl }}" class="w-100 fl border-box overflow-visible"
+          style="background: white;">
+          <canvas resize="true" id="canvasThumbnail" style="background:#3E5D2F; height:100%;"></canvas>
         </a>
         {% endif %}
       </div>
     </section>
     {% endif %}{% endfor %}
 
-    <section class="pv5 cf" id="posts">
-      <div class="w-100 w-50-m mt6 mt0-ns w-25-l fn fl-ns pr0"><h1 class="f3  fw4 lh-title mt0 mb1">Writing </h1></div>
-    {% for project in site.project %}{% if project.case-study != true and project.hide != true %}
-    <div class="w-100 w-50-m mt6 mt0-ns w-25-l fn fl-ns pr0">
-
-      {% if project.action == "link" %}<a href="{{ project.url | prepend: site.baseurl }}" class="link black dim">
-        {% else if project.action == "externallink" %}<a href="{{ project.externalurl}}" class="link black">{% endif %}
-    <div class="mr4">
-          <h1 class="f4 fw4 lh-title mt0 mb1">{{ project.title }} <span class="black-30">{{project.year}}</span></h1>
-          <h1 class="f4 fw4 lh-title mt2 mb1">—</h1>
-        <p class="f4 fw4 lh-copy ">{{ project.description }}</p>
+    <section class="pv6 cf" id="posts">
+      <div class="w-100 w-50-m w-25-l fn fl-ns">
+        <p class="lh-copy mt0 mb0-ns mb4">Writing </p>
       </div>
-    </a>
-    </div>
+      {% for project in site.project %}{% if project.case-study != true and project.hide != true %}
+      <div class="w-100 w-50-m w-25-l fn fl-ns">
+        {% if project.action == "link" %}<a href="{{ project.url | prepend: site.baseurl }}" class="link black dim">
+          {% else if project.action == "externallink" %}<a href="{{ project.externalurl}}" class="link black dim">{% endif %}
+            <div class="mr4-ns mr0 mb0-l mb5">
+              <p class="lh-copy mt0">
+                <span>{{ project.title }}</span>
+                <span class="black-30">{{project.year}}</span>
+                <br><br>
+                <span>{{ project.description }} </span>
+              </p>
+            </div>
+          </a>
+      </div>
       {% endif %}{% endfor %}
     </section>
 </article>
-
-
-
-

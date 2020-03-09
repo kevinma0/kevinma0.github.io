@@ -1,0 +1,78 @@
+I"�<div class="pv5 cf">
+<div class="w-100 w-50-ns fn fl-ns">
+<h1 class="fw7 f1 fl w-100 mt2 mb3 font-primary font-dark lh-title">Emotar</h1>
+</div>
+
+<div class="w-100 w-50-ns fn fl-ns">
+<p>Emotar takes a photo of you and then converts it into a 3D model to be used in GIFs. Uncanny valley? Yep. Loads of fun? Definitely.</p>
+<a class="button" href="https://medium.com/@kevin8ma/redesigning-htcs-emotar-4a7e719f87c3">Full Case Study</a>
+</div>
+</div>
+
+<p>Emotar is a mobile app by HTC R&amp;D, that aims to help users create personalized stickers for instant messaging apps. I worked with a project manager and 2 developers on shipping the next version.</p>
+
+<!-- <video loop  name="Sticker" src="/assets/img/htc/sticker.mp4" autoplay="autoplay"></video> -->
+
+<div class="mhn2" style="
+    margin-left: -20%;
+    margin-right: -20%;
+"><img src="/assets/img/htc/before_after.png" /></div>
+
+<h2 id="on-stickers">On stickers</h2>
+
+<p>At the onset of the project, our team asked ourselves: why do people use stickers? There are the obvious reasons — convenience and humor.</p>
+
+<p>Then there are more subtle motivations.</p>
+
+<p><img src="/assets/img/htc/sticker_example.png" alt="Polished wireframes" /></p>
+
+<p>Example: WeChat. Stickers are used to communicate subtext. An “angry” sticker doesn’t necessarily mean (and is rarely if ever used when) the user is angry. Rather, it conveys minor annoyance, or feigned annoyance for comedic effect. Like their static friends emojis, stickers allow for nuanced sub-communication to be added to the message.</p>
+
+<p>Emotar’s goal is to help users communicate that subtlety with a personal touch. Sending a sticker with one’s own face is a reminder of the relationship between the sender and receiver. It’s saying: “I’m crying on the floor.”</p>
+
+<h6 id="people-dont-want-to-discover-stickers-randomly-they-want-to-quickly-compare-context-specific-stickers-and-choose-one-for-whatever-it-is-they-want-to-communicate">People don’t want to discover stickers randomly. They want to quickly compare context-specific stickers and choose one for whatever it is they want to communicate.</h6>
+
+<p>I prioritized the use cases for Emotar:</p>
+
+<div class="mhn2" style="
+    margin-left: -20%;
+    margin-right: -20%;
+"><img src="/assets/img/htc/priority_features.png" /></div>
+
+<div class="mhn2" style="
+    margin-left: -20%;
+    margin-right: -20%;
+"><img src="/assets/img/htc/initial_explorations.jpg" /></div>
+
+<p>I tried to brainstorm news ways that a sticker could be easily edited, as well as compared to its alternatives. I went with the third because it establishes the home page as a space for comparing stickers rather than creating them from scratch.</p>
+
+<div class="mhn2" style="
+    margin-left: -40%;
+    margin-right: -40%;
+"><img src="/assets/img/htc/cell_comparison.jpg" /></div>
+
+<p>I chose to go forward with Option C:</p>
+<ul>
+  <li>Paged scrolling would be advantageous over vertical scrolling because of the limited vertical size of the window.</li>
+  <li>A scroll from the last page in a set could transition into the next set, which would be consistent with the horizontal sticker pack model.</li>
+  <li>The primary action — selecting a sticker is clear, and sticker packs are easy to change.</li>
+</ul>
+
+<h2 id="shipped-features">Shipped features</h2>
+
+<video loop="" width="100%" height="600" name="Video Name" src="/assets/img/htc/selection-animation-compressed.mp4" autoplay="autoplay"></video>
+
+<p>The home menu focuses on choosing and sharing, rather than creation and discovery.</p>
+
+<video loop="" width="100%" height="600" name="Video Name" src="/assets/img/htc/sharing-animation-compressed.mp4" autoplay="autoplay"></video>
+
+<p>Sharing centers around the messaging services that our users used the most.</p>
+
+<p><img src="/assets/img/htc/wireframe2.png" alt="Polished wireframes" /></p>
+
+<p>In addition to redesigning the selection model, I worked on a visual redesign. Initially the design language of the app was extremely decorative, featuring large, detailed icons and background illustrations. I thought this took away from the highly visual content, so I simplified iconography, type, and layout.</p>
+
+<p>I also worked on streamlining the on-boarding process, sharing feature, and photo-taking feature.</p>
+
+<p>Emotar shipped Fall 2015.</p>
+:ET

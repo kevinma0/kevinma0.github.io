@@ -10,6 +10,7 @@ img: "onboarding.jpg"
 banner: "group.png"
 case-study: true
 action: "none"
+hide: true
 ---
 
 I joined Canary as the sole product designer in Fall 2018. Initially I was responsible for improving the mobile user experience. Due to the small size of the team however, I ended up working on design initatives across our mobile apps, web app, e-commerce experience, marketing website, advertisements, and email.

@@ -1,14 +1,15 @@
 ---
 layout: blog
 title: "Road Vignettes"
+description: "After school I hitchhiked across the US and worked odd jobs for 2 years. Here's some writing on the whole thing."
+img: "hitching/opening.jpg"
+year: 2017
+date: "2017-12-17 15:45:00 -0800"
 permalink: /vignettes/
 type: "Writing"
-description: "After school I hitchhiked across the US and worked odd jobs for 2 years. Here's a short essay I wrote in the middle of the whole shebang."
-img: 
-banner: 
+
 case-study: false
-team: 
-introduction: 
+
 action: "link"
 year: 2017
 ---
@@ -19,14 +20,6 @@ title: Vignettes
 subtitle:
 permalink: /vignettes/
 --- -->
-
-
-  <header class="tc-ns pt4 pt5-ns">
-    <h1 class="f3 fw4 f2-m f-subheadline-l baskerville measure lh-title mt0 mb0">Road Vignettes</h1>
-    <h1 class="f4 fw4 f3-m center f2-l font-light font-body measure lh-title mt0">A photo essay about a hitchhiking trip across the USA.</h1>
-    <time class="f5 f4-l db fw4 font-body mb4"> December 15th, 2017</time>
-    <img class="w-100 dib center-ns measure f3" src="/assets/img/hitching/opening.jpg" alt=""/>
-  </header>
 
   At the beginning of this year, I found myself hundreds of miles from home, in a strange neighborhood. It was the first night of a hitchhiking trip across the country, and I was looking for a place to roll out my sleeping bag.
 
@@ -140,4 +133,4 @@ There's so much I want to tell him.
 
 
 <br><br><br>
-[Back to all posts]({{site.baseurl}}/#posts)
+[Go Home]({{site.baseurl}}/#posts)

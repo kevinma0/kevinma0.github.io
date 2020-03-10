@@ -1,29 +1,16 @@
 ---
-layout: blog
+layout: post
 title: "Road Vignettes"
-description: "After school I hitchhiked across the US and worked odd jobs for 2 years. Here's some writing on the whole thing."
+description: "After school I hitchhiked across the US and worked odd jobs for 2 years. Here's some writing about the whole shebang."
 img: "hitching/opening.jpg"
-year: 2017
 date: "2017-12-17 15:45:00 -0800"
 permalink: /vignettes/
-type: "Writing"
-
-case-study: false
-
 action: "link"
-year: 2017
 ---
 
-<!-- ---
-layout: blog
-title: Vignettes
-subtitle:
-permalink: /vignettes/
---- -->
+At the beginning of this year, I found myself hundreds of miles from home, in a strange neighborhood. It was the first night of a hitchhiking trip across the country, and I was looking for a place to roll out my sleeping bag.
 
-  At the beginning of this year, I found myself hundreds of miles from home, in a strange neighborhood. It was the first night of a hitchhiking trip across the country, and I was looking for a place to roll out my sleeping bag.
-
-  The LA lights twinkled in the distance as dusk fell.
+The LA lights twinkled in the distance as dusk fell.
 
 <div class="cover">
 <iframe src="https://player.vimeo.com/video/242748906" width="100%" height="335" class="mt4 mt5-ns" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

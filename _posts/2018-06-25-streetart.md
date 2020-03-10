@@ -1,13 +1,10 @@
 ---
-layout: blog
-title: "The Art of Paying Rent with Art"
-description: "Alternate title: The good, the bad and the ugly of being a portrait artist in Downtown Boston."
-year: 2018
+layout: post
+title: "The Art of Paying Rent w/ Art"
+description: "Alternately: The Good, the Bad and the Ugly of being a portrait artist in Downtown Boston."
 date: "2018-06-25 09:01:00 -0500"
 img: "streetart/downtown.jpg"
 permalink: /streetart/
-type: "Writing"
-case-study: false
 action: "link"
 ---
 

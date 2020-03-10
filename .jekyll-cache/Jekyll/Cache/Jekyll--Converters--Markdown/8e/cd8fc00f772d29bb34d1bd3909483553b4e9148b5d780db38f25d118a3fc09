@@ -1,11 +1,4 @@
----
-layout: free
-title: Code Art
-subtitle:
-permalink: /codearttest/
----
-
-<article class="ph4-ns ph3 mv5 mw9 cf center graphik">
+I"à	<article class="ph4-ns ph3 mv5 mw9 cf center graphik">
 
   <section id="intro" class="cf mb5 w-100">
     <header class="fn fl-l w-50-l w-100">
@@ -21,13 +14,13 @@ permalink: /codearttest/
   <div class="cf">
   <div class="fn fl-l w-50-l cover pr4-l">
     
-    <img src="{{site.baseurl}}/assets/img/starfield/a1.gif" width="100%">
+    <img src="/assets/img/starfield/a1.gif" width="100%" />
 
   </div>
   <div class="fn fl-l w-50-l cover">
-      <img src="{{site.baseurl}}/assets/img/starfield/maps.png" width="100%">
+      <img src="/assets/img/starfield/maps.png" width="100%" />
   </div>
-    <img src="{{site.baseurl}}/assets/img/starfield/a4.gif" width="100%">
+    <img src="/assets/img/starfield/a4.gif" width="100%" />
 
   </div>
       <p class="f3 fw5 mt4 graphik">Starfield <span class="black-30">2015</span> <span class="fw4">pseudo random terrain maps</span></p>
@@ -35,30 +28,30 @@ permalink: /codearttest/
 </section>
 
 <section id="invaders" class="cf mv5 bb--black">
-  <div class="cf"><canvas data-processing-sources="{{ site.baseurl }}/assets/spaceinvaders/spaceinvaders.pde"></canvas></div>
+  <div class="cf"><canvas data-processing-sources="/assets/spaceinvaders/spaceinvaders.pde"></canvas></div>
   <p class="f3 fw5 mt4 graphik">Invaders <span class="black-30">2016</span> <span class="fw4">Randomly generated invaders. Try clicking!</span></p>
 </section>
 
   <section id="snake" class="cf mv5 bb--black">
   <div class="embed-container">
-  <iframe src="https://player.vimeo.com/video/282559899?background=0"   class="" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+  <iframe src="https://player.vimeo.com/video/282559899?background=0" class="" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
   </div>
   <p class="f3 fw5 mt4 graphik">Snake3D <span class="black-30">2016</span> <span class="fw4">The nokia classic now in an extra dimension.</span></p>
   </section>
 
 <section>
     <div class="medium"><h1>medium</h1><canvas resize="true" id="canvasMedium" style="background:#c334eb"></canvas></div>
-    <p class="f3 fw5 mt4 graphik">Medium <span class="black-30">2017</span> <span class="fw4">Interactive identity work for Medium, a design collective at Cornell University.</span></p>
+    <p class="f3 fw5 mt4 graphik">Medium <span class="black-30">2017</span> <span class="fw4">Interactive identity work for <a class="black link" href="https://cornellmedium.design/">Medium, a design collective</a> I got going with friends at university.</span></p>
       
 </section>
 
 </article>
 
-<script src="{{ site.baseurl }}/js/processing.min.js"></script>
-
+<script src="/js/processing.min.js"></script>
 
 <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
-<script type="text/paperscript" src="{{site.baseurl}}/assets/js/medium.js" canvas="canvasMedium">
+
+<script type="text/paperscript" src="/assets/js/medium.js" canvas="canvasMedium">
 
 
 
@@ -71,3 +64,5 @@ permalink: /codearttest/
 
 
 
+</script>
+:ET

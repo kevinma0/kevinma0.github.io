@@ -1,9 +1,9 @@
 # Site settings
 title: Kevin Ma
 description: > #
-  Kevin is a Product Designer and Technologist.
+  Kevin is a Software Designer in New York
 baseurl: ""
-url: "http://kevinyma.com" # the base hostname & protocol for your site
+url: "https://kevthema.com" # the base hostname & protocol for your site
 
 # Markdown settings
 markdown: kramdown

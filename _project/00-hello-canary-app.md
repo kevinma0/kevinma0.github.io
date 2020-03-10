@@ -3,7 +3,7 @@ layout: project
 permalink: /canary
 title: "Canary"
 subtitle: ""
-description: "Over time, the Canary app became a Frankenstein that frustrated users attempting the simplest tasks. <br><br>Our team navigated clashing priorities for the business, product and team to roll out a complete redesign and improve metrics across the board.
+description: "Over time, the Canary app became a Frankenstein that frustrated users attempting the simplest tasks. <br><br>Our team navigated clashing priorities for the business, product and team to roll out a complete redesign, resulting in improved metrics across the entire board.
 "
 type: "case-study"
 year: "2019"

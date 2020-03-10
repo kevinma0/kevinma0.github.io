@@ -310,7 +310,7 @@ $max-post-width: 40rem;
 
 .blog-body {
   p {
-    @extend .f4-ns, .f5, .mb4, .center, .measure, .font-body, .lh-copy;
+    @extend .f4-l, .f5-m, .f6, .mb4, .center, .measure, .font-body, .lh-copy;
   }
   img {
     @extend .db , .mt4, .mt5-ns;
@@ -319,7 +319,7 @@ $max-post-width: 40rem;
     @extend .link, .lh-copy, .color-brand, .underline-hover, .font-body;
   }
   ul, blockquote {
-    @extend .f4-ns, .f5, .measure, .center,.font-body, .lh-copy;
+    @extend .f4-l, .f5-m, .f6, .measure, .center,.font-body, .lh-copy;
   }
 }
 

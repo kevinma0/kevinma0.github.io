@@ -3,7 +3,7 @@ layout: free
 permalink: /ibm-live-advisor
 title: "IBM"
 subtitle: ""
-description: "IBM 'Live Chat' was the bane of many poor customers' existences.<br><br>I served on a small team that did research and prototyping for what became IBM Live Advisor."
+description: "I joined IBM Design to work on the Marketplace. <br><br>At the time, IBM 'Live Chat' was the bane of customers' existences. I served on a small team that did research and prototyping for the successor to Chat, IBM Live Advisor."
 type: "case-study"
 year: "2016"
 img: "large_ibm.jpg"

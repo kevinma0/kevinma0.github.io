@@ -4,7 +4,12 @@ title: About
 permalink: /about/
 ---
 
-<article id="about" class="cf mb7-l mb5 w-100 ">
+<article id="about" class="cf mb7-l mb5 w-100 ph2">
+  <div class="cf">
+    <div class="w-25">
+      <div class="text-container tc50"></div>
+    </div>
+  </div>
     <section class="fn fl-ns w-50-ns w-100">
         <div class="fn fl-ns w-50-l w-two-thirds">
             <img src="{{site.baseurl}}/assets/img/me.jpg" class="pr4">

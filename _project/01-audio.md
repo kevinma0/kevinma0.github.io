@@ -8,7 +8,7 @@ dated: "2017"
 year: 2017
 img: "audio-large.png"
 case-study: true
-hide: false
+hide: true
 action: none
 ---
 

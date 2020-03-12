@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Compulsion"
-description: "I discuss the idea of compulsion and what makes it more meaningful than other motivators."
+description: "Why do we find it easier or harder to be creative sometimes? What does this have to do with the way we frame our goals?"
 date: "2020-02-01 09:10:05 -0500"
 img: "/blog/house.png"
 permalink: /compulsion/

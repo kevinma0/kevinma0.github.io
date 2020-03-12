@@ -4,25 +4,78 @@ title: "Kevin Ma - Software Designer in New York"
 permalink: "/"
 ---
 <script type="text/paperscript" src="/assets/js/needles.js" canvas=canvasThumbnail></script>
-<article class="mw9 center graphik f-standard ph4-ns ph3 pt4-ns pt2 w-100">
-    {% for project in site.project %}{% if project.case-study and project.hide != true %}
-    <section class="pv5 cf">
+<article class="mw center graphik f-standard">
+  <div class="cf">
+    <div class="w-25">
+      <div class="text-container tc50"></div>
+    </div>
+  </div>
+  <section class="cf" id="posts">
+    <!-- Group Label -->
+    <div class="w-100 w-50-m w-25-l fn fl-ns">
+      <div class="text-container tc50">
+        <p class="text-content lh-copy mt0 mr4-ns mr0 ph2">
+          Writing 
+        </p>
+      </div>
+    </div>
+    {% for post in site.posts %}
+    {% assign remainder = forloop.index | modulo: 4 %}
+    {% if remainder == 0 %}
+      <div class="w-100 w-50-m w-25-l fn fl-ns dn db-l" id="space"><p></p></div>
+    {% endif %}
       <div class="w-100 w-50-m w-25-l fn fl-ns">
-        <div class="mr4-ns mr0">
-          <p class=" lh-copy mt0 mb4 mb0-ns">
-            <span>{{ project.title }} </span>
-            <span class="black-30">{{ project.year }}</span>
+          <a href="{% if post.action == "external" %}
+            {{ post.externalurl }}
+          {% else %}
+            {{ post.url }}
+          {% endif %}" 
+            class="link black">
+            <div class="text-container tc100">
+              <p class="lh-copy mt0 text-content ph2">
+                <span>{{ post.title }}</span><br>
+                <span>{{ post.date | date: "%Y" }}</span>
+                <br><br>
+                <span>{{ post.description }} </span>
+              </p>
+            </div>
+          </a>
+      </div>
+    {% endfor %}
+  </section>
+  <!-- <div class="cf pt5">
+    <div class="w-25-l w-50-m w-100">
+    <p class="lh-copy mt0 mb0-ns mb5 mr4-ns mr0 bb">Work </p> 
+    </div>
+  </div> -->
+  <div class="cf">
+    <div class="w-25">
+      <div class="text-container tc50"></div>
+    </div>
+  </div>
+    {% for project in site.project %}{% if project.case-study and project.hide != true %}
+    {% assign index = forloop.index %}
+    <section class="cf pb6">
+      <div class="w-100 w-50-m w-25-l fn fl-ns">
+        <div class="text-container tc150">
+
+          <p class="text-content mt0 lh-copy ph2">
+            {% if index == 1 %}
+              <span class="db">Work</span><br><br>
+            {% endif %}
+            <span>{{ project.title }} </span><br>
+            <span>{{ project.year }}</span>
             <br><br>
             <span>{{ project.description }}</span>
             {% if project.action != "none" %}
               <br><br>
-              <a href="{{ project.url | prepend: site.baseurl }}" class="f4 black underline">{{project.action}} ></a> 
+              <a href="{{ project.url | prepend: site.baseurl }}" class="f4 black underline"{{project.action}} ></a> 
             {% endif %}
           </p> 
         </div>
       </div>
       <!-- Image. Replace with CANVAS if special project -->
-      <div class="w-100 w-50-m w-75-l fn fl-ns">
+      <div class="w-100 w-50-m w-75-l fn fl-ns ph2">
         {% if project.action == "none" %}
         <div class="cover aspect-ratio aspect-ratio--16x9 "
           style="background:whitesmoke url({{site.baseurl}}/assets/img/{{project.img}}) center;">
@@ -37,29 +90,6 @@ permalink: "/"
       </div>
     </section>
     {% endif %}{% endfor %}
-    <section class="pt5 cf" id="posts">
-      <div class="w-100 w-50-m w-25-l fn fl-ns h-100 pb5-l pb4-m pb3">
-        <p class="lh-copy mt0 mb0-l mb5">Writing </p>
-      </div>
-      {% for post in site.posts %}
-      {% assign remainder = forloop.index | modulo: 4 %}
-      {% if remainder == 0 %}
-        <div class="w-100 w-50-m w-25-l fn fl-ns h-100 dn db-l" id="space"><p></p></div>
-      {% endif %}
-        <div class="w-100 w-50-m w-25-l fn fl-ns h-100 pb5-l pb4-m pb3">
-          {% if post.action == "link" %}<a href="{{ post.url | prepend: site.baseurl }}" class="link black dim">
-            {% else if post.action == "external" %}<a href="{{ post.externalurl}}" class="link black dim">{% endif %}
-              <div class="mr4-ns mr0 mb0-l mb5">
-                <p class="lh-copy mt0">
-                  <span>{{ post.title }}</span><br>
-                  <span class="black-30">{{ post.date | date: "%Y" }}</span>
-                  <br><br>
-                  <span>{{ post.description }} </span>
-                </p>
-              </div>
-            </a>
-        </div>
-      {% endfor %}
-    </section>
+    
 </article>
 

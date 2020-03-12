@@ -1,7 +1,9 @@
-<nav class="pa3 pa4-ns mw9 w-100 graphik f-standard">
-  <div class="w-50-ns pr4-ns pr0 w-100 fl-ns fn"><a href="/" class="link dib black lh-copy">Kevin {% if page.permalink == "/" or page.permalink == "/about/" %}is a software designer and developer in New York{% endif%}</a></div>
+<nav class="pv4 ph2">
+  <div class="w-50-ns w-100 fl-ns fn">
+    <a href="/" class="link dib black lh-copy">Kevin is a software designer and developer in New York</a>
+  </div>
   <div class="w-50-ns w-100 fr-ns fn">
-    <a href="{{site.baseurl}}/" class="fr-ns fn link dib black {% if page.permalink == "/"%}strike{% endif %}">work</a>
-    <a href="{{site.baseurl}}/about/" class="fr-ns fn link dib black mr4 ml4 ml0-ns mt4 mt0-ns {% if page.permalink == "/about/" %}strike{% endif %}">about</a>
+    <a href="{{site.baseurl}}/about/" class="fr-ns fn link dib black {% if page.permalink == "/" %}dn{% endif %}go home</a>
+    <a href="{{site.baseurl}}/" class="fr-ns fn link dib black mh4 ml0-ns {% if page.permalink == "/about/" %}dn{% endif %}">about guy</a>
   </div>
 </nav>

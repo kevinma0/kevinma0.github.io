@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Art of Paying Rent w/ Art"
+title: "The Art of Paying Rent with Art"
 description: "Alternately: The Good, the Bad and the Ugly of being a portrait artist in Downtown Boston."
 date: "2018-06-25 09:01:00 -0500"
 img: "streetart/downtown.jpg"

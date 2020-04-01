@@ -3,7 +3,7 @@ layout: free
 permalink: /toys
 title: "Code & Toys"
 subtitle: ""
-description: "Experiments with hardware, software, interactivity and identity. "
+description: "Experiments with hardware and software. "
 type: "case-study"
 year: "2015"
 img: "codeart.png"
@@ -22,7 +22,7 @@ special: "codeart"
   <header class="fn fl-l w-50-l w-100">
       <h1 class="f-headline-l f-subheadline-m f1 fw4 lh-solid baskerville mt0">Code & Toys</h1>
     </header>
-    <div class="fn fl-l w-50-l w-100"><p class="mt0-ns lh-copy">Experiments with hardware, software, interactivity and identity. Javascript, Processing and Arduino.</p></div>
+    <div class="fn fl-l w-50-l w-100"><p class="mt0-ns lh-copy">Experiments with hardware and software.</p></div>
 </section>
 <section>
     <canvas resize="true" id="canvasThumbnail" style="background:#ea5a41"></canvas>

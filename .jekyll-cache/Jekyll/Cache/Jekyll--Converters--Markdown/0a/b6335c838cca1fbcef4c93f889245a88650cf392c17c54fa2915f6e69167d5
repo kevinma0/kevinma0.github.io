@@ -1,4 +1,4 @@
-I"Ï<script type="text/javascript" src="/assets/js/processing.min.js"></script>
+I"W<script type="text/javascript" src="/assets/js/processing.min.js"></script>
 
 <script type="text/paperscript" src="/assets/js/needlesClickable.js" canvas="canvasThumbnail"></script>
 
@@ -6,11 +6,11 @@
 
 <script type="text/paperscript" src="/assets/js/medium.js" canvas="canvasMedium"></script>
 
-<section id="intro" class="cf mb4 w-100">
+<section id="intro" class="cf mb4 w-100 mt4">
   <header class="fn fl-l w-50-l w-100">
       <h1 class="f-headline-l f-subheadline-m f1 fw4 lh-solid baskerville mt0">Code &amp; Toys</h1>
     </header>
-    <div class="fn fl-l w-50-l w-100"><p class="mt0-ns f4 lh-copy">Experiments with hardware, software, interactivity and identity. Javascript, Processing and Arduino.</p></div>
+    <div class="fn fl-l w-50-l w-100"><p class="mt0-ns lh-copy">Experiments with hardware and software.</p></div>
 </section>
 <section>
     <canvas resize="true" id="canvasThumbnail" style="background:#ea5a41"></canvas>
@@ -26,7 +26,7 @@
         <img src="/assets/img/starfield/a4.gif" width="100%" />
     </div>
     <div class="fn fl-l w-25-l cover">
-        <p class="f4 fw4 graphik lh-copy mt0-ns mt4">
+        <p class="lh-copy mt0-ns mt4">
           Starfield 
           <span class="black-30">2015</span> 
           <span>pseudo random terrain maps</span>
@@ -36,7 +36,7 @@
 </section>
 <section id="invaders" class="cf mv6 bb--black">
   <div class="cf"><canvas data-processing-sources="/assets/spaceinvaders/spaceinvaders.pde"></canvas></div>
-  <p class="f4 fw4 mt4 graphik lh-copy">
+  <p class="mt4 lh-copy">
     Invaders <span class="black-30">2016</span>
     <span>Randomly generated invaders inspired by <a href="http://www.complexification.net/gallery/" class="black underline">Jared Tarbell.</a> Try clicking!</span>
   </p>
@@ -45,7 +45,7 @@
   <div class="embed-container">
   <iframe src="https://player.vimeo.com/video/282559899?background=0" class="" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
   </div>
-  <p class="f4 fw4 mt4 graphik lh-copy">
+  <p class="mt4 lh-copy">
     Snake3D 
     <span class="black-30">2016</span> 
     <span class="fw4">The nokia classic now in an extra dimension.</span>
@@ -55,7 +55,7 @@
     <div class="medium">
       <canvas resize="true" id="canvasMedium" style="background:#000"></canvas>
     </div>
-    <p class="f4 fw4 mt4 graphik lh-copy">
+    <p class="mt4 lh-copy">
       Medium 
       <span class="black-30">2017</span>
       <span>Identity for <a class="black link underline" href="https://cornellmedium.design/">Medium, a design collective</a> I got going with friends at university.</span>

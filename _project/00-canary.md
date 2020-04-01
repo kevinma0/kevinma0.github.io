@@ -3,7 +3,7 @@ layout: project
 permalink: /canary
 title: "Canary"
 subtitle: ""
-description: "I joined hardware startup Canary as the Lead Product Designer in 2018.<br><br>I led key initiatives from concept to launch. The most important was a complete redesign of the mobile app as the business shifted to a SaaS model, resulting in improved metrics across the entire board.
+description: "I joined hardware startup Canary as the Lead Product Designer in Fall 2018.<br><br>I worked on a couple of key projects. The most important was a complete redesign of the mobile and web apps as the business shifted from a hardware sales to a SaaS model.<br><br>Tears were shed, Blood was spilled, and Metrics were improved.
 "
 type: "case-study"
 year: "2018-2020"

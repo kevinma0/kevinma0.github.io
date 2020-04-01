@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On Compulsion"
-description: "Why do we find it easier or harder to be creative sometimes? What does this have to do with the way we frame our goals?"
+description: "A case for putting the cart before the horse."
 date: "2020-02-01 09:10:05 -0500"
 img: "/blog/house.png"
 permalink: /compulsion/
@@ -30,13 +30,23 @@ Oddly enough, I have always found my creative and business pursuits to to be mor
 
 *People love this thing that I do for fun. Hey, I could charge for this.*
 
-I think the key difference is this: the first group of statements are driven by a desire for attention. The second group are driven by what is popularly known as passion.
+I think the difference is this: the first group of statements come from the desire to be some 'type' of person. In other words, they come from a desire for attention. 
 
-The word passion is a misnomer. It reminds me of somebody watching motivational speeches on YouTube, getting “fired up”, working for 2 hours on a project and then never again.
+The second group are driven by pure compulsion.
 
-Compulsion is a more accurate term for what I’m describing. There are people who create and create and create and seem to be interested in everything. It’s as if they are possessed. Socrates himself claimed to have a daimonion, a “divine something” that compelled him to do the right thing. The Iliad begins with the speaker of the poem invoking the Muse, asking her to sing the epic **through** him.
+When was the last time you were compelled to do something? 
 
-But that type of attribution that is doing these people a disservice. For all of their otherworldly creativity, they are incredibly human. They’ve honed their ability with dedication, discipline and sacrifice. They only seem to draw their ideas out of thin air because they’ve come up with so many ideas before, both good and bad. They create beautiful, useful, and profitable things again and again because they’ve put the legwork in.
+Was it easier or harder than when you tried to achieve a goal?
+
+I look at my more creative peers with a mixture of awe and envy. It’s as if some of are possessed.
+
+Socrates claimed to have a daimonion, a “divine something” that compelled him to do the right thing. 
+
+The Iliad begins with the speaker of the poem invoking the Muse, asking her to sing the epic **through** him.
+
+But attribution does these people a disservice. For all of their otherworldly creativity, they are incredibly human. They’ve honed their ability with dedication, discipline and sacrifice. 
+
+They only seem to draw their ideas out of thin air because they’ve come up with so many ideas before, both good and bad. They create beautiful, useful, and profitable things again and again because they’ve put the legwork in.
 
 **I absolutely believe we all have this capability within us.**
 
@@ -46,35 +56,35 @@ So how do we become curious? Creative? **Compelled?**
 
 Here’s a story from my own life.
 
-I did an engineering degree in college to make myself more “employable”. It was mostly a slog.
+I did an engineering degree in college to make myself more “employable”. It was mostly a slog and I hated it.
 
-On a whim I took Japanese Religions to satisfy a requirement.
+On a whim I took a class in the Religions department to satisfy a requirement.
 
-The class was a breath of fresh air. The professor, Jane Law, weaved psychology, philosophy, history, and mythology together to tell stories. That was it. Suddenly, I was interested in all those topics.
+The class was a breath of fresh air. The professor weaved psychology, philosophy, history, and mythology together to tell stories. That was it. Suddenly, I was interested in all those topics.
 
 For the first time in my life, I looked forward to going to class.
 
 I had no idea that I’d be interested, until I was.
 
-Everybody will tell you what is worth learning and what is not. Well-intentioned friends and family members. “Thought leaders”. Ted Talks. CEOs. Social media. Books.
+Everybody will tell you what is worth learning and what is not. Well-intentioned friends and family members. 'Thought leaders'. Ted Talks. CEOs. Social media. Books.
 
 **But only you will know what you actually like.**
 
 Because when you know you know. It’ll hit you like a rock and your brain will explode when the neurons are suddenly all going off at the same time and you realize you’ve been starved, like a traveler in a barren desert seeing water for the very first time.
 
-So if you don’t like a book that has rave reviews, put it down. Life is too short.
+If you're not interested in the book with the rave reviews, put it down.
 
-If you don’t care about the opinions that social media is constantly churning out, delete the whole thing. Life is too short.
+If you don’t care about the social media opinion machine, delete the whole damn thing.
 
-If you aren’t interested in the ‘prestigious’ career that all your friends are going into, do something else. Life is too short.
+If you aren’t interested in the ‘prestigious’ career that all your friends are going into, do something else.
 
-You’ll realize most of these things were about attention-seeking, anyways.
+You’ll realize most of these things were about attention-seeking, anyways. And people forget what they were paying attention to 10 minutes ago.
 
-And people forget what they were paying attention to 10 minutes ago.
+So explore your natural interests. Nobody in the world knows what they are.
 
-So explore your natural interests. I don’t know what they are. Nobody else you talk to will know what they are.
+You might not know what they are. 
 
-You might not know what your natural interests are at all. If that’s the case I’m jealous of you. This is the best part. This is the part where you read as much as possible in any topic. Where you go to plays, museums, meetups, whatever catches your eye. Where you dive a bit deeper into anything that makes you the tiniest bit curious.
+If that’s the case I’m jealous of you. This is the best part. This is the part where you read as much as possible in any topic. Where you go to plays, museums, meetups, whatever catches your eye. Where you dive a bit deeper into anything that makes you the tiniest bit curious.
 
 Because something will click. It always does.
 

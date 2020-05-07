@@ -14,8 +14,8 @@ permalink: "/"
     <!-- Group Label -->
     <div class="w-100 w-50-m w-25-l fn fl-ns">
       <div class="text-container tc50">
-        <p class="text-content lh-copy mt0 mr4-ns mr0 ph2">
-          writing
+        <p class="text-content lh-copy mt0 mr4-ns mr0">
+          thoughts
         </p>
       </div>
     </div>
@@ -32,9 +32,8 @@ permalink: "/"
           {% endif %}" 
             class="link black article-box">
             <div class="text-container tc100">
-              <p class="lh-copy mt0 text-content ph2">
-                <span>{{ post.title }}</span><br>
-                <span>{{ post.date | date: "%Y" }}</span>
+              <p class="lh-copy mt0 text-content pr5">
+                <span class="fw6">{{ post.title }}</span>
                 <br><br>
                 <span>{{ post.description }} </span>
               </p>
@@ -43,27 +42,18 @@ permalink: "/"
       </div>
     {% endfor %}
   </section>
-  <!-- <div class="cf pt5">
-    <div class="w-25-l w-50-m w-100">
-    <p class="lh-copy mt0 mb0-ns mb5 mr4-ns mr0 bb">Work </p> 
-    </div>
-  </div> -->
-  <div class="cf">
-    <div class="w-25">
-      <div class="text-container tc50"></div>
-    </div>
-  </div>
+
     {% for project in site.project %}{% if project.case-study and project.hide != true %}
     {% assign index = forloop.index %}
     <section class="cf pb6">
       <div class="w-100 w-50-m w-25-l fn fl-ns">
         <div class="text-container tc150">
 
-          <p class="text-content mt0 lh-copy ph2">
+          <p class="text-content mt0 lh-copy pr5">
             <!-- {% if index == 1 %}
               <span class="db">Work</span><br><br>
             {% endif %} -->
-            <span>{{ project.title }} </span><br>
+            <span class="fw6">{{ project.title }} </span><br>
             <span>{{ project.year }}</span>
             <br><br>
             <span>{{ project.description }}</span>
@@ -75,16 +65,16 @@ permalink: "/"
         </div>
       </div>
       <!-- Image. Replace with CANVAS if special project -->
-      <div class="w-100 w-50-m w-75-l fn fl-ns ph2">
+      <div class="w-100 w-50-m w-75-l fn fl-ns br4">
         {% if project.action == "none" %}
-        <div class="cover aspect-ratio aspect-ratio--16x9 "
+        <div class="cover aspect-ratio aspect-ratio--16x9 br4"
           style="background:whitesmoke url({{site.baseurl}}/assets/img/{{project.img}}) center;">
         </div>
         {% endif %}
         {% if project.special == "codeart" %}
-        <a href="{{ project.url | prepend: site.baseurl }}" class="w-100 fl border-box overflow-visible"
+        <a href="{{ project.url | prepend: site.baseurl }}" class="w-100 fl border-box "
           style="background: white;">
-          <canvas resize="true" id="canvasThumbnail" style="background:#3E5D2F; height:100%;"></canvas>
+          <canvas resize="true" class="br4" id="canvasThumbnail" style="background:#3E5D2F; height:100%;"></canvas>
         </a>
         {% endif %}
       </div>
